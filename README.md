@@ -1,4 +1,6 @@
-### Fortran tools -- (C) indicates a commercial product
+### Fortran tools
+
+(C) indicates a commercial product
 
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
