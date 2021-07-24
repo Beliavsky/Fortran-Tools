@@ -55,9 +55,9 @@
 
 [gfortran-for-macOS](https://github.com/fxcoudert/gfortran-for-macOS): gfortran for macOS Intel, by fxcoudert. Gfortran installation on various platforms is discussed at [fortran-lang](https://fortran-lang.org/learn/os_setup/install_gfortran).
 
-[Lahey Fortran Professional v7.9 Windows](https://www.lahey.com/): combines the 32/64-bit LGF Rainier compiler with the classic Lahey/Fujitsu LF95 compiler. LGF Rainier has full Fortran 95/90/77 compliance with extensive support for the Fortran 2003 and 2008 standards.
+[Lahey Fortran Professional v7.9 Windows](https://www.lahey.com/): combines the 32/64-bit LGF Rainier compiler with the classic Lahey/Fujitsu LF95 compiler. LGF Rainier has full Fortran 95/90/77 compliance with extensive support for the Fortran 2003 and 2008 standards. (C)
 
-[Lahey/GNU Fortran - Rainier Edition Windows 32 & 64-bit](https://www.lahey.com/): full Fortran 95/90/77 compliance with extensive support for the Fortran 2003 and 2008 standards; targets 32 and 64-bit Windows. Includes the automatic-parallelizing GFortran compiler, Visual Studio 2015 Shell (compatible with VS2019 & VS2017), Lahey's Exclusive Visual Studio Fortran support, Winteracter WiSK Graphics package, and more
+[Lahey/GNU Fortran - Rainier Edition Windows 32 & 64-bit](https://www.lahey.com/): full Fortran 95/90/77 compliance with extensive support for the Fortran 2003 and 2008 standards; targets 32 and 64-bit Windows. Includes the automatic-parallelizing GFortran compiler, Visual Studio 2015 Shell (compatible with VS2019 & VS2017), Lahey's Exclusive Visual Studio Fortran support, Winteracter WiSK Graphics package, and more. (C)
 
 [lfortran](https://github.com/lfortran/lfortran): modern open-source (BSD licensed) interactive Fortran compiler built on top of LLVM. It can execute user's code interactively to allow exploratory work (much like Python, MATLAB or Julia) as well as compile to binaries with the goal to run user's code on modern architectures such as multi-core CPUs and GPUs.
 
