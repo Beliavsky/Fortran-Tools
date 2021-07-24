@@ -57,7 +57,7 @@
 
 [gfortran-for-macOS](https://github.com/fxcoudert/gfortran-for-macOS): gfortran for macOS Intel, by fxcoudert. Gfortran installation on various platforms is discussed at [fortran-lang](https://fortran-lang.org/learn/os_setup/install_gfortran).
 
-[IBM Fortran](https://www.ibm.com/products/fortran-compiler-family): includes the following products:
+[IBM Fortran](https://www.ibm.com/products/fortran-compiler-family):
 <br />XL Fortran for AIX®: Build optimized and tuned Fortran applications on IBM AIX.
 <br />XL Fortran for Linux: Optimize your HPC and cognitive Fortran applications for Linux on IBM Power® Systems, including the POWER9™ processors.
 <br />VS Fortran: Develop efficient applications for IBM Z® and z/VM® with IBM VS FORTRAN.
