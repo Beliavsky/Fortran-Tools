@@ -200,11 +200,15 @@ from sourceryinstitute
 
 [fortran-linter](https://github.com/uchchwhash/fortran-linter): linter for Fortran 77 using Parsec-like parsing combinators in Python, by uchchwhash
 
+[fpt - Tools for Fortran Engineering](http://simconglobal.com/fpt_summary.html) - Error Checking, Measurement and Assessment, Structural Engineering, Software Migration, Run-time Testing, and more. (C)
+
 [fsource](https://github.com/mwallerb/fsource): Fortran static analysis tool written in pure Python, by mwallerb
 
 [i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
 
 [K-scope](https://github.com/K-scope/K-scope): source code analysis tool with graphical user interface that visualizes program structures for Fortran 90 and FORTRAN 77 source code. This tool simply visualizes call tree from AST based on compiler's static analysis.
+
+[plusFORT](https://www.fortran.uk/fortran-analysis-and-refactoring-with-plusfort/plusfort-evaluation-version/pss-evaluation-starter-pack/) - multi-purpose suite of tools for analyzing and improving Fortran programs. (C)
 
 [Simple Lint GitHub Action (simple_lint)](https://github.com/NOAA-GFDL/simple_lint): runs simple lint-like actions on files in a git repository, from NOAA-GFDL. The current list of lint actions are to check for trailing whitespace, check Fortran files for use of tab characters, and check Fortran files for lines longer then a specified length.
 
