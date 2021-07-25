@@ -51,6 +51,8 @@
 ### Compilers
 [Absoft](https://www.absoft.com/): designed to build code in the most efficient way possible, the Pro Fortran compiler utilizes advanced technology. This includes load balancing, AVX and OpenMP 3.1 support, AMDAL HPC scientific and engineering math library,  Parallel versions of Lapack and BLAS libraries, Fast Data Visualization, and much more. (C)
 
+[AMD Optimizing C/C++/Fortran Compiler (AOCC)](https://developer.amd.com/amd-aocc/): high performance, production quality code generation tool. The AOCC environment provides various options to developers while building and optimizing C, C++, and Fortran applications targeting 32-bit and 64-bit Linux® platforms.
+
 [f18-llvm-project](https://github.com/flang-compiler/f18-llvm-project): fork of llvm/llvm-project for f18. In sync with f18-mlir and f18.
 
 [flang](https://github.com/flang-compiler/flang): flang (also known as "Classic Flang") is an out-of-tree Fortran compiler targeting LLVM. It is an open-sourced version of pgfortran, a commercial Fortran compiler from PGI/NVIDIA
