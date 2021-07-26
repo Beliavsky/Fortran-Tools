@@ -204,6 +204,8 @@ from sourceryinstitute
 
 [fsource](https://github.com/mwallerb/fsource): Fortran static analysis tool written in pure Python, by mwallerb
 
+[ftnchek](https://www.dsm.fordham.edu/~ftnchek/): static analyzer for Fortran 77 programs. It is designed to detect certain errors in a Fortran program that a compiler usually does not.
+
 [i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
 
 [K-scope](https://github.com/K-scope/K-scope): source code analysis tool with graphical user interface that visualizes program structures for Fortran 90 and FORTRAN 77 source code. This tool simply visualizes call tree from AST based on compiler's static analysis.
