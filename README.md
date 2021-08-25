@@ -294,3 +294,5 @@ from sourceryinstitute
 [tap](https://github.com/gzahl/tap): minimal producer implementation of the "Test Anything Protocol" (TAP) in Fortran 90, from gzahl
 
 [test-drive](https://github.com/awvwgk/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by awvwgk. Integration with meson, cmake and Fortran package manager (fpm) is available.
+
+[Vegetables](https://gitlab.com/everythingfunctional/vegetables/-/tree/main/): testing framework written using functional programming principles, by Brad Richardson. As many of its procedures as possible are marked with the pure keyword while still allowing the framework to test impure code.
