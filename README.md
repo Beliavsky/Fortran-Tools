@@ -199,9 +199,9 @@ from sourceryinstitute
 ### Preprocessors
 [f90 do nest](https://github.com/hattom/f90_do_nest): Python script to generated deeply nested do loops in Fortran, by Thomas Hayward-Schneider. It will generate "classical" nested do/enddo in f90code.F90 and also a do concurrent version in f90code_conc.F90.
 
-[fortiel](https://github.com/Jhuighuy/fortiel): Fortran preprocessor and metaprogramming engine, by Jhuighuy
+[FMacro](https://github.com/hsnyder/FMacro): template preprocessor for Fortran, by Harris Snyder. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
 
-[FtnTemple](https://github.com/hsnyder/FtnTemple): template preprocessor for Fortran, by Harris Snyder. Modern Fortran is an excellent language for scientific computing, but one of its shortcomings is the lack of strong support for generic programming. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
+[fortiel](https://github.com/Jhuighuy/fortiel): Fortran preprocessor and metaprogramming engine, by Jhuighuy
 
 [fypp](https://github.com/aradi/fypp): Python-powered preprocessor, by aradi. It can be used for any programming languages but its primary aim is to offer a Fortran preprocessor, which helps to extend Fortran with condititional compiling and template metaprogramming capabilities
 
