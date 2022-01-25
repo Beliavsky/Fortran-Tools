@@ -201,6 +201,8 @@ from sourceryinstitute
 
 [fortiel](https://github.com/Jhuighuy/fortiel): Fortran preprocessor and metaprogramming engine, by Jhuighuy
 
+[FtnTemple](https://github.com/hsnyder/FtnTemple): template preprocessor for Fortran, by Harris Snyder. Modern Fortran is an excellent language for scientific computing, but one of its shortcomings is the lack of strong support for generic programming. Aims to address Fortran's lack of support for generic programming with a simple preprocessor, modeled after some of the language committee's early ideas for a template language feature, to be included in a future Fortran standard.
+
 [fypp](https://github.com/aradi/fypp): Python-powered preprocessor, by aradi. It can be used for any programming languages but its primary aim is to offer a Fortran preprocessor, which helps to extend Fortran with condititional compiling and template metaprogramming capabilities
 
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
