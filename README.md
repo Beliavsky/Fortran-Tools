@@ -7,6 +7,7 @@
 * [Compilers](#compilers)
 * [Emacs Plugins](#emacs-plugins)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
+* [Graphics, plotting and user interfaces](#graphics-plotting-and-user-interfaces)
 * [Indentation and Formatting](#indentation-and-formatting)
 * [Interoperability](#interoperability)
 * [Parallel Programming](#parallel-programming)
@@ -147,7 +148,10 @@
 
 [GConvert](https://github.com/GeorgeTsikas/GConvert): program to convert fixed form Fortran into code that works as fixed or free form, by GeorgeTsikas.
 
-[to_f90](https://github.com/jbdv-no/to_f90) Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
+[to_f90](https://github.com/jbdv-no/to_f90): Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
+
+### Graphics, Plotting, and User Interfaces
+[giza](https://github.com/danieljprice/giza): 2D scientific plotting library built on cairo, by Daniel Price et al. Provides uniform output to pdf, ps, png and X-Windows. Written in C with no dependencies (other than cairo) as a direct replacement for PGPLOT.
 
 ### Indentation and Formatting
 [ajt-fortran.vim](https://github.com/robertodr/ajt-fortran.vim): port of Ajit J. Thakkar's Vim indent script
