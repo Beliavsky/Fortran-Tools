@@ -285,6 +285,8 @@ from sourceryinstitute
 
 [Fortran Language Server](https://github.com/hansec/fortran-language-server): A Fortran implementation of the Language Server Protocol using Python (2.7+ or 3.0+), by hansec. Editor extensions using this language server to provide autocomplete and other IDE-like functionality are available for Atom, Visual Studio Code, Visual Studio, (Neo)vim, and Emacs.
 
+[Fortran Language Server (fortls)](https://github.com/gnikit/fortls): based on @hansec's original Language Server implementation but the two projects have since diverged. fortls (this project) is now developed independently by gnikit of the upstream hansec/fortran-language-server project and contains numerous bug fixes and new features the original fortran-language-server does not.
+
 [fortran.tmbundle](https://github.com/textmate/fortran.tmbundle): TextMate support for Fortran. TextMate is a graphical text editor for macOS 10.12 or later.
 
 [fossil](https://github.com/nrwade0/Fossil): Fortran IDE designed in Python by someone eager to learn Fortran but in an easy and accessible way, by nrwade0
