@@ -49,6 +49,8 @@
 
 [makedepf90](https://github.com/outpaddling/makedepf90): generates make dependencies for Fortran code, by Erik Edelman
 
+[Makefile-maker](https://github.com/Garl4nd/Makefile-maker): automatic Fortran makefile maker, by Garl4nd. The program first scans all Fortran files for imports of other source files and creates a directed dependency graph, where each vertex represents the file and an arrow from A to B correspond to the File A depending on B.
+
 [makemake](https://github.com/janberges/makemake): Python script that generates Makefiles for modular Fortran programs, by Jan Berges. It recursively searches the working directory for .f90 files and determines their dependencies.
 
 [meson](https://github.com/mesonbuild/meson): next-generation build system
