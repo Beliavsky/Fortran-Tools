@@ -156,6 +156,8 @@
 ### Graphical User Interfaces
 [GINO](http://gino.co.uk/): high-end feature-rich API for creating complex 2D and 3D graphics and GUI applications. The GINO products are available for Fortran under Windows and Linux. (C)
 
+[gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by Vincent Magnin et al. Gtk-fortran is a partial GTK / Fortran binding written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran
+
 [Winteracter](http://winteracter.com/): GUI toolset for the Fortran programming language. It consists of various visual development tools and a substantial subroutine library. Several Fortran compilers are supported. (C)
 
 ### Indentation and Formatting
