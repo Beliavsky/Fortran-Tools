@@ -226,6 +226,8 @@ from sourceryinstitute
 
 [M_calcomp](https://github.com/urbanjost/M_calcomp): old graphics library used in conjunction with M_draw for work with old codes, by urbanjost. The CALCOMP library is a simple set of FORTRAN callable graphic routines that allows users to quickly construct plots.
 
+[M_slices](https://github.com/urbanjost/M_slices): basic slice plot module based on M_draw(3f) and built using fpm, by urbanjost. This version requires X11 Windows.
+
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to gnuplot from Fortran, by kookma
 
 [PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
