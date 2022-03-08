@@ -154,6 +154,8 @@
 [to_f90](https://github.com/jbdv-no/to_f90): Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
 
 ### Graphical User Interfaces
+[EGGX/ProCALL](https://www.ir.isas.jaxa.jp/~cyamauch/eggx_procall/): X11 graphics library for C, C++ and FORTRAN created to achieve simplicity. One can easily create 2D graphics on the X Window System by using BASIC-style drawing functions. 
+
 [GINO](http://gino.co.uk/): high-end feature-rich API for creating complex 2D and 3D graphics and GUI applications. The GINO products are available for Fortran under Windows and Linux. (C)
 
 [gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by Vincent Magnin et al. Gtk-fortran is a partial GTK / Fortran binding written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran.
