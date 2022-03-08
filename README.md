@@ -210,6 +210,8 @@ from sourceryinstitute
 ### Plotting
 [accis](https://github.com/ihutch/accis): plotting and graphics library by Ian Hutchinson. Related project: [PLOTTRACES](https://github.com/ihutch/PLOTTRACES)
 
+[asgl](https://github.com/salilab/asgl): produces a PostScript or Encapsulated PostScript file that can contain scatter plots, line plots, histograms, 2D density plots, and/or bond-and-stick plots of molecules, by Andrej Šali
+
 [CHART_COUPE](https://github.com/meom-group/CHART_COUPE): Fortran plotting package based on NCL libraries, tuned for geophysical numerical model output, from meom-group
 
 [DISLIN](https://www.dislin.de/): high-level plotting library for displaying data as curves, polar plots, bar graphs, pie charts, 3D-color plots, surfaces, contours and maps, available for several C, C++, Fortran 77 and Fortran 90/95 compilers on the operating systems Unix, Linux, FreeBSD, Windows, Mac OSX and MS-DOS. The DISLIN distributions can be used freely without any restrictions. Access to the source code and a preferred support is available via a contract.
