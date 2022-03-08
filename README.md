@@ -152,33 +152,6 @@
 
 [to_f90](https://github.com/jbdv-no/to_f90): Alan Miller's tool for converting Fortran 77 code to free-form Fortran 90 code, from jbdv-no
 
-### Plotting
-[accis](https://github.com/ihutch/accis): plotting and graphics library by Ian Hutchinson. Related project: [PLOTTRACES](https://github.com/ihutch/PLOTTRACES)
-
-[CHART_COUPE](https://github.com/meom-group/CHART_COUPE): Fortran plotting package based on NCL libraries, tuned for geophysical numerical model output, from meom-group
-
-[fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
-
-[giza](https://github.com/danieljprice/giza): 2D scientific plotting library built on cairo, by Daniel Price et al. Provides uniform output to pdf, ps, png and X-Windows. Written in C with no dependencies (other than cairo) as a direct replacement for PGPLOT.
-
-[graffer](https://github.com/jtappin/graffer): interactive tool for generating plots of data and/or functions, by James Tappin. The original graffer was an IDL program. This version provides most of the same functionality in a Fortran program using gtk-fortran and plplot for the GUI and plotting respectively. To display functions gdl (gnudatalanguage) or IDL is required.
-
-[M_calcomp](https://github.com/urbanjost/M_calcomp): old graphics library used in conjunction with M_draw for work with old codes, by urbanjost. The CALCOMP library is a simple set of FORTRAN callable graphic routines that allows users to quickly construct plots.
-
-[ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
-
-[PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
-
-[PGPLOT](https://sites.astro.caltech.edu/~tjp/pgplot/) PGPLOT Graphics Subroutine Library is a Fortran- or C-callable, device-independent graphics package for making simple scientific graphs, by Tim Pearson. It is intended for making graphical images of publication quality with minimum effort on the part of the user. For most applications, the program can be device-independent, and the output can be directed to the appropriate device at run time.
-
-[PLplot](http://plplot.org/): can be used to create standard x-y plots, semi-log plots, log-log plots, contour plots, 3D surface plots, mesh plots, bar charts and pie charts. Multiple graphs (of the same or different sizes) may be placed on a single page, and multiple pages are allowed for those device formats that support them. C library with bindings to Fortran 2003 and many other languages.
-
-[PlPlotLib](https://github.com/zoziha/PlPlotLib): wrapper for PlPlot inspired by the interface of matplotlib, by zoziha. It is intended to fill the need for rapid feedback while developing numerical simulations, and does not replace more sophisticated packages such as matplotlib or even direct use of PlPlot.
-
-[PyFerret](https://github.com/NOAA-PMEL/PyFerret): Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets, from NOAA/PMEL. It runs on recent Unix and Mac systems, using X windows for display. PyFerret, introduced in 2012, is a Python module wrapping Ferret.
-
-[pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran): generate plots from Fortran using Python's matplotlib.pyplot, by jacobwilliams
-
 ### Indentation and Formatting
 [ajt-fortran.vim](https://github.com/robertodr/ajt-fortran.vim): port of Ajit J. Thakkar's Vim indent script
 
@@ -225,6 +198,37 @@ MPI-3.1 standard from the Argonne National Laboratory
 
 [OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
 from sourceryinstitute
+
+### Plotting
+[accis](https://github.com/ihutch/accis): plotting and graphics library by Ian Hutchinson. Related project: [PLOTTRACES](https://github.com/ihutch/PLOTTRACES)
+
+[CHART_COUPE](https://github.com/meom-group/CHART_COUPE): Fortran plotting package based on NCL libraries, tuned for geophysical numerical model output, from meom-group
+
+[DISLIN](https://www.dislin.de/): high-level plotting library for displaying data as curves, polar plots, bar graphs, pie charts, 3D-color plots, surfaces, contours and maps, available for several C, C++, Fortran 77 and Fortran 90/95 compilers on the operating systems Unix, Linux, FreeBSD, Windows, Mac OSX and MS-DOS. The DISLIN distributions can be used freely without any restrictions. Access to the source code and a preferred support is available via a contract.
+
+[fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with Gnuplot, by jchristopherson
+
+[giza](https://github.com/danieljprice/giza): 2D scientific plotting library built on cairo, by Daniel Price et al. Provides uniform output to pdf, ps, png and X-Windows. Written in C with no dependencies (other than cairo) as a direct replacement for PGPLOT.
+
+[gnufor2](https://bitbucket.org/alberto743/gnufor2/src/master/): Fortran 90 module by Alexey Kuznetsov with subroutines for plotting data, including 2D, 3D plots, surfaces, polar coordinates, and histograms. It is a modification of the [GNUFOR](https://people.math.sc.edu/Burkardt/f_src/gnufor/gnufor.html) interface written by John Burkardt.
+
+[graffer](https://github.com/jtappin/graffer): interactive tool for generating plots of data and/or functions, by James Tappin. The original graffer was an IDL program. This version provides most of the same functionality in a Fortran program using gtk-fortran and plplot for the GUI and plotting respectively. To display functions gdl (gnudatalanguage) or IDL is required.
+
+[M_calcomp](https://github.com/urbanjost/M_calcomp): old graphics library used in conjunction with M_draw for work with old codes, by urbanjost. The CALCOMP library is a simple set of FORTRAN callable graphic routines that allows users to quickly construct plots.
+
+[ogpf](https://github.com/kookma/ogpf): Object-Based Interface to GnuPlot from Fortran, by kookma
+
+[PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
+
+[PGPLOT](https://sites.astro.caltech.edu/~tjp/pgplot/) PGPLOT Graphics Subroutine Library is a Fortran- or C-callable, device-independent graphics package for making simple scientific graphs, by Tim Pearson. It is intended for making graphical images of publication quality with minimum effort on the part of the user. For most applications, the program can be device-independent, and the output can be directed to the appropriate device at run time.
+
+[PLplot](http://plplot.org/): can be used to create standard x-y plots, semi-log plots, log-log plots, contour plots, 3D surface plots, mesh plots, bar charts and pie charts. Multiple graphs (of the same or different sizes) may be placed on a single page, and multiple pages are allowed for those device formats that support them. C library with bindings to Fortran 2003 and many other languages.
+
+[PlPlotLib](https://github.com/zoziha/PlPlotLib): wrapper for PlPlot inspired by the interface of matplotlib, by zoziha. It is intended to fill the need for rapid feedback while developing numerical simulations, and does not replace more sophisticated packages such as matplotlib or even direct use of PlPlot.
+
+[PyFerret](https://github.com/NOAA-PMEL/PyFerret): Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets, from NOAA/PMEL. It runs on recent Unix and Mac systems, using X windows for display. PyFerret, introduced in 2012, is a Python module wrapping Ferret.
+
+[pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran): generate plots from Fortran using Python's matplotlib.pyplot, by jacobwilliams
 
 ### Preprocessors
 [f90 do nest](https://github.com/hattom/f90_do_nest): Python script to generated deeply nested do loops in Fortran, by Thomas Hayward-Schneider. It will generate "classical" nested do/enddo in f90code.F90 and also a do concurrent version in f90code_conc.F90.
