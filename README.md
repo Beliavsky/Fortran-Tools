@@ -212,6 +212,8 @@ from sourceryinstitute
 
 [gnufor2](https://bitbucket.org/alberto743/gnufor2/src/master/): Fortran 90 module by Alexey Kuznetsov with subroutines for plotting data, including 2D, 3D plots, surfaces, polar coordinates, and histograms. It is a modification of the [GNUFOR](https://people.math.sc.edu/Burkardt/f_src/gnufor/gnufor.html) interface written by John Burkardt.
 
+[gnuplotfortran](http://gnuplotfortran.sourceforge.net/): Fortran 95 Gnuplot interface for some Unix-like OS'es, by Madhusudan Singh. This provides some routines that enables direct access of a child gnuplot session from a Fortran 95 program. [fortranposix](https://sourceforge.net/projects/fortranposix/) must be installed.
+
 [graffer](https://github.com/jtappin/graffer): interactive tool for generating plots of data and/or functions, by James Tappin. The original graffer was an IDL program. This version provides most of the same functionality in a Fortran program using gtk-fortran and plplot for the GUI and plotting respectively. To display functions gdl (gnudatalanguage) or IDL is required.
 
 [M_calcomp](https://github.com/urbanjost/M_calcomp): old graphics library used in conjunction with M_draw for work with old codes, by urbanjost. The CALCOMP library is a simple set of FORTRAN callable graphic routines that allows users to quickly construct plots.
