@@ -234,6 +234,8 @@ from sourceryinstitute
 
 [M_slices](https://github.com/urbanjost/M_slices): basic slice plot module based on M_draw(3f) and built using fpm, by urbanjost. This version requires X11 Windows.
 
+[MUESLI](https://perso.univ-rennes1.fr/edouard.canot/muesli/): numerical and graphical library, written mainly in Fortran 95, by Édouard Canot. Fortran Muesli Library contains all necessary materials to numerically work with a dynamic array (dynamic in size, type and structure), called mfArray. Fortran Graphics Library contains graphics routines which use the mfArray objects.
+
 [ogpf](https://github.com/kookma/ogpf): Object-Based Interface to gnuplot from Fortran, by kookma
 
 [PG2PLplot](https://github.com/AstroFloyd/PG2PLplot): facilitate the transition from Fortran code linked against [PGPlot](https://sites.astro.caltech.edu/~tjp/pgplot/) to linking it against [PLplot](http://plplot.sourceforge.net/), which is open source and maintained. Currently, many PGPlot routines are included, but the code is by no means exhaustive.
