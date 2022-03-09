@@ -355,7 +355,7 @@ from sourceryinstitute
 
 [neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 
-[Simply Fortran](http://simplyfortran.com/): modern Fortran development environment for Microsoft Windows, Apple macOS, and GNU/Linux systems. Free 30-day trial. (C)
+[Simply Fortran](http://simplyfortran.com/): modern Fortran development environment for Microsoft Windows, Apple macOS, and GNU/Linux systems. It includes the Aplot library for creating two-dimensional graphs and plots quickly from Fortran routines. Free 30-day trial. (C)
 
 [SublimeLinterFortran](https://github.com/Panadestein/SublimeLinterFortran): linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to gfortran, by Ramón L. Panadés-Barrueta and Tejas Shetty. It will be used with files that have free format Fortran syntax.
 
