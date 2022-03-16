@@ -76,8 +76,6 @@
 
 [FTN_Getopt](https://doku.lrz.de/dyn/Doku_Kurse/Fortran/getopt/): supplies a method for handling command arguments in a manner similar to the getopt facility in C, by Reinhold Bader 
 
-[libSUFR](https://github.com/MarcvdSluys/libSUFR) by [Marc van der Sluys](https://github.com/MarcvdSluys)
-
 [M_CLI](https://github.com/urbanjost/M_CLI): cracks the command line when given a NAMELIST and a prototype string that looks very much like an invocation of the program, by urbanjost and Laurence Kedward. Using the NAMELIST group has the benefit that there is no requirement to convert the strings to their required types or to duplicate the type declarations.
 
 [M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost et al. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
