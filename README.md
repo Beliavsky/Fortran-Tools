@@ -4,6 +4,7 @@
 
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
+* [Command Line Parsing](#command-line-parsing)
 * [Compilers](#compilers)
 * [Emacs Plugins](#emacs-plugins)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
@@ -63,6 +64,23 @@
 [run-fortran](https://github.com/lycantropos/run-fortran): sorts Fortran files based on modules definitions and usages, by lycantropos
 
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
+
+### Command Line Parsing
+[cmdff](https://gitlab.com/everythingfunctional/cmdff) by @everythingfunctional 
+
+[command_args](http://flibs.sourceforge.net/command_args.html) by @Arjen 
+
+[FTN_Getopt](https://doku.lrz.de/dyn/Doku_Kurse/Fortran/getopt/) by @Reinhold_Bader 
+
+[libSUFR](https://github.com/MarcvdSluys/libSUFR) by [Marc van der Sluys](https://github.com/MarcvdSluys)
+
+[FLAP](https://github.com/szaghi/FLAP) by [Stefano Zaghi](https://github.com/szaghi)
+
+[M_CLI](https://github.com/urbanjost/M_CLI) and [M_CLI2](https://github.com/urbanjost/M_CLI2) by @urbanjost
+
+[f90getopt](https://github.com/haniibrahim/f90getopt) by [Hani Andreas Ibrahim](https://github.com/haniibrahim)
+
+[optionsf90](https://github.com/cngilbreth/optionsf90) by [Christopher N. Gilbreth](https://github.com/cngilbreth)
 
 ### Compilers
 [Absoft](https://www.absoft.com/): designed to build code in the most efficient way possible, the Pro Fortran compiler utilizes advanced technology. This includes load balancing, AVX and OpenMP 3.1 support, AMDAL HPC scientific and engineering math library,  Parallel versions of Lapack and BLAS libraries, Fast Data Visualization, and much more. (C)
