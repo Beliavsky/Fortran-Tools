@@ -66,21 +66,23 @@
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
 
 ### Command Line Parsing
-[cmdff](https://gitlab.com/everythingfunctional/cmdff) by @everythingfunctional 
+[cmdff](https://gitlab.com/everythingfunctional/cmdff): makes nicer command lines for Fortran codes, by Brad Richardson
 
-[command_args](http://flibs.sourceforge.net/command_args.html) by @Arjen 
+[command_args](http://flibs.sourceforge.net/command_args.html): automatically handles the command-line arguments that are passed to the program, by Arjen Markus
 
-[FTN_Getopt](https://doku.lrz.de/dyn/Doku_Kurse/Fortran/getopt/) by @Reinhold_Bader 
+[f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim, based on code by Mark Gates
+
+[FLAP](https://github.com/szaghi/FLAP): library designed to simplify the (repetitive) construction of complicated CLI in Fortran 2003, by Stefano Zaghi. FLAP has been inspired by the python module argparse and tries to mimic it.
+
+[FTN_Getopt](https://doku.lrz.de/dyn/Doku_Kurse/Fortran/getopt/): supplies a method for handling command arguments in a manner similar to the getopt facility in C, by Reinhold Bader 
 
 [libSUFR](https://github.com/MarcvdSluys/libSUFR) by [Marc van der Sluys](https://github.com/MarcvdSluys)
 
-[FLAP](https://github.com/szaghi/FLAP) by [Stefano Zaghi](https://github.com/szaghi)
+[M_CLI](https://github.com/urbanjost/M_CLI): cracks the command line when given a NAMELIST and a prototype string that looks very much like an invocation of the program, by urbanjost and Laurence Kedward. Using the NAMELIST group has the benefit that there is no requirement to convert the strings to their required types or to duplicate the type declarations.
 
-[M_CLI](https://github.com/urbanjost/M_CLI) and [M_CLI2](https://github.com/urbanjost/M_CLI2) by @urbanjost
+[M_CLI2](https://github.com/urbanjost/M_CLI2): cracks the command line when given a prototype string that looks very much like an invocation of the program, by urbanjost et al. A call to get_args(3f) or one of its variants is then made for each parameter name to set the variables appropriately in the program.
 
-[f90getopt](https://github.com/haniibrahim/f90getopt) by [Hani Andreas Ibrahim](https://github.com/haniibrahim)
-
-[optionsf90](https://github.com/cngilbreth/optionsf90) by [Christopher N. Gilbreth](https://github.com/cngilbreth)
+[optionsf90](https://github.com/cngilbreth/optionsf90): module for defining and parsing command-line options and input parameters for Fortran programs, by Christopher N. Gilbreth. Its design is inspired by Python's optparse module.
 
 ### Compilers
 [Absoft](https://www.absoft.com/): designed to build code in the most efficient way possible, the Pro Fortran compiler utilizes advanced technology. This includes load balancing, AVX and OpenMP 3.1 support, AMDAL HPC scientific and engineering math library,  Parallel versions of Lapack and BLAS libraries, Fast Data Visualization, and much more. (C)
