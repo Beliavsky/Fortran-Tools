@@ -371,6 +371,8 @@ from sourceryinstitute
 
 [linter-gfortran](https://github.com/AtomLinter/linter-gfortran): linting Fortran code in [Atom](https://github.com/atom) with gfortran
 
+[FortranCodeNav](https://github.com/tiemenschreuder/FortranCodeNav): Visual Studio Extension which helps navigate modern Fortran code, by Tiemen Schreuder. It contains several parsers to generate a code structure representation which is used to provide jump-to and search functionality with limited context-awareness.
+
 [Fortran IntelliJ Idea plugin](https://github.com/satamas/fortran-plugin): Fortran language plugin for IntelliJ Idea, by satamas
 
 [Fortran Language Server](https://github.com/hansec/fortran-language-server): A Fortran implementation of the Language Server Protocol using Python (2.7+ or 3.0+), by hansec. Editor extensions using this language server to provide autocomplete and other IDE-like functionality are available for Atom, Visual Studio Code, Visual Studio, (Neo)vim, and Emacs.
