@@ -246,6 +246,8 @@ from sourceryinstitute
 
 [DISLIN](https://www.dislin.de/): high-level plotting library for displaying data as curves, polar plots, bar graphs, pie charts, 3D-color plots, surfaces, contours and maps, available for several C, C++, Fortran 77 and Fortran 90/95 compilers on the operating systems Unix, Linux, FreeBSD, Windows, Mac OSX and MS-DOS. The DISLIN distributions can be used freely without any restrictions. Access to the source code and a preferred support is available via a contract.
 
+[Dislin_x_y_plot](https://github.com/andizuend/Dislin_x_y_plot): generates plots from within a Fortran program nearly as easily as with the provided [Dislin](https://www.dislin.de/) "quickplots", by Andi Zuend. However, unlike the quickplots, this module offers a lot more options for controlling the plot page, axis system and various curve properties. It also makes adding multiple x--y data sets (curves) to a single plot easy.
+
 [fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with gnuplot, by jchristopherson
 
 [fortplot](https://github.com/asarkar2/fortplot): plot module for Fortran so that plotting can be done in real time (on the fly), by Anjishnu Sarkar
