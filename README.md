@@ -206,13 +206,13 @@
 
 [f90wrap](https://github.com/jameskermode/f90wrap): Fortran 90 to Python interface generator with derived type support, by jameskermode et al.
 
+[Fortran filesystem](https://github.com/scivision/fortran-filesystem): file system path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
+
 [FORTRAN format interpreter for Python (py-fortranformat)](https://github.com/brendanarnold/py-fortranformat): Generates text from a Python list of variables or will read a line of text into Python variables according to the FORTRAN format statement passed, by Brendan Arnold and michaelackermannaiub
 
 [FortranNamelist](https://github.com/jonathanschilling/FortranNamelist): Java reading class for Fortran namelists, by Jonathan Schilling
 
 [Fortran Namelist Reader](https://github.com/scivision/fortran-namelist): Python and Matlab readers for Fortran namelist => dict / struct, from scivision
-
-[Fortran pathlib](https://github.com/scivision/fortran-pathlib): file system path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
 
 [fortran-unix](https://github.com/interkosmos/fortran-unix): Fortran 2008 ISO C binding interfaces to selected POSIX and SysV types, functions, and routines on 64-bit Unix-like operating systems, by interkosmos
 
