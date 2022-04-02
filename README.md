@@ -436,6 +436,8 @@ from sourceryinstitute
 
 [f4go](https://github.com/Konstantin8105/f4go): Transpiling Fortran code to golang code, by Konstantin8105
 
+[F77Ccompiler](https://github.com/sthfaceless/F77Ccompiler): compiler from Fortran 77 to C, by Danil
+
 [fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
 
 ### Translation to Fortran
