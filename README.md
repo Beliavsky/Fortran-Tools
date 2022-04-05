@@ -245,6 +245,8 @@ MPI-3.1 standard from the Argonne National Laboratory
 [OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
 from sourceryinstitute
 
+[stng](https://github.com/uwplse/stng): compiler for Fortran stencils using verified lifting, by Alvin Cheung et al. It takes input codes in Fortran and automatically rewrites them to Halide, a new high-performance domain-specific language that leverages GPUs for computation.
+
 ### Plotting
 [accis](https://github.com/ihutch/accis): plotting and graphics library by Ian Hutchinson. Related project: [PLOTTRACES](https://github.com/ihutch/PLOTTRACES)
 
