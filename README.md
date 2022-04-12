@@ -206,6 +206,8 @@
 
 [f90wrap](https://github.com/jameskermode/f90wrap): Fortran 90 to Python interface generator with derived type support, by jameskermode et al.
 
+[fimport](https://github.com/pv/fimport): Python import hook for importing Fortran module, by Pauli Virtanen
+
 [Fortran filesystem](https://github.com/scivision/fortran-filesystem): file system path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
 
 [FORTRAN format interpreter for Python (py-fortranformat)](https://github.com/brendanarnold/py-fortranformat): Generates text from a Python list of variables or will read a line of text into Python variables according to the FORTRAN format statement passed, by Brendan Arnold and michaelackermannaiub
