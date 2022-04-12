@@ -1,7 +1,7 @@
 ### Fortran Tools
 
 (C) indicates a commercial product
-
+* [Automatic Differentiation](#automatic-differentiation)
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
 * [Command Line Parsing](#command-line-parsing)
@@ -22,6 +22,17 @@
 * [Translation to Fortran](#translation-to-fortran)
 * [Unclassified](#unclassified)
 * [Unit Testing](#unit-testing)
+
+### Automatic Differentiation
+[adjac](https://github.com/pv/adjac): automatic differentiation for generating sparse Jacobians, using Fortran 95 and operator overloading, by Pauli Virtanen
+
+[autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
+
+[Auto-Diff](https://github.com/zoziha/Auto-Diff): implementation in Modern Fortran of backward mode automatic differentiation, by zoziha.
+
+[Dual Number Automatic Differentiation (DNAD)](https://github.com/joddlehod/dnad): update of code from Yu, W. and Blair, M.: "DNAD, a Simple Tool for Automatic Differentiation of Fortran Codes Using Dual Numbers," Computer Physics Communications, vol. 184, 2013, pp. 1446-1452, by oddlehod. Related project: [Fortran_DNAD](https://github.com/nickbrady/Fortran_DNAD)
+
+[fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang
 
 ### Automatic Documentation
 [Doxygen](https://github.com/doxygen/doxygen): generates an on-line documentation browser (in HTML) and/or an off-line reference manual (in LaTeX) from a set of documented source files. There is also support for generating output in RTF (MS-Word), PostScript, hyperlinked PDF, compressed HTML, DocBook and Unix man pages. 
