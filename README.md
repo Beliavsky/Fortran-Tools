@@ -219,6 +219,8 @@
 
 [F2x](https://github.com/DLR-SC/F2x): versatile, template-based Fortran wrapper written in Python. Compared to the popular tool f2py it comes with two important differences: a full Fortran parser based on the work by the OpenFortranParser, and a very flexible code generation backend that uses Jinja2 templates.
 
+[f90nml](https://github.com/marshallward/f90nml): Python module and command line tool, by Marshall Ward et al., that provides a simple interface for the reading, writing, and modifying Fortran namelist files. A namelist file is parsed and converted into an Namelist object, which behaves like a standard Python dict
+
 [f90wrap](https://github.com/jameskermode/f90wrap): Fortran 90 to Python interface generator with derived type support, by jameskermode et al.
 
 [fimport](https://github.com/pv/fimport): Python import hook for importing Fortran module, by Pauli Virtanen
