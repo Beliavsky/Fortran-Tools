@@ -38,6 +38,8 @@
 
 [Tapenade](https://team.inria.fr/ecuador/en/tapenade/): automatic differentiation engine developed at Inria. It can be run online or be downloaded and installed locally as a set of Java classes (JAR archive).
 
+[Transformation of Algorithms in Fortran (TAF)](http://fastopt.de/products/taf/taf.shtml): source-to-source translator for Fortran 77-95 code, i.e. TAF accepts Fortran 77-95 code as input, applies a semantic transformation, and generates Fortran 77-95 code. TAF supports several semantic transformations. The most important one is Automatic Differentiation (AD), i.e. generation of code for evaluation of the first-order derivative (Jacobian matrix). (C)
+
 ### Automatic Documentation
 [Doxygen](https://github.com/doxygen/doxygen): generates an on-line documentation browser (in HTML) and/or an off-line reference manual (in LaTeX) from a set of documented source files. There is also support for generating output in RTF (MS-Word), PostScript, hyperlinked PDF, compressed HTML, DocBook and Unix man pages. 
 
