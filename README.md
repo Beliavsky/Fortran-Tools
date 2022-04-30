@@ -497,6 +497,8 @@ from sourceryinstitute
 
 [Fortran Debug Utilities](https://github.com/plevold/fortran-debug-utils): collection of some utilities useful for debugging code, by Pål Levold
 
+[Fortran-gdb-pp](https://github.com/ZedThree/Fortran-gdb-pp): gdb pretty printer for Fortran dynamic types, by Peter Hill
+
 [fortran-git](https://github.com/interkosmos/fortran-git): Fortran 2008 ISO C binding interfaces to [libgit2](https://github.com/libgit2/libgit2), by interkosmos
 
 [Fortran-RefCount](https://github.com/LadaF/Fortran-RefCount): simple reference counting for Fortran
