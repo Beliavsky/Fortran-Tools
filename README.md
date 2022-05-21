@@ -251,6 +251,8 @@
 
 [gfort2py](https://github.com/rjfarmer/gfort2py): library to allow calling Fortran code compiled with gfortran from Python 2.7 or Python 3, by Robert Farmer and Ondřej Čertík
 
+[h2m-Autofortran-Tool](https://github.com/Kaiveria/h2m-Autofortran-Tool): allow easy calls to C routines from Fortran programs, by Garnet Liu and Michelle Anderson. Given a header file in standard C, h2m will produce a Fortran module providing function interfaces which maintain interoperability with C. Features for which there are no Fortran equivalents will not be translated and warnings will be written to standard error.
+
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
 [M_process](https://github.com/urbanjost/M_process): read and write lines to or from a process from Fortran via a C wrapper, by urbanjost
