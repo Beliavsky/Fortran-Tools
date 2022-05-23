@@ -165,6 +165,8 @@
 ### Emacs Plugins
 [align-f90](https://github.com/jannisteunissen/align-f90): alignment support for Fortran 90 in Emacs, by jannisteunissen
 
+[Doom Emacs](https://github.com/doomemacs/doomemacs/tree/master/modules/lang/fortran): enables a complete, modern development environment for Fortran
+
 [Emacs](https://github.com/emacs-mirror/emacs): extensible, customizable, free text editor. Download [here](https://www.gnu.org/software/emacs/download.html).
 
 [f90-iface](https://github.com/wence-/f90-iface): Emacs-based browser for Fortran 90 generic interfaces, by wence- and monnier
