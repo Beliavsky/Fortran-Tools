@@ -493,6 +493,8 @@ from sourceryinstitute
 
 [fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
 
+[fortran2julia](https://github.com/TomRottier/fortran2julia): Parses to JSON by [fortran-parser](https://github.com/robinrottier/fortran-parser), after which parse.jl converts to JSON to Julia, by Tom Rottier. Requires dotnet runtime to be installed. 
+
 ### Translation to Fortran
 [c2f](https://github.com/Beliavsky/c2f): partial C to Fortran translator by David Frank
 
