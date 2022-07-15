@@ -478,6 +478,8 @@ from sourceryinstitute
 
 [vscode-modern-fortran-formatter](https://github.com/yukiuuh/vscode-modern-fortran-formatter): formatter extension for modern Fortran using fprettify, by Yuki Hanayama
 
+[Yapakit](http://yapakit.fortran.pagesperso-orange.fr/): free Fortran source code editor for Windows, Linux or Mac. It can automatically an html documentation of a project and generate Fortran 90 dependencies for inclusion in a makefile, taking module dependencies into account
+
 ### Translation from Fortran
 [f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
 
