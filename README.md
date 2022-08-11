@@ -350,6 +350,8 @@ from sourceryinstitute
 [SPLASH](https://github.com/danieljprice/splash): visualisation tool for Smoothed Particle Hydrodynamics (SPH) simulations in one, two and three dimensions, developed mainly for astrophysics, by Daniel Price et al. It uses a command-line menu but data can be manipulated interactively in the plotting window. SPLASH can also be used as a standalone plotting tool for any kind of tabulated or image data from ascii, csv or .fits files.
 
 ### Preprocessors
+[efpp](https://github.com/akageyama/efpp): preprocessor for eFortran, a dialect of modern Fortran presented in S. Hosoyamada and A. Kageyama, [A Dialect of Modern Fortran for Simulations in Methods and Applications for Modeling and Simulation of Complex Systems](https://link.springer.com/chapter/10.1007/978-981-13-2853-4_34), Communications in Computer and Information Science, vol 946, pages 439-448, 2018 (Proceedings of AsiaSim2018).
+
 [exceptions](https://github.com/arjenmarkus/exceptions): experiment with exceptions in Fortran via a simple preprocessing step, by Arjen Markus
 
 [f90 do nest](https://github.com/hattom/f90_do_nest): Python script to generated deeply nested do loops in Fortran, by Thomas Hayward-Schneider. It will generate "classical" nested do/enddo in f90code.F90 and also a do concurrent version in f90code_conc.F90.
