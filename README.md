@@ -47,6 +47,8 @@
 
 [ford](https://github.com/Fortran-FOSS-Programmers/ford): Automatically generates FORtran Documentation from comments within the code, from Fortran-FOSS-Programmers
 
+[ProTeX](http://wiki.seas.harvard.edu/geos-chem/index.php/Automatic_documentation_with_protex): Perl script that can strip information from a standard Fortran document header and save that to a LaTeX file, by Arlindo Da Silva et al.
+
 ### Build Tools
 [easy](https://github.com/urbanjost/easy): steps to setup a GitHub repository with fpm, and GitHub actions including ford(1) documentation and unit tests, by urbanjost
 
