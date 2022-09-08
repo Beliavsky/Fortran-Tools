@@ -84,6 +84,8 @@
 
 [mkhelper](https://github.com/skosukhin/mkhelper): collection of utilities to be used with GNU Autoconf and GNU Make for building Fortran projects, by skosukhin
 
+[pyfpm](https://github.com/awvwgk/pyfpm): provides a pydantic model of the fpm package manifest format used in the Fortran package manager, by Sebastian Ehlert
+
 [run-fortran](https://github.com/lycantropos/run-fortran): sorts Fortran files based on modules definitions and usages, by lycantropos
 
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
