@@ -243,6 +243,8 @@
 
 [fimport](https://github.com/pv/fimport): Python import hook for importing Fortran module, by Pauli Virtanen
 
+[Fortran90Namelists.jl](https://github.com/singularitti/Fortran90Namelists.jl): Julia implementation of Python [f90nml](https://github.com/marshallward/f90nml) for working with Fortran namelists
+
 [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl): Julia package for reading/writing Fortran unformatted (i.e. binary) files, by Frank Otto et al.
 
 [Fortran filesystem](https://github.com/scivision/fortran-filesystem): file system path manipulation utilities for standard Fortran, from scivision. Inspired by Python pathlib and C++17 filesystem.
