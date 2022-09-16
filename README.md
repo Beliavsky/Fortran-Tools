@@ -84,6 +84,8 @@
 
 [mkhelper](https://github.com/skosukhin/mkhelper): collection of utilities to be used with GNU Autoconf and GNU Make for building Fortran projects, by skosukhin
 
+[mkmf](https://github.com/NOAA-GFDL/mkmf): tool written in perl5 that will construct a makefile from distributed source, from NOAA-GFDL. A single executable program is the typical result.
+
 [pyfpm](https://github.com/awvwgk/pyfpm): provides a pydantic model of the fpm package manifest format used in the Fortran package manager, by Sebastian Ehlert
 
 [run-fortran](https://github.com/lycantropos/run-fortran): sorts Fortran files based on modules definitions and usages, by lycantropos
