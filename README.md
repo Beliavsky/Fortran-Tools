@@ -302,6 +302,8 @@ from sourceryinstitute
 
 [stng](https://github.com/uwplse/stng): compiler for Fortran stencils using verified lifting, by Alvin Cheung et al. It takes input codes in Fortran and automatically rewrites them to Halide, a new high-performance domain-specific language that leverages GPUs for computation.
 
+[System FOR Automated Parallelization (SAPFOR)](https://github.com/dvm-system/sapfor): software development suite that is focused on cost reduction of manual program parallelization, by kaniandr and zoocide. It was primarily designed to perform a source-to-source transformation of a sequential program for execution on heterogeneous clusters.
+
 ### Plotting
 [accis](https://github.com/ihutch/accis): plotting and graphics library by Ian Hutchinson. Related project: [PLOTTRACES](https://github.com/ihutch/PLOTTRACES)
 
