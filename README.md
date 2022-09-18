@@ -409,6 +409,8 @@ from sourceryinstitute
 
 [Forcheck](http://www.codework-solutions.com/development-tools/forcheck-fortran-analysis/): oldest and most comprehensive Fortran analysis tool on the market. It performs a static analysis of a Fortran program or separate Fortran program units. (C)
 
+[fortree](https://github.com/EstherTaillifet/fortree): Python app that creates call trees of your Fortran code, by Esther Taillifet. Fortree makes call trees, definition trees and dependencies trees.
+
 [ForUML](https://github.com/t2time/ForUML): reverse engineering tool that generates Unified Modeling Language (UML) class diagrams from object-oriented Fortran programs, by azizn and Damian Rouson. ForUML understands and diagrams Fortran class relationships, including inheritance and aggregation. ForUML also detects and depicts operator overloading, constructors, and parallel data structures (coarrays).
 
 [fortlint](https://github.com/ratnania/fortlint): Fortran static source code analysis for more secured and bug free applications
