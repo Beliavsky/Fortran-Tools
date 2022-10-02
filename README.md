@@ -90,6 +90,8 @@
 
 [run-fortran](https://github.com/lycantropos/run-fortran): sorts Fortran files based on modules definitions and usages, by lycantropos
 
+[verbose-goggles](https://github.com/goddard-guryon/verbose-goggles): Generates Fortran project templates, by Goddard Guryon. The create_project.sh script takes a project name (and optionally a project directory name) as inputs, creates the project folder, the build and docs folders within it, and saves template files for CMake and Doxygen.
+
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
 
 ### Command Line Parsing
