@@ -547,6 +547,8 @@ from sourceryinstitute
 
 [fortran-sigwatch](https://github.com/scivision/fortran-sigwatch): library of routines to provide simple signal watching for Fortran programs, originally by Norman Gray, modified by Michael Hirsch. This allows a minimal level of control of a running program from outside it, for example to tell it to checkpoint itself on receipt of a signal.
 
+[Fortran-Standard-Search](https://github.com/vmagnin/Fortran-Standard-Search): shell script searching a string in the titles of the subsection of the Fortran standard, and opening the pages in a PDF viewer, by Vincent Magnin. It is based on pdfgrep, cut and okular.
+
 [FORTRAN Testing Framework (FTFramework)](https://github.com/agforero/FTFramework): collection of Python and Bash scripts to enable easy testing of Fortran compilers using BATS, by agforero
 
 [irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
