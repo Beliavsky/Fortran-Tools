@@ -200,6 +200,8 @@
 [fprettify.el](https://github.com/osada-yum/fprettify.el): interface to fprettify, auto-formatter for modern Fortran code, by osada-yum
 
 ### Fixed to Free Source Form Conversion
+[ccx_fff](https://github.com/calculix/ccx_fff): Python script converting old Fortran 77 code to the one with free form, from calculix. Shifts comments and continuation marks for better code folding. 
+
 [EZUP](https://github.com/Beliavsky/EZUP): tool to convert Fortran fixed source form to free source form to be compatible with [ELF90](http://www.lahey.com/elfpage.htm), by August Miller
 
 [f2f](https://github.com/MRedies/f2f_mirror): Perl script which does much of the tedious work of converting FORTRAN 77 source code into modern Fortran, by Colby Lemon
