@@ -6,6 +6,7 @@
 * [Build Tools](#build-tools)
 * [Command Line Parsing](#command-line-parsing)
 * [Compilers](#compilers)
+* [Debugging](#debugging)
 * [Emacs Plugins](#emacs-plugins)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
 * [Graphical User Interfaces](#graphical-user-interfaces)
@@ -175,6 +176,9 @@
 [VSI Fortran for OpenVMS](https://vmssoftware.com/products/fortran/): supports the FORTRAN 66, FORTRAN 77, Fortran 90, and Fortran 95 standards
 
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
+
+### Debugging
+[Fortran Stacktrace](https://github.com/SINTEF/fortran-stacktrace): generates stack traces by providing a Fortran wrapper around the C++ library backward-cpp. It also integrates with the Fortran error-handling library in order to generate errors that includes a stacktrace.
 
 ### Emacs Plugins
 [align-f90](https://github.com/jannisteunissen/align-f90): alignment support for Fortran 90 in Emacs, by jannisteunissen
