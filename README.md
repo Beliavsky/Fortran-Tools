@@ -180,6 +180,8 @@
 ### Debugging
 [Fortran Stacktrace](https://github.com/SINTEF/fortran-stacktrace): generates stack traces by providing a Fortran wrapper around the C++ library [backward-cpp](https://github.com/bombela/backward-cpp). It also integrates with the Fortran error-handling library in order to generate errors that includes a stacktrace.
 
+[ups](https://github.com/sth/ups): source level C, C++ and Fortran debugger that runs under X11, by Mark Russell. Currently supported systems are FreeBSD and GNU/Linux on Intel x86 and Solaris on SPARC.
+
 ### Emacs Plugins
 [align-f90](https://github.com/jannisteunissen/align-f90): alignment support for Fortran 90 in Emacs, by jannisteunissen
 
