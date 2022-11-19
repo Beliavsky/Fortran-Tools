@@ -299,6 +299,8 @@
 
 [Simplified Wrapper and Interface Generator (SWIG)](https://github.com/swig-fortran/swig): creates Fortran wrapper code from C++ headers
 
+[SUtools](https://github.com/bnaras/SUtools): Tools for autogenerating Fortran registration code for R, by Balasubramanian Narasimhan
+
 [vecLibFort](https://github.com/mcg1969/vecLibFort): lightweight but flexible "shim" designed to rectify the incompatibilities between the Accelerate/vecLib BLAS and LAPACK libraries shipped with Mac OS X and FORTRAN code compiled with modern compilers such as GNU Fortran, by Michael C. Grant and Robert Huston
 
 ### Parallel Programming
