@@ -417,6 +417,8 @@ from sourceryinstitute
 
 [Cleanscape FortranLint](https://stellar.cleanscape.net/products/fortranlint/): static source code analysis tool that reduces your organizational exposure to risks from latent software problems by automatically identifying problems at their source -- in the Fortran code prior to compiling or executing programs. (C)
 
+[CompareFortranNamelists](https://github.com/kellekai/CompareFortranNamelists): Python class to compare Fortran namelists, by Kai Keller
+
 [Code Comprehension Assistance for Evidence-Based performance Tuning (CCA/EBT)](https://github.com/ebt-hpc/cca-ebt): extracts the syntactic/semantic structures from Fortran code and then provides outline views of the loop-nests and the call trees decorated with source code metrics.
 
 [flint](https://github.com/JonasToth/flint): Little linter for Fortran, with static analysis and formatting, by JonasToth
