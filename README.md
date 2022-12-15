@@ -541,6 +541,8 @@ from sourceryinstitute
 
 [fortran2julia](https://github.com/TomRottier/fortran2julia): parses to JSON by [fortran-parser](https://github.com/robinrottier/fortran-parser), after which parse.jl converts to JSON to Julia, by Tom Rottier. Requires dotnet runtime to be installed. 
 
+[FortranTranspiler.jl](https://github.com/denius/FortranTranspiler.jl): partial transpiler from Fortran to Julia, by Denis Telnov
+
 [loki](https://github.com/ecmwf-ifs/loki): tool to explore the possible use of source-to-source translation for ECMWF's Integrated Forecasting System (IFS) and associated Fortran software packages. Loki is based on compiler technology (visitor patterns and ASTs) and aims to provide an abstract, language-agnostic representation of a kernel, as well as a programmable (Pythonic) interface that allows developers to experiment with different kernel implementations and optimizations. 
 
 ### Translation to Fortran
