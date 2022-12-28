@@ -240,6 +240,8 @@
 
 [findent](https://github.com/MFTabriz/findent): indent and convert Fortran sources, by wvermin and MFTabriz
 
+[flower](https://github.com/urbanjost/flower): converts free-format Fortran code to all lowercase or all uppercase, by urbanjost. In each case comments and quoted text are left as-is.
+
 [FortranIndent](https://github.com/Kairzhan/FortranIndent): tools to indent Fortran 90 sources, from Kairzhan
 
 [fprettify](https://github.com/pseewald/fprettify): auto-formatter for modern Fortran code that imposes strict whitespace formatting, written in Python, by pseewald
