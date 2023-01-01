@@ -246,6 +246,8 @@
 
 [fprettify](https://github.com/pseewald/fprettify): auto-formatter for modern Fortran code that imposes strict whitespace formatting, written in Python, by pseewald
 
+[f90split](https://github.com/urbanjost/f90split): splits free source form Fortran code into multiple files, one module or procedure per file, by Michel Olagnon, adapted by urbanjost for use with the Fortran Package Manager. Contained procedures are stored within their parent procedure
+
 [IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
 
 [xpand](https://github.com/urbanjost/xpand): expands tabs in files. removes trailing white space, and optionally removes multiple blank lines, by urbanjost. It is primarily intended for use on systems without access to the Unix command expand(1).
