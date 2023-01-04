@@ -469,7 +469,7 @@ from sourceryinstitute
 
 [fxtran](https://github.com/pmarguinaud/fxtran): parses Fortran source code and decorates it with XML tags. The result is an XML file which can be searched with XPath, and modified with the DOM API.
 
-[i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab
+[i-CodeCNES](https://github.com/cnescatlab/i-CodeCNES): static code analysis tool to help developers write code compliant with CNES coding rules for Fortran 77, Fortran 90 and Shell, from cnescatlab. Related project: [sonar-icode-cnes-plugin](https://github.com/cnescatlab/sonar-icode-cnes-plugin)
 
 [K-scope](https://github.com/K-scope/K-scope): source code analysis tool with graphical user interface that visualizes program structures for Fortran 90 and FORTRAN 77 source code. This tool simply visualizes call tree from AST based on compiler's static analysis.
 
