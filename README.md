@@ -182,6 +182,8 @@
 ### Debugging
 [Fortran Stacktrace](https://github.com/SINTEF/fortran-stacktrace): generates stack traces by providing a Fortran wrapper around the C++ library [backward-cpp](https://github.com/bombela/backward-cpp). It also integrates with the Fortran error-handling library in order to generate errors that includes a stacktrace.
 
+[serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++, Fortran, and Python3, used to build validation frameworks against reference runs, from ETH Zurich
+
 [ups](https://github.com/sth/ups): source level C, C++ and Fortran debugger that runs under X11, by Mark Russell. Currently supported systems are FreeBSD and GNU/Linux on Intel x86 and Solaris on SPARC.
 
 ### Emacs Plugins
