@@ -169,6 +169,8 @@
 
 [ompi](https://github.com/open-mpi/ompi): open source Message Passing Interface (MPI) implementation that is developed and maintained by a consortium of academic, research, and industry partners
 
+[Open Fortran Compiler (ofc)](https://github.com/CodethinkLabs/ofc): goals are to provide a FORTRAN static code analysis tool, a FORTRAN modernizer which can reprint legacy FORTRAN as F90 where possible, and an alternative FORTRAN front-end for open-source compilers.
+
 [Oracle Developer Studio Fortran compiler, f95](https://docs.oracle.com/cd/E77782_01/html/E77790/aevbb.html): provides the following features and extensions: Optimized automatic and explicit loop parallelization for multiprocessor systems, VAX/VMS Fortran extensions, OpenMP parallelization directives, and global, peephole, and potential parallelization optimizations produce high performance applications. (C)
 
 [ROSE](https://github.com/rose-compiler/rose): compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications
