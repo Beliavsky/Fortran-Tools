@@ -137,6 +137,8 @@
 
 [Fortran kernel for Jupyter with Coarray support](https://github.com/sourceryinstitute/jupyter-CAF-kernel): from sourceryinstitute
 
+[fortran.rs](https://github.com/Xavier2p/fortran.rs): interpreter for Fortran, written in Rust, by Xavier2p, Development in progress
+
 [Full-Stack-Fortran](https://github.com/StarGate01/Full-Stack-Fortran): toolchain to compile Fortran to Webassembly, and a few projects using it, by Christoph Honal et al.
 
 [gfortran](https://gcc.gnu.org/wiki/GFortran): GNU Fortran project, developing a free Fortran 95/2003/2008 compiler for GCC, the GNU Compiler Collection. The gfortran development effort uses an open development environment in order to attract a larger team of developers and to ensure that gfortran can work on multiple architectures and diverse environments. Gfortran installation on various platforms is discussed at [fortran-lang](https://fortran-lang.org/learn/os_setup/install_gfortran). For Windows there is [Quickstart Fortran](https://fortran-lang.discourse.group/t/quickstart-fortran-installer-for-windows/2270).
