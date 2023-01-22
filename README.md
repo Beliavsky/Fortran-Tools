@@ -51,6 +51,8 @@
 [ProTeX](http://wiki.seas.harvard.edu/geos-chem/index.php/Automatic_documentation_with_protex): Perl script that can strip information from a standard Fortran document header and save that to a LaTeX file, by Arlindo Da Silva et al.
 
 ### Build Tools
+[Buildnis](https://github.com/Release-Candidate/Buildnis): distributed, platform independent build system that can handle C++20 and Fortran modules and is flexible enough to build anything else and handle various build steps
+
 [easy](https://github.com/urbanjost/easy): steps to setup a GitHub repository with fpm, and GitHub actions including ford(1) documentation and unit tests, by urbanjost
 
 [FCM](https://github.com/metomi/fcm): modern Fortran build system + wrappers to Subversion for scientific software development, from metomi
