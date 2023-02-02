@@ -323,6 +323,8 @@
 
 [SUtools](https://github.com/bnaras/SUtools): Tools for autogenerating Fortran registration code for R, by Balasubramanian Narasimhan
 
+[thenamelisttool](https://github.com/UMR-CNRM/thenamelisttool): provide command line tools useful to work with namelists or pack of namelists (update them, compare them, ...), by Louis-François Meunier and Alexandre Mary
+
 [vecLibFort](https://github.com/mcg1969/vecLibFort): lightweight but flexible "shim" designed to rectify the incompatibilities between the Accelerate/vecLib BLAS and LAPACK libraries shipped with Mac OS X and FORTRAN code compiled with modern compilers such as GNU Fortran, by Michael C. Grant and Robert Huston
 
 ### Parallel Programming
