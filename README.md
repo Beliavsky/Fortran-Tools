@@ -447,6 +447,8 @@ from sourceryinstitute
 
 [Code Comprehension Assistance for Evidence-Based performance Tuning (CCA/EBT)](https://github.com/ebt-hpc/cca-ebt): extracts the syntactic/semantic structures from Fortran code and then provides outline views of the loop-nests and the call trees decorated with source code metrics.
 
+[FF08Diff](https://www.megms.com.au/ff08diff.htm): command line tool for obtaining the semantic difference (difference in meaning, rather than appearance) between two sets of Fortran 2008 source files, written in Fortran 2003 by IanH
+
 [flint](https://github.com/JonasToth/flint): Little linter for Fortran, with static analysis and formatting, by JonasToth
 
 [flint](https://github.com/marshallward/flint): aspires to be a Fortran parser, delinter, and analyser, by marshallward. For now, it is a Fortran tokenizer, with tools for parsing and automated documentation.
