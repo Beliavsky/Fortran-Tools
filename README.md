@@ -59,6 +59,8 @@
 
 [FCM](https://github.com/metomi/fcm): modern Fortran build system + wrappers to Subversion for scientific software development, from metomi
 
+[FF08Depends](https://www.megms.com.au/ff08depends.htm): command line tool for obtaining file dependency information for Fortran 2008 source files, written in Fortran 2003 by IanH
+
 [FoBiS.py, Fortran Building System for poor people](https://github.com/szaghi/FoBiS): automatic parsing of files for dependency-hierarchy creation in case of use and include statements, and automatic building of all programs found into the root directory parsed or only a specific selected target, by szaghi et al.
 
 [fortdepend](https://github.com/ZedThree/fort_depend.py): python script to generate dependencies for Fortran projects, by ZedThree
