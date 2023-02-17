@@ -201,7 +201,7 @@
 ### Emacs Plugins
 [align-f90](https://github.com/jannisteunissen/align-f90): alignment support for Fortran 90 in Emacs, by jannisteunissen
 
-[Doom Emacs](https://github.com/doomemacs/doomemacs/tree/master/modules/lang/fortran): enables a complete, modern development environment for Fortran
+[Doom Emacs Fortran Module](https://github.com/doomemacs/doomemacs/tree/master/modules/lang/fortran): enables a complete, modern development environment for Fortran. It has integration with [fpm](https://github.com/fortran-lang/fpm), LSP support via [fortls](https://github.com/fortran-lang/fortls), auto-formatting via fprettier, and support for gfortran and Intel Fortran.
 
 [Emacs](https://github.com/emacs-mirror/emacs): extensible, customizable, free text editor. Download [here](https://www.gnu.org/software/emacs/download.html).
 
