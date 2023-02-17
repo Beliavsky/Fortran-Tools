@@ -319,6 +319,8 @@
 
 [nml](https://github.com/jsta/nml): R package for parsing Fortran namelist files, by Jem Stachelek et al.
 
+[nml](https://github.com/maddenp/nml): query/modify utility in Clojure for Fortran namelists, by Paul Madden and Jemma Stachelek
+
 [process_model](https://github.com/Cambridge-ICCS/process_model): reads a TensorFlow SavedModel and outputs Fortran code to interface it to the [fortran-tf-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib), by Simon Clifford et al.
 
 [RFortranRcpp](https://github.com/Konrad1991/RFortranRcpp): communication between Fortran, Rcpp and R, by Konrad1991.  Passing R or Fortran user code to Fortran code from a package.
