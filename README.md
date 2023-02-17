@@ -499,6 +499,8 @@ from sourceryinstitute
 
 [Simple Lint GitHub Action (simple_lint)](https://github.com/NOAA-GFDL/simple_lint): runs simple lint-like actions on files in a git repository, from NOAA-GFDL. The current list of lint actions are to check for trailing whitespace, check Fortran files for use of tab characters, and check Fortran files for lines longer then a specified length.
 
+[tree-sitter-fortran](https://github.com/stadelmanma/tree-sitter-fortran): Fortran grammar for [tree-sitter](https://github.com/tree-sitter/tree-sitter), by Matthew Stadelman et al.
+
 ### Text Editors, Integrated Development Environments, and Plugins
 [atom-build-fpm](https://github.com/everythingfunctional/atom-build-fpm): plugin for running the Fortran Package Manager (fpm) from within Atom
 
