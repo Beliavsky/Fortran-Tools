@@ -52,6 +52,8 @@
 
 [ProTeX](http://wiki.seas.harvard.edu/geos-chem/index.php/Automatic_documentation_with_protex): Perl script that can strip information from a standard Fortran document header and save that to a LaTeX file, by Arlindo Da Silva et al.
 
+[version-f](https://github.com/minhqdao/version-f): implementation of [Semantic Versioning 2.0.0](https://semver.org/) by Minh Dao that aims to be a user-friendly tool for handling versions in Fortran projects
+
 ### Build Tools
 [Buildnis](https://github.com/Release-Candidate/Buildnis): distributed, platform independent build system that can handle C++20 and Fortran modules and is flexible enough to build anything else and handle various build steps
 
