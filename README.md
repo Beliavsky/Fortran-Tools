@@ -613,6 +613,8 @@ from sourceryinstitute
 
 [irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
 
+[libconfort](https://github.com/gronki/libconfort): a small library to handle simple configuration files from Modern Fortran (2008+), by Dominik Gronkiewicz
+
 [nmltab](https://github.com/aekiss/nmltab): Python 3 module and command-line tool to tabulate, semantically diff, superset and consistently format Fortran namelist files, with output to text, markdown, csv, latex and namelists, by Andrew Kiss and Aidan Heerdegen. Requires Python 3.4 or later, and f90nml (amongst other packages).
 
 [nml-to-f90](https://github.com/perrette/nml-to-f90): generates Fortran source code for handling parameter I/O from a namelist, by perrette
