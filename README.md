@@ -65,6 +65,8 @@
 
 [FoBiS.py, Fortran Building System for poor people](https://github.com/szaghi/FoBiS): automatic parsing of files for dependency-hierarchy creation in case of use and include statements, and automatic building of all programs found into the root directory parsed or only a specific selected target, by szaghi et al.
 
+[fortdep](https://github.com/gronki/fortdep): Python3 script for generating dependencies between Fortran modules for make, by Dominik Gronkiewicz
+
 [fortdepend](https://github.com/ZedThree/fort_depend.py): python script to generate dependencies for Fortran projects, by ZedThree
 
 [fortrandep](https://github.com/orvedahl/fortrandep): Python tool to determine Makefile dependencies for a Fortran project, by Ryan Orvedahl
