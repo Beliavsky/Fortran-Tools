@@ -115,7 +115,7 @@
 
 [MathCode F90](https://www.wolfram.com/products/applications/mathcodef90/): generates standalone Fortran 90 code from Mathematica code, optionally connected via MathLink to Mathematica (C)
 
-[Matlab](https://www.mathworks.com/): the [fortran](https://www.mathworks.com/help/symbolic/generate-c-or-fortran-code.html) function generates Fortran code fragments from a symbolic expression, or generates files containing code fragments
+[Matlab](https://www.mathworks.com/): the [fortran](https://www.mathworks.com/help/symbolic/generate-c-or-fortran-code.html) function generates Fortran code fragments from a symbolic expression, or generates files containing code fragments (C)
 
 [Maxima](https://maxima.sourceforge.io/) the built-in [fortran](https://maxima.sourceforge.io/docs/manual/maxima_73.html) command prints an expression as a Fortran statement. [F77](http://ftp.math.utah.edu/u/ma/hohn/linux/lisp/maxima-doc/www.mcs.kent.edu/docs/maxima/max/section3.10.html) is an enhancement.
 
