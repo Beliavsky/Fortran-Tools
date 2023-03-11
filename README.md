@@ -594,6 +594,8 @@ from sourceryinstitute
 
 [f2matlab](https://github.com/benbarrowes/f2matlab): converts Fortran 90 code to Matlab m-files, by benbarrowes. Accordingly, only basic data types and constructions are recommended.
 
+[f2perl](https://f2perl.sourceforge.net/): translates Fortran 77 into Perl
+
 [f4go](https://github.com/Konstantin8105/f4go): Transpiling Fortran code to golang code, by Konstantin8105
 
 [F77Ccompiler](https://github.com/sthfaceless/F77Ccompiler): compiler from Fortran 77 to C, by Danil
