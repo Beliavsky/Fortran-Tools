@@ -4,6 +4,7 @@
 * [Automatic Differentiation](#automatic-differentiation)
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
+* [Code Generation](#code-generation)
 * [Command Line Parsing](#command-line-parsing)
 * [Compilers](#compilers)
 * [Debugging](#debugging)
@@ -108,6 +109,9 @@
 [verbose-goggles](https://github.com/goddard-guryon/verbose-goggles): Generates Fortran project templates, by Goddard Guryon. The create_project.sh script takes a project name (and optionally a project directory name) as inputs, creates the project folder, the build and docs folders within it, and saves template files for CMake and Doxygen.
 
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
+
+### Code Generation
+[sympy](https://www.sympy.org/en/index.html): Python library for symbolic mathematics that can [generate Fortran code](https://docs.sympy.org/latest/modules/codegen.html), as [illustrated](https://fortran-lang.discourse.group/t/code-generation-using-sympy/321) by Ivan Pribec
 
 ### Command Line Parsing
 [argv-fortran](https://github.com/jacobwilliams/argv-fortran): better get_command_argument for Fortran that returns the argument in an allocatable character string, by Jacob Williams
