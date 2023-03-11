@@ -32,6 +32,8 @@
 
 [Audito](https://github.com/Michel-Heinz/Audito): automatic differentiation tool for Fortran, by Michel V. Heinz. The mathematical operators have been overloaded to work with the newly defined types, which include not only the function value, but also the gradient, Hessian and Laplacian.
 
+[auto_deriv](https://elsevier.digitalcommonsdata.com/datasets/2wxp5vxj2m/1): module comprised of a set of Fortran 95 procedures which can be used to calculate the first and second partial derivatives (mixed or not) of any continuous function with many independent variables, by S. Stamatiadis, and S.C. Farantos, part of the Computer Physics Communications Program Library. The mathematical function should be expressed as one or more fortran 77/90/95 procedures. 
+
 [autodiff](https://github.com/sgeard/autodiff): automatic differentiation for up to 4th derivatives, by Simon Geard
 
 [Auto-Diff](https://github.com/zoziha/Auto-Diff): implementation in Modern Fortran of backward mode automatic differentiation, by zoziha.
