@@ -113,6 +113,8 @@
 ### Code Generation
 [Maple](https://www.maplesoft.com/): has a [Fortran](https://www.maplesoft.com/support/help/Maple/view.aspx?path=CodeGeneration/Fortran) command that translates Maple code to Fortran 77 (C)
 
+[MathCode F90](https://www.wolfram.com/products/applications/mathcodef90/): generates standalone Fortran 90 code from Mathematica code, optionally connected via MathLink to Mathematica
+
 [Maxima](https://maxima.sourceforge.io/) the built-in [fortran](https://maxima.sourceforge.io/docs/manual/maxima_73.html) command prints an expression as a Fortran statement. [F77](http://ftp.math.utah.edu/u/ma/hohn/linux/lisp/maxima-doc/www.mcs.kent.edu/docs/maxima/max/section3.10.html) is an enhancement.
 
 [sympy](https://www.sympy.org/en/index.html): Python library for symbolic mathematics that can [generate Fortran code](https://docs.sympy.org/latest/modules/codegen.html), as [illustrated](https://fortran-lang.discourse.group/t/code-generation-using-sympy/321) by Ivan Pribec
