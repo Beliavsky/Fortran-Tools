@@ -111,6 +111,8 @@
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
 
 ### Code Generation
+[Maxima](https://maxima.sourceforge.io/) the built-in [fortran command](https://maxima.sourceforge.io/docs/manual/maxima_73.html) prints an expression as a Fortran statement. [F77](http://ftp.math.utah.edu/u/ma/hohn/linux/lisp/maxima-doc/www.mcs.kent.edu/docs/maxima/max/section3.10.html) is an enhancement.
+
 [sympy](https://www.sympy.org/en/index.html): Python library for symbolic mathematics that can [generate Fortran code](https://docs.sympy.org/latest/modules/codegen.html), as [illustrated](https://fortran-lang.discourse.group/t/code-generation-using-sympy/321) by Ivan Pribec
 
 ### Command Line Parsing
