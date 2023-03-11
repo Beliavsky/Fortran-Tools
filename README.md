@@ -119,6 +119,8 @@
 
 [Maxima](https://maxima.sourceforge.io/) the built-in [fortran](https://maxima.sourceforge.io/docs/manual/maxima_73.html) command prints an expression as a Fortran statement. [F77](http://ftp.math.utah.edu/u/ma/hohn/linux/lisp/maxima-doc/www.mcs.kent.edu/docs/maxima/max/section3.10.html) is an enhancement.
 
+[Parametric Fortran](https://web.engr.oregonstate.edu/~erwig/pf/): Fortran program-generator generator that can produce extensions of Fortran, specialized to support the programming of particular applications, by Martin Erwig et al. Extensions are specified through parameter structures that can be referred to in Fortran programs to describe the dependency of program parts on these parameters.
+
 [sympy](https://www.sympy.org/en/index.html): Python library for symbolic mathematics that can [generate Fortran code](https://docs.sympy.org/latest/modules/codegen.html), as [illustrated](https://fortran-lang.discourse.group/t/code-generation-using-sympy/321) by Ivan Pribec
 
 ### Command Line Parsing
