@@ -608,6 +608,8 @@ from sourceryinstitute
 
 [FortranTranspiler.jl](https://github.com/denius/FortranTranspiler.jl): partial transpiler from Fortran to Julia, by Denis Telnov
 
+[Incomplete Fortran to C/C++ converter](https://simulationcorner.net/index.php?page=if2c): translates Fortran 77 to readable C/C++, by Sebastian Macke
+
 [loki](https://github.com/ecmwf-ifs/loki): tool to explore the possible use of source-to-source translation for ECMWF's Integrated Forecasting System (IFS) and associated Fortran software packages. Loki is based on compiler technology (visitor patterns and ASTs) and aims to provide an abstract, language-agnostic representation of a kernel, as well as a programmable (Pythonic) interface that allows developers to experiment with different kernel implementations and optimizations. 
 
 ### Translation to Fortran
