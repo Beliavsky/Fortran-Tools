@@ -111,6 +111,9 @@
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
 
 ### Code Generation
+
+[ChatGPT](https://openai.com/blog/chatgpt): generates Fortran code from a problem description in English or another natural language and translates code from other programming languages to Fortran, sometimes with errors
+
 [IRPF90](http://irpf90.ups-tlse.fr/): Fortran programming environment which helps the development of large Fortran codes by applying the Implicit Reference to Parameters method (IRP)
 
 [Maple](https://www.maplesoft.com/): has a [Fortran](https://www.maplesoft.com/support/help/Maple/view.aspx?path=CodeGeneration/Fortran) command that translates Maple code to Fortran 77 (C)
