@@ -316,6 +316,8 @@
 
 [fimport](https://github.com/pv/fimport): Python import hook for importing Fortran module, by Pauli Virtanen
 
+[fmodpy](https://github.com/tchlux/fmodpy): lightweight, efficient, highly automated, Fortran wrapper for Python, by Thomas Lux. The generated wrappers are self contained, written purely in Python, and are immediately sharable to any other POSIX platform with a Fortran compiler installed. 
+
 [FortModGen](https://github.com/neut-devel/FortModGen): generate consistent Fortran and C/C++ data structures, and a consistent C/C++ API from a toml configuration file for global object interop, from neut-devel
 
 [Fortran90Namelists.jl](https://github.com/singularitti/Fortran90Namelists.jl): Julia implementation of Python [f90nml](https://github.com/marshallward/f90nml) for working with Fortran namelists
