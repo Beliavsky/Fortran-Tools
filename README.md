@@ -559,6 +559,8 @@ from sourceryinstitute
 
 [Fortran Language Server (fortls)](https://github.com/gnikit/fortls): based on @hansec's original Language Server implementation but the two projects have since diverged. fortls (this project) is now developed independently by gnikit of the upstream hansec/fortran-language-server project and contains numerous bug fixes and new features the original fortran-language-server does not.
 
+[fortranNeoVIM](https://github.com/Vuncano/fortranNeoVIM): neovim config for Fortran programming, by Vuncano. Config files made using Lua, inpired by third part config
+
 [fortran.tmbundle](https://github.com/textmate/fortran.tmbundle): TextMate support for Fortran. TextMate is a graphical text editor for macOS 10.12 or later.
 
 [fossil](https://github.com/nrwade0/Fossil): Fortran IDE designed in Python by someone eager to learn Fortran but in an easy and accessible way, by nrwade0
