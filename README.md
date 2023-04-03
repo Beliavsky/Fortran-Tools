@@ -68,6 +68,8 @@
 
 [easy](https://github.com/urbanjost/easy): steps to setup a GitHub repository with fpm, and GitHub actions including ford(1) documentation and unit tests, by urbanjost
 
+[Fab](https://github.com/metomi/fab): build system for Fortran and C projects. Initially designed to build the Met Office’s major scientific applications, LFRic and the UM.
+
 [FCM](https://github.com/metomi/fcm): modern Fortran build system + wrappers to Subversion for scientific software development, from metomi
 
 [FF08Depends](https://www.megms.com.au/ff08depends.htm): command line tool for obtaining file dependency information for Fortran 2008 source files, written in Fortran 2003 by IanH
