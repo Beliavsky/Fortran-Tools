@@ -385,7 +385,7 @@
 ### Parallel Programming
 [allgebra](https://github.com/ricosjp/allgebra): docker images for developing C++ and Fortran HPC programs, by termoshtt and t-hishinuma
 
-[Codee](https://www.codee.com/): automatic code inspection platform specialized in performance for time-critical C/C++/Fortran applications (C)
+[Codee](https://www.codee.com/): automatic code inspection platform specialized in performance for time-critical C/C++/Fortran applications (C). Training materials are [here](https://www.nersc.gov/users/training/events/codee-training-series-apr2023/).
 
 [hipfort](https://github.com/ROCmSoftwarePlatform/hipfort): Fortran Interface For GPU Kernel Libraries
 
