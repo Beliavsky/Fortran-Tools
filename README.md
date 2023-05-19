@@ -589,6 +589,8 @@ from sourceryinstitute
 
 [SublimeLinterFortran](https://github.com/Panadestein/SublimeLinterFortran): linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to gfortran, by Ramón L. Panadés-Barrueta and Tejas Shetty. It will be used with files that have free format Fortran syntax.
 
+[TiddlyFor](https://github.com/kookma/TiddlyFor): single file, self-contained wiki, a a flavor of [TiddlyWiki](https://tiddlywiki.com/), for a Fortran programmer but that can be used for any other purposes, by Mohammad Rahmani. It can be put on the web, sent as an email attachment, or put on a thumb drive. Some features are syntax highlighting for modern Fortran and support for math formulas through katex. 
+
 [vim](https://github.com/vim/vim): improved version of the UNIX editor Vi. Many new features have been added: multi-level undo, syntax highlighting, command line history, on-line help, spell checking, filename completion, block operations, script language, etc. Download [here](https://www.vim.org/download.php). 
 
 [vimf90](https://github.com/rudrab/vimf90): Fortran ide for vim
