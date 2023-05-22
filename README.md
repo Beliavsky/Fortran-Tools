@@ -561,7 +561,7 @@ from sourceryinstitute
 
 [linter-gfortran](https://github.com/AtomLinter/linter-gfortran): linting Fortran code in [Atom](https://github.com/atom) with gfortran
 
-[f90.kak](https://github.com/freevryheid/f90.kak): modern Fortran syntax for kakoune editor, by Andre Smit
+[f90.kak](https://github.com/freevryheid/f90.kak): modern Fortran syntax for [kakoune](https://kakoune.org/) editor, by Andre Smit
 
 [FortranCodeNav](https://github.com/tiemenschreuder/FortranCodeNav): Visual Studio Extension which helps navigate modern Fortran code, by Tiemen Schreuder. It contains several parsers to generate a code structure representation which is used to provide jump-to and search functionality with limited context-awareness.
 
