@@ -332,6 +332,8 @@
 
 [FORTRAN format interpreter for Python (py-fortranformat)](https://github.com/brendanarnold/py-fortranformat): Generates text from a Python list of variables or will read a line of text into Python variables according to the FORTRAN format statement passed, by Brendan Arnold and michaelackermannaiub
 
+[fortran_magic](https://github.com/mgaitan/fortran_magic): extension for IPython/Jupyter that helps to use Fortran in an interactive session, by Martín Gaitán
+
 [FortranNamelist](https://github.com/jonathanschilling/FortranNamelist): Java reading class for Fortran namelists, by Jonathan Schilling
 
 [Fortran Namelist Reader](https://github.com/scivision/fortran-namelist): Python and Matlab readers for Fortran namelist => dict / struct, from scivision
