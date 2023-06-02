@@ -86,13 +86,13 @@
 
 [fortranMakeUtils](https://github.com/deniseiras/fortranMakeUtils): Python scripts for generating dependency trees and makefiles, by Denis Eiras
 
-[Fortran Package Manager (fpm)](https://github.com/fortran-lang/fpm): package manager and build system for Fortran, from fortran-lang. Documentation is [here](https://awvwgk.github.io/fpm-docs/en/index.html)
-
 [Fortran Package Manager for Visual Studio](https://github.com/everythingfunctional/fpm-for-VS): adds options and menu entries for building, running and testing your Fortran project using the Fortran Package Manager (fpm), by everythingfunctional
 
 [fpm](https://github.com/fortran-lang/fpm): Fortran Package Manager (fpm) is a package manager and build system for Fortran, from fortran-lang
 
 [fpm-gui](https://github.com/arjenmarkus/fpm-gui): straigtforward graphical user interface for the Fortran Package Manager (fpm), by Arjen Markus
+
+[fpm-registry](https://github.com/fortran-lang/fpm-registry): centralized registry of fpm packages for the fortran-lang site
 
 [fpm-search](https://github.com/urbanjost/fpm-search): lists available packages in the fpm-registry from the command line, by urbanjost and Sebastian Ehlert. This allows for quickly locating fpm(1) packages and generating the associated dependency lines to insert into fpm(1) package manifest files (fpm.toml) that wish to use them.
 
