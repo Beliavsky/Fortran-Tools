@@ -96,6 +96,8 @@
 
 [fpm-search](https://github.com/urbanjost/fpm-search): lists available packages in the fpm-registry from the command line, by urbanjost and Sebastian Ehlert. This allows for quickly locating fpm(1) packages and generating the associated dependency lines to insert into fpm(1) package manifest files (fpm.toml) that wish to use them.
 
+[homebrew-fortran](https://github.com/fortran-lang/homebrew-fortran): provides package build instructions for tools and libraries around Fortran compatible with the [Homebrew toolchain](https://brew.sh/), by Federico Perini et al. Available packages from this tap are fpm: Fortran package manager and lfortran: Modern interactive LLVM-based Fortran compiler.
+
 [jams_makefile](https://github.com/mcuntz/jams_makefile): provides a portable, versatile way of compiling Fortran, C, C++, and mixed projects, by mcuntz
 
 [makedepf90](https://github.com/outpaddling/makedepf90): generates make dependencies for Fortran code, by Erik Edelman
