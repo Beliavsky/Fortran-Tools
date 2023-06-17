@@ -401,10 +401,11 @@
 
 [gpufort](https://github.com/ROCmSoftwarePlatform/gpufort): source-to-source translation tool for CUDA Fortran and Fortran+X in the spirit of [hipify](https://github.com/ROCm-Developer-Tools/HIPIFY)
 
-[mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the
-MPI-3.1 standard from the Argonne National Laboratory
+[mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the MPI-3.1 standard from the Argonne National Laboratory
 
 [Omni Compiler](https://github.com/omni-compiler/omni-compiler): compiler for code including XcalableMP, XcalableACC, and OpenACC directives. The base languages supported by Omni Compiler are C language (C99) and Fortran 2008 in XcalableMP, and C language (C99) in XcalableACC and OpenACC.
+
+[OMPify](https://github.com/talkad/OMPify): generates OpenMP pragmas for C, C++ and Fortran code snippets using Transformers.
 
 [OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
 from sourceryinstitute
