@@ -98,6 +98,8 @@
 
 [homebrew-fortran](https://github.com/fortran-lang/homebrew-fortran): provides package build instructions for tools and libraries around Fortran compatible with the [Homebrew toolchain](https://brew.sh/), by Federico Perini et al. Available packages from this tap are fpm: Fortran package manager and lfortran: Modern interactive LLVM-based Fortran compiler.
 
+[Intel® oneAPI Math Kernel Library Link Line Advisor](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-link-line-advisor.html#gs.1d3b29): requests information about the computer system and on how one intends to use Intel® oneAPI Math Kernel Library (link dynamically or statically, use threaded or sequential mode, and so on) and automatically generates the appropriate link line for the application
+
 [jams_makefile](https://github.com/mcuntz/jams_makefile): provides a portable, versatile way of compiling Fortran, C, C++, and mixed projects, by mcuntz
 
 [makedepf90](https://github.com/outpaddling/makedepf90): generates make dependencies for Fortran code, by Erik Edelman
