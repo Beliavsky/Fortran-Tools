@@ -612,6 +612,8 @@ from sourceryinstitute
 
 [vim-findent](https://github.com/cradesto/vim-findent): vim plugin for [Findent](https://github.com/MFTabriz/findent), which indents Fortran sources, by cradesto
 
+[vim-fortran-fpm](https://github.com/avysk/vim-fortran-fpm): convenience functions for integrating vim with Fortran Package Manager, by Alexey Vyskubov
+
 [vim-FORTRAN-UPPER](https://github.com/wcdawn/vim-FORTRAN-UPPER): vim plugin for automatic capitalization in Fortran source, by William C. Dawn
 
 [vim-tmux-IDE](https://github.com/luco00/vim-tmux-IDE): minimal vim IDE by luco00. Sets a connection with external terminal via tmux to interactively execute code (Python, R, Julia, Fortran, Go are supported).
