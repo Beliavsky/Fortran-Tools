@@ -366,6 +366,8 @@
 
 [h2m-Autofortran-Tool](https://github.com/Kaiveria/h2m-Autofortran-Tool): allow easy calls to C routines from Fortran programs, by Garnet Liu and Michelle Anderson. Given a header file in standard C, h2m will produce a Fortran module providing function interfaces which maintain interoperability with C. Features for which there are no Fortran equivalents will not be translated and warnings will be written to standard error.
 
+[haskell-fortran](https://github.com/freckletonj/haskell-fortran): example of how to use Haskell's foreign function interface (FFI), and C's Fortran FFI, to connect ultimately Fortran code to Haskell, and to Haskell's HMatrix library, by Josh Freckleton
+
 [jansfortrankernel](https://github.com/jans-code/jansfortrankernel): Jupyter kernel implementation of Fortran, by Jan Arman Parpin
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
