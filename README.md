@@ -655,7 +655,9 @@ from sourceryinstitute
 
 [fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
 
-[fortran2julia](https://github.com/TomRottier/fortran2julia): parses to JSON by [fortran-parser](https://github.com/robinrottier/fortran-parser), after which parse.jl converts to JSON to Julia, by Tom Rottier. Requires dotnet runtime to be installed. 
+[fortran2julia](https://github.com/TomRottier/fortran2julia): parses to JSON by [fortran-parser](https://github.com/robinrottier/fortran-parser), after which parse.jl converts to JSON to Julia, by Tom Rottier. Requires dotnet runtime to be installed.
+
+[Fortran2Julia.js](https://github.com/ohno/Fortran2Julia.js): converts Fortran codes to Julia codes using regular Expressions, groups and backreferences, by Shuhei Ohno. A web interface is [here](https://ohno.github.io/Fortran2Julia.js/).
 
 [FortranTranspiler.jl](https://github.com/denius/FortranTranspiler.jl): partial transpiler from Fortran to Julia, by Denis Telnov
 
