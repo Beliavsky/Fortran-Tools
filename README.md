@@ -398,6 +398,8 @@
 
 [thenamelisttool](https://github.com/UMR-CNRM/thenamelisttool): provide command line tools useful to work with namelists or pack of namelists (update them, compare them, ...), by Louis-François Meunier and Alexandre Mary
 
+[TorchFort](https://github.com/NVIDIA/TorchFort): deep learning training and inference interface for HPC programs implemented using LibTorch, the C++ backend used by the PyTorch framework. This library can be invoked directly from Fortran or C/C++ programs.
+
 [vecLibFort](https://github.com/mcg1969/vecLibFort): lightweight but flexible "shim" designed to rectify the incompatibilities between the Accelerate/vecLib BLAS and LAPACK libraries shipped with Mac OS X and FORTRAN code compiled with modern compilers such as GNU Fortran, by Michael C. Grant and Robert Huston
 
 ### Parallel Programming
