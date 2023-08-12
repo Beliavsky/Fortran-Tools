@@ -415,6 +415,8 @@
 
 [gpufort](https://github.com/ROCmSoftwarePlatform/gpufort): source-to-source translation tool for CUDA Fortran and Fortran+X in the spirit of [hipify](https://github.com/ROCm-Developer-Tools/HIPIFY)
 
+[Hybrid-Fortran](https://github.com/muellermichel/Hybrid-Fortran): directive-based extension for the Fortran language to support GPGPU. Its input is Fortran code with Hybrid Fortran extensions, and its output is CUDA Fortran or OpenMP Fortran code.
+
 [mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the MPI-3.1 standard from the Argonne National Laboratory
 
 [ohhelp-for-fpm](https://github.com/Nkzono99/ohhelp-for-fpm): dynamic load balancing and scalability library that supports massively parallel particle-in-cell simulations using MPI. Each process handles the particle calculations within the partitioned area while taking on some of the particles handled by other processes so that the overall load is balanced.
