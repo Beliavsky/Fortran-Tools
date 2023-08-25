@@ -659,6 +659,8 @@ from sourceryinstitute
 
 [F77Ccompiler](https://github.com/sthfaceless/F77Ccompiler): compiler from Fortran 77 to C, by Danil
 
+[Fortran-CPP-HPC-code-translation-dataset](https://github.com/bin123apple/OpenMP-Fortran-CPP-Translation): data set for the preprint ]Creating a Dataset for High-Performance Computing Code Translation: A Bridge Between HPC Fortran and C++](https://arxiv.org/abs/2307.07686) (2023), by Bin Lei et al.
+
 [Fortran to C++ Conversion from Objexx](https://objexx.com/Fortran_to_Cpp.html): conversion process preserves the structure and syntax of the Fortran to retain the value of the existing documentation and developer knowledge. Another product [converts Fortran to Python](https://objexx.com/Fortran_to_Python.html) (C).
 
 [fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
