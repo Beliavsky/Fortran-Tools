@@ -140,6 +140,8 @@
 
 [Parametric Fortran](https://web.engr.oregonstate.edu/~erwig/pf/): Fortran program-generator generator that can produce extensions of Fortran, specialized to support the programming of particular applications, by Martin Erwig et al. Extensions are specified through parameter structures that can be referred to in Fortran programs to describe the dependency of program parts on these parameters.
 
+[PSyclone](https://github.com/stfc/PSyclone): domain-specific compiler and code transformation system for Finite Difference/Volume/Element Earth-system models in Fortran
+
 [sympy](https://www.sympy.org/en/index.html): Python library for symbolic mathematics that can [generate Fortran code](https://docs.sympy.org/latest/modules/codegen.html), as [illustrated](https://fortran-lang.discourse.group/t/code-generation-using-sympy/321) by Ivan Pribec
 
 ### Command Line Parsing
