@@ -585,7 +585,7 @@ from sourceryinstitute
 
 [K-scope](https://github.com/K-scope/K-scope): source code analysis tool with graphical user interface that visualizes program structures for Fortran 90 and FORTRAN 77 source code. This tool simply visualizes call tree from AST based on compiler's static analysis.
 
-[plusFORT](https://www.fortran.uk/fortran-analysis-and-refactoring-with-plusfort/plusfort-evaluation-version/pss-evaluation-starter-pack/) - multi-purpose suite of tools for analyzing and improving Fortran programs. (C)
+[plusFORT](https://www.fortran.uk/fortran-analysis-and-refactoring-with-plusfort/plusfort-evaluation-version/pss-evaluation-starter-pack/) - multi-purpose suite of tools for analyzing and improving Fortran programs, free for personal, educational and academic users working on non-commercial projects. (C)
 
 [pyft](https://github.com/UMR-CNRM/pyft): Python script that reads a Fortran code, parses it in xml, performs some manipulations, and reverts it to Fortran, from UMR-CNRM. It can add and remove variable declarations, find unused variables, convert code to lower or upper case, and do other things listed [here](https://github.com/UMR-CNRM/pyft/blob/main/doc/Documentation.md).
 
