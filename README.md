@@ -170,8 +170,6 @@
 [paramcard](https://github.com/tueda/paramcard): command-line parameter input made simple, by Takahiro Ueda
 
 ### Compilers
-[Absoft](https://www.absoft.com/): DISCONTINUED IN 2022. Designed to build code in the most efficient way possible, the Pro Fortran compiler utilizes advanced technology. This includes load balancing, AVX and OpenMP 3.1 support, AMDAL HPC scientific and engineering math library,  Parallel versions of Lapack and BLAS libraries, Fast Data Visualization, and much more. (C)
-
 [AMD Optimizing C/C++/Fortran Compiler (AOCC)](https://developer.amd.com/amd-aocc/): high performance, production quality code generation tool. The AOCC environment provides various options to developers while building and optimizing C, C++, and Fortran applications targeting 32-bit and 64-bit Linux® platforms.
 
 [Arm Fortran Compiler](https://developer.arm.com/tools-and-software/server-and-hpc/compile/arm-compiler-for-linux/arm-fortran-compiler): tailored for server, HPC, and scientific codes, with support for Fortran and OpenMP. The compiler is built on the open source Flang front-end, and the LLVM‑based optimization and code generation back-end. (C)
@@ -201,10 +199,6 @@
 <br />VS Fortran: Develop efficient applications for IBM Z® and z/VM® with IBM VS FORTRAN. (C)
 
 [Intel Fortran](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/fortran-compiler.html): built on a long history of generating optimized code that supports industry standards while taking advantage of built-in technology for Intel® Xeon® Scalable processors and Intel® Core™ processors. Staying aligned with Intel’s evolving and diverse architectures, the compiler now supports GPUs.
-
-[Lahey Fortran Professional v7.9 Windows](https://www.lahey.com/): DISCONTINUED in 2022. Combines the 32/64-bit LGF Rainier compiler with the classic Lahey/Fujitsu LF95 compiler. LGF Rainier has full Fortran 95/90/77 compliance with extensive support for the Fortran 2003 and 2008 standards. (C)
-
-[Lahey/GNU Fortran - Rainier Edition Windows 32 & 64-bit](https://www.lahey.com/): DISCONTINUED in 2022. Full Fortran 95/90/77 compliance with extensive support for the Fortran 2003 and 2008 standards; targets 32 and 64-bit Windows. Includes the automatic-parallelizing GFortran compiler, Visual Studio 2015 Shell (compatible with VS2019 & VS2017), Lahey's Exclusive Visual Studio Fortran support, Winteracter WiSK Graphics package, and more. (C)
 
 [lfortran](https://github.com/lfortran/lfortran): modern open-source (BSD licensed) interactive Fortran compiler built on top of LLVM. It can execute user's code interactively to allow exploratory work (much like Python, MATLAB or Julia) as well as compile to binaries with the goal to run user's code on modern architectures such as multi-core CPUs and GPUs.
 
