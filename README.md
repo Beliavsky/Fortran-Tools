@@ -342,6 +342,8 @@
 
 [FortModGen](https://github.com/neut-devel/FortModGen): generate consistent Fortran and C/C++ data structures, and a consistent C/C++ API from a toml configuration file for global object interop, from neut-devel
 
+[fortran2cc2fortran](https://github.com/hansalemaos/fortran2cc2fortran): Fortran to C / C to Fortran (nested) index converter, by Hans Alemão
+
 [Fortran90Namelists.jl](https://github.com/singularitti/Fortran90Namelists.jl): Julia implementation of Python [f90nml](https://github.com/marshallward/f90nml) for working with Fortran namelists
 
 [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl): Julia package for reading/writing Fortran unformatted (i.e. binary) files, by Frank Otto et al.
