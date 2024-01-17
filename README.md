@@ -90,6 +90,8 @@
 
 [fpm](https://github.com/fortran-lang/fpm): Fortran Package Manager (fpm) is a package manager and build system for Fortran, from fortran-lang
 
+[fpm-completions](https://github.com/ShinobuAmasaki/fpm-completions): command-line completion functions for the Fortran Package Manager, by Shinobu Amasaki. Zsh is required to use this package, currently.
+
 [fpm-gui](https://github.com/arjenmarkus/fpm-gui): straigtforward graphical user interface for the Fortran Package Manager (fpm), by Arjen Markus
 
 [fpm-registry](https://github.com/fortran-lang/fpm-registry): centralized registry of fpm packages for the fortran-lang site
