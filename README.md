@@ -549,6 +549,8 @@ from sourceryinstitute
 
 [Forcheck](http://www.codework-solutions.com/development-tools/forcheck-fortran-analysis/): oldest and most comprehensive Fortran analysis tool on the market. It performs a static analysis of a Fortran program or separate Fortran program units. (C)
 
+[fortitude](https://github.com/PlasmaFAIR/fortitude): Fortran linter and formatter, written in Rust, from PlasmaFAIR
+
 [FortranAS](https://github.com/akoerner/FortranAS): [Antlr4](https://github.com/antlr/antlr4)-powered FORTRAN parsing and code clone detection tool. FortranAS leverages grammars-v4 to generate parsers and lexers and supports any FORTRAN version with available corresponding grammars.
 
 [fortree](https://github.com/EstherTaillifet/fortree): Python app that creates call trees of your Fortran code, by Esther Taillifet. Fortree makes call trees, definition trees and dependencies trees.
