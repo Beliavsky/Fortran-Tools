@@ -98,7 +98,7 @@
 
 [fpm-search](https://github.com/urbanjost/fpm-search): lists available packages in the fpm-registry from the command line, by urbanjost and Sebastian Ehlert. This allows for quickly locating fpm(1) packages and generating the associated dependency lines to insert into fpm(1) package manifest files (fpm.toml) that wish to use them.
 
-[githubactions_intro](https://github.com/ofmla/githubactions_intro): introduce Github Actions as a tool for lightweight automation of scientific data workflows, with examples in Python and Fortran using gnuplot, by Oscar Mojica
+[githubactions_intro](https://github.com/ofmla/githubactions_intro): introduces Github Actions as a tool for lightweight automation of scientific data workflows, with examples in Python and Fortran using gnuplot, by Oscar Mojica
 
 [homebrew-fortran](https://github.com/fortran-lang/homebrew-fortran): provides package build instructions for tools and libraries around Fortran compatible with the [Homebrew toolchain](https://brew.sh/), by Federico Perini et al. Available packages from this tap are fpm: Fortran package manager and lfortran: Modern interactive LLVM-based Fortran compiler.
 
