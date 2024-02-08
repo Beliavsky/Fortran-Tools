@@ -178,6 +178,8 @@
 ### Compilers
 [AMD Optimizing C/C++/Fortran Compiler (AOCC)](https://developer.amd.com/amd-aocc/): high performance, production quality code generation tool. The AOCC environment provides various options to developers while building and optimizing C, C++, and Fortran applications targeting 32-bit and 64-bit Linux® platforms.
 
+[AOMP](https://github.com/ROCm/aomp): open-source Clang/LLVM based compiler with added support for the OpenMP® API on Radeon™ GPUs. Instructions to install f18 are [here](https://github.com/ROCm/aomp/tree/aomp-dev/f18bin#readme).
+
 [Arm Fortran Compiler](https://developer.arm.com/Tools%20and%20Software/Arm%20Fortran%20Compiler): tailored for server, HPC, and scientific codes, with support for Fortran and OpenMP. The compiler is built on the open source Flang front-end, and the LLVM‑based optimization and code generation back-end. (C)
 
 [f18-llvm-project](https://github.com/flang-compiler/f18-llvm-project): fork of llvm/llvm-project for f18. In sync with f18-mlir and f18.
