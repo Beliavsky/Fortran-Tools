@@ -190,6 +190,8 @@
 
 [Fortran kernel for Jupyter with Coarray support](https://github.com/sourceryinstitute/jupyter-CAF-kernel): from sourceryinstitute
 
+[fortran-setup](https://github.com/ipqa-research/fortran-setup): script to set up a system to use Fortran on an Ubuntu-based system, by Federico E. Benelli. It installs a Python package manager for some Python-based tool, gfortran, optionally Intel oneAPI HPC, BLAS and LAPACK, gdb, fuzzy-finder ([fzf](https://github.com/junegunn/fzf)), Fortran Package Manager ([fpm](https://github.com/fortran-lang/fpm)), [findent](https://github.com/MFTabriz/findent), flinter, [FORD}(https://github.com/Fortran-FOSS-Programmers/ford), [fortls](https://github.com/fortran-lang/fortls), and fortran_project, aScript to generate and open projects.
+
 [fortran.rs](https://github.com/Xavier2p/fortran.rs): interpreter for Fortran, written in Rust, by Xavier2p, Development in progress
 
 [Full-Stack-Fortran](https://github.com/StarGate01/Full-Stack-Fortran): toolchain to compile Fortran to Webassembly, and a few projects using it, by Christoph Honal et al.
