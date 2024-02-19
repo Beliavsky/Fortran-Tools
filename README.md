@@ -346,6 +346,8 @@
 
 [fmodpy](https://github.com/tchlux/fmodpy): lightweight, efficient, highly automated, Fortran wrapper for Python, by Thomas Lux. The generated wrappers are self contained, written purely in Python, and are immediately sharable to any other POSIX platform with a Fortran compiler installed. 
 
+[fortformat](https://github.com/joshua-laughner/fortformat): Rust parser for Fortran format strings, by Joshua Laughner
+
 [Forthon](https://github.com/dpgrote/Forthon): Python wrapper generator for Fortran, allowing access to functions and subroutines, by David Grote et al.
 
 [FortModGen](https://github.com/neut-devel/FortModGen): generate consistent Fortran and C/C++ data structures, and a consistent C/C++ API from a toml configuration file for global object interop, from neut-devel
