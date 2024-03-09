@@ -398,6 +398,8 @@
 
 [Mwrap](https://github.com/zgimbutas/mwrap): interface generation system in the spirit of SWIG or matwrap, by Zydrunas Gimbutas et al. From a set of augmented MATLAB script files, MWrap will generate a MEX gateway to desired C/C++/Fortran function calls and MATLAB function files to access that gateway. [Mwrapdemo](https://github.com/ahbarnett/mwrapdemo) by Alex Barnett contains simple, minimally complete examples showing how to use MWrap to link to a C or Fortran library, pass in and out 1D and 2D arrays, handle complex, float, and Boolean types, and use OpenMP.
 
+[multilingual-julia](https://github.com/ahbarnett/multilingual-julia): minimally complete examples of Julia calling and being called by Fortran, C, and Python, by Alex Barnett
+
 [namelist_python](https://github.com/leifdenby/namelist_python): Fortran namelist parser in Python, by Leif Denby et al.
 
 [nml](https://github.com/jsta/nml): R package for parsing Fortran namelist files, by Jem Stachelek et al.
