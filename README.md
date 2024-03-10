@@ -640,6 +640,8 @@ from sourceryinstitute
 
 [fortran.tmbundle](https://github.com/textmate/fortran.tmbundle): TextMate support for Fortran. TextMate is a graphical text editor for macOS 10.12 or later.
 
+[fortran-vim-plugin](https://github.com/terminationshock/fortran-vim-plugin): Vim plugin for Fortran developers that can be used to jump to the declaration of a variable, subroutine, function, etc. and to all its references, by Tobias Melson
+
 [fossil](https://github.com/nrwade0/Fossil): Fortran IDE designed in Python by someone eager to learn Fortran but in an easy and accessible way, by nrwade0
 
 [Guide_VSCode-fortran](https://github.com/JHenneberg/Guide_VSCode-fortran): comprehensive guide on how to set up a complete development environment for Fortran in Visual Studio Code, by Julian Henneberg
