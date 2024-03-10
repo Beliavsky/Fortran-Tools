@@ -232,6 +232,8 @@
 
 [ROSE](https://github.com/rose-compiler/rose): compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications
 
+[flang-wasm](https://github.com/r-wasm/flang-wasm): contains tools to build a patched version of LLVM's flang-new compiler that can be used to compile Fortran sources for WebAssembly. A pre-built Fortran runtime library is also built for WebAssembly using Emscripten.
+
 [Silverfrost Fortran FTN95](https://www.silverfrost.com/12/ftn95/ftn95_feature_details.aspx): full Fortran 95 standards compliant compiler, capable of producing fast executables for Win32 and for Microsoft .NET. FTN95 ships with the world's best runtime checking and a great range of supporting software. There is a free [personal edition](https://www.silverfrost.com/default.aspx?id=32). (C)
 
 [VSI Fortran for OpenVMS](https://vmssoftware.com/products/fortran/): supports the FORTRAN 66, FORTRAN 77, Fortran 90, and Fortran 95 standards
