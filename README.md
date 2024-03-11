@@ -216,6 +216,8 @@
 
 [Mercurium](https://github.com/bsc-pm/mcxx):  C/C++/Fortran source-to-source compilation infrastructure aimed at fast prototyping developed by the Programming Models group at the Barcelona Supercomputing Center. Mercurium is used, together with the Nanos++ Runtime Library, to implement the OmpSs programming model. Both tools provide also an implementation of OpenMP 3.1.
 
+[modern-fortran-docker](https://github.com/modern-fortran/modern-fortran-docker): Dockerfile to build a modern-fortran Docker image. It is based on Ubuntu 23.10, which has several enhancements to the Linux kernel and supports GCC GFortran v13.2.0. This Dockerfile installs gfortran, OpenMPI, and OpenCoarrays and also git clones the modern-fortran projects.
+
 [NAG](https://www.nag.com/content/nag-fortran-compiler): robust and highly tested Fortran compiler, valued for its checking capabilities and detailed error reporting. Available on Linux, Microsoft Windows and Mac OS X, including Apple Silicon Macs. (C)
 
 [NEC](https://www.nec.com/en/global/solutions/hpc/sx/tools.html): Fortran compiler conforms to the Fortran-2003 standard (ISO/IEC 1539-1:2004) and supports many features from Fortran-2008 (ISO/IEC 1539-1:2010). NEC has more than 30 years’ experience in compiler technology for high-end vector machines, and these newly developed compilers will be based on this experience and support all the optimization strategies that NEC compilers are known for. (C)
