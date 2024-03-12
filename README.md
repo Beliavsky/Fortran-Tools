@@ -449,6 +449,8 @@
 
 [mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the MPI-3.1 standard from the Argonne National Laboratory
 
+[occa](https://github.com/libocca/occa): portable, and vendor neutral framework for parallel programming on heterogeneous platforms. The OCCA API provides unified models for heterogeneous programming concepts—such as a device, memory, or kernel—while the OCCA Kernel Language (OKL) enables the creation of portable device kernels using a directive-based extension to the C-language.
+
 [ohhelp-for-fpm](https://github.com/Nkzono99/ohhelp-for-fpm): dynamic load balancing and scalability library that supports massively parallel particle-in-cell simulations using MPI. Each process handles the particle calculations within the partitioned area while taking on some of the particles handled by other processes so that the overall load is balanced.
 
 [Omni Compiler](https://github.com/omni-compiler/omni-compiler): compiler for code including XcalableMP, XcalableACC, and OpenACC directives. The base languages supported by Omni Compiler are C language (C99) and Fortran 2008 in XcalableMP, and C language (C99) in XcalableACC and OpenACC.
