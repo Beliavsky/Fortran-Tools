@@ -256,6 +256,8 @@
 
 [Emacs](https://github.com/emacs-mirror/emacs): extensible, customizable, free text editor. Download [here](https://www.gnu.org/software/emacs/download.html).
 
+[f90format](https://github.com/BlameTroi/f90format): package that hooks up [fprettify](https://github.com/pseewald/fprettify) with Steve Purcell's [emacs-reformatter](https://github.com/purcell/emacs-reformatter) to format modern Fortran source, by Troy Brumley
+
 [f90-iface](https://github.com/wence-/f90-iface): Emacs-based browser for Fortran 90 generic interfaces, by wence- and monnier
 
 [f90-namelist-mode](https://github.com/ZedThree/f90-namelist-mode): extension to Emacs f90-mode to handle Fortran namelists, by ZedThree
