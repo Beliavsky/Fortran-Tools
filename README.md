@@ -462,6 +462,8 @@
 [OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
 from sourceryinstitute
 
+[SPEL_OpenACC](https://github.com/peterdschwartz/SPEL_OpenACC): code associated with the paper [SPEL: Software tool for Porting E3SM Land Model with OpenACC in a Function Unit Test Framework](https://ieeexplore.ieee.org/document/10029551), by Peter Schwartz et al., 2022 Workshop on Accelerator Programming Using Directives (WACCPD). It provides a robust method to port the [E3SM Land Model (ELM)](https://e3sm.org/model/e3sm-model-description/v1-description/v1-land/) onto GPUs.
+
 [stng](https://github.com/uwplse/stng): compiler for Fortran stencils using verified lifting, by Alvin Cheung et al. It takes input codes in Fortran and automatically rewrites them to Halide, a new high-performance domain-specific language that leverages GPUs for computation.
 
 [System FOR Automated Parallelization (SAPFOR)](https://github.com/dvm-system/sapfor): software development suite that is focused on cost reduction of manual program parallelization, by kaniandr and zoocide. It was primarily designed to perform a source-to-source transformation of a sequential program for execution on heterogeneous clusters.
