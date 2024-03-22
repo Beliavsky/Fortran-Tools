@@ -112,6 +112,8 @@
 
 [Makefile-maker](https://github.com/Garl4nd/Makefile-maker): automatic Fortran makefile maker, by Garl4nd. The program first scans all Fortran files for imports of other source files and creates a directed dependency graph, where each vertex represents the file and an arrow from A to B correspond to the File A depending on B.
 
+[makemake](https://github.com/BlameTroi/makemake): Perl script first developed by Michael Wester to construct correct makefiles for modern Fortran code and modified for newer compilers and to work for C++ by Katherine Holcomb. Its usage is discussed [here](https://learning.rc.virginia.edu/courses/fortran-introduction/make/).
+
 [makemake90](https://github.com/janberges/makemake90): Python script that generates Makefiles for modular Fortran programs, by Jan Berges. It recursively searches the working directory for .f90 files and determines their dependencies.
 
 [meson](https://github.com/mesonbuild/meson): next-generation build system. [Test-meson](https://github.com/tg2414/fortran) is an example Python project with Fortran code.
