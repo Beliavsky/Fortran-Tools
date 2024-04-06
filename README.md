@@ -699,6 +699,9 @@ from sourceryinstitute
 ### Translation from Fortran
 [f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
 
+[F2C-Translator](https://github.com/bin123apple/F2C-Translator): translates Fortran to C++, by Bin Lei. Also [HPC-Code-translation-and-generation](https://github.com/bin123apple/HPC-Code-translation-and-generation): tests the translation and generation performance of Fortran HPC code using CodeXGLUE and ChatGPT, and 
+[OpenMP-Fortran-CPP-Translation](https://github.com/bin123apple/OpenMP-Fortran-CPP-Translation), associated with the paper [Creating a Dataset for High-Performance Computing Code Translation using LLMs: A Bridge Between OpenMP Fortran and C++](https://arxiv.org/abs/2307.07686)
+
 [f2cpp](https://github.com/victorliu/f2cpp): Converts Fortran 77 code to C++, by victorliu. Unlike f2c, the output of f2cpp.pl may or may not compile, however, only a small number of hand-tuned changes are typically needed. The resulting code is much cleaner than f2c's output, and much closer to the original intent of the original Fortran code.
 
 [f2j](https://github.com/jonathanschilling/f2j): translate Fortran 77 to Java, especially for BLAS, LAPACK and ARPACK
