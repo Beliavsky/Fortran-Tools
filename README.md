@@ -133,8 +133,7 @@
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
 
 ### Code Generation
-
-[ChatGPT](https://openai.com/blog/chatgpt): generates Fortran code from a problem description in English or another natural language and translates code from other programming languages to Fortran, sometimes with errors. The [RunGPT](https://chrome.google.com/webstore/detail/rungpt-execute-chatgpt-co/ddfiefcjflpdpanadjmgpogkfnjaifod) Chrome extension allows code to be compiled with gfortran and run within the ChatGPT web interface.
+[ChatGPT](https://openai.com/blog/chatgpt): generates Fortran code from a problem description in English or another natural language and translates code from other programming languages to Fortran, sometimes with errors. The [RunGPT](https://chrome.google.com/webstore/detail/rungpt-execute-chatgpt-co/ddfiefcjflpdpanadjmgpogkfnjaifod) Chrome extension allows code to be compiled with gfortran and run within the ChatGPT web interface. Other LLMs that can generate Fortran code are [Perplexity](https://www.perplexity.ai/), [Groq](https://groq.com/), and [Claude](https://claude.ai/chats), [Vertex AI with Gemini](https://cloud.google.com/vertex-ai) from Google, and [GitHub Copilot](https://github.com/features/copilot).
 
 [IRPF90](http://irpf90.ups-tlse.fr/): Fortran programming environment which helps the development of large Fortran codes by applying the Implicit Reference to Parameters method (IRP)
 
