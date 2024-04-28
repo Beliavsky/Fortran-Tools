@@ -66,6 +66,9 @@
 ### Build Tools
 [Buildnis](https://github.com/Release-Candidate/Buildnis): distributed, platform independent build system that can handle C++20 and Fortran modules and is flexible enough to build anything else and handle various build steps
 
+[CMake](https://cmake.org/) cross-platform, open-source build system generator. [Fortran_with_cmake_examples
+](https://github.com/ChristensenCode/fortran_with_cmake_examples) provides some concrete examples with as much explanation as possible to make it clear to a someone with a relatively small amount of experience with CMake.
+
 [easy](https://github.com/urbanjost/easy): steps to setup a GitHub repository with fpm, and GitHub actions including ford(1) documentation and unit tests, by urbanjost
 
 [F90_makefile_builder](https://github.com/benjamin-pieczynski/F90_makefile_builder): Python program to build a makefile for a Fortran 90 program by searching through each module for dependencies, by Benjamin Pieczynski. The algorithm determines the order of the dependencies and builds the make file in the correct order.
