@@ -131,6 +131,8 @@
 
 [run-fortran](https://github.com/lycantropos/run-fortran): sorts Fortran files based on modules definitions and usages, by lycantropos
 
+[Spack](https://spack.io/): package manager for supercomputers, Linux, and macOS that makes installing scientific software easy. It is not tied to a particular language -- one can build a software stack in Python or R, link to libraries written in C, C++, or Fortran, and easily swap compilers or target specific microarchitectures.
+
 [verbose-goggles](https://github.com/goddard-guryon/verbose-goggles): Generates Fortran project templates, by Goddard Guryon. The create_project.sh script takes a project name (and optionally a project directory name) as inputs, creates the project folder, the build and docs folders within it, and saves template files for CMake and Doxygen.
 
 [xmake](https://github.com/xmake-io/xmake): lightweight cross-platform build utility based on Lua. It uses xmake.lua to maintain project builds. The two Fortran compilers supported are gfortran and ifort.
