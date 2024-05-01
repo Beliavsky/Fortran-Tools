@@ -595,6 +595,8 @@ from sourceryinstitute
 
 [FortranAS](https://github.com/akoerner/FortranAS): [Antlr4](https://github.com/antlr/antlr4)-powered FORTRAN parsing and code clone detection tool. FortranAS leverages grammars-v4 to generate parsers and lexers and supports any FORTRAN version with available corresponding grammars.
 
+[FortranProcedureDictionary](https://github.com/AkhilAkkapelli/FortranProcedureDictionary): parses Fortran source files and extract information about procedures such as main programs, modules, functions, and subroutines, by Akhil Akkapelli. It utilizes the [ANTLR4](https://www.antlr.org/) library through PyCall to parse Fortran syntax and generates a text file containing the extracted procedure details.
+
 [fortree](https://github.com/EstherTaillifet/fortree): Python app that creates call trees of your Fortran code, by Esther Taillifet. Fortree makes call trees, definition trees and dependencies trees.
 
 [ForUML](https://github.com/t2time/ForUML): reverse engineering tool that generates Unified Modeling Language (UML) class diagrams from object-oriented Fortran programs, by azizn and Damian Rouson. ForUML understands and diagrams Fortran class relationships, including inheritance and aggregation. ForUML also detects and depicts operator overloading, constructors, and parallel data structures (coarrays).
