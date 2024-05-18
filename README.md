@@ -192,6 +192,8 @@
 
 [flang](https://github.com/flang-compiler/flang): flang (also known as "Classic Flang") is an out-of-tree Fortran compiler targeting LLVM. It is an open-sourced version of pgfortran, a commercial Fortran compiler from PGI/NVIDIA
 
+[flang-wasm](https://github.com/r-wasm/flang-wasm): contains tools to build a patched version of LLVM's flang-new compiler that can be used to compile Fortran sources for WebAssembly. A pre-built Fortran runtime library is also built for WebAssembly using Emscripten.
+
 [fortran-ios](https://github.com/ColdGrub1384/fortran-ios): script that acts like a Fortran compiler that uses Flang to build sources for iOS arm64, by Emma Cold
 
 [Fortran kernel for Jupyter with Coarray support](https://github.com/sourceryinstitute/jupyter-CAF-kernel): from sourceryinstitute
@@ -240,7 +242,7 @@
 
 [ROSE](https://github.com/rose-compiler/rose): compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications
 
-[flang-wasm](https://github.com/r-wasm/flang-wasm): contains tools to build a patched version of LLVM's flang-new compiler that can be used to compile Fortran sources for WebAssembly. A pre-built Fortran runtime library is also built for WebAssembly using Emscripten.
+[setup-fortran](https://github.com/fortran-lang/setup-fortran): GitHub action to set up Fortran compiler and toolchain on Ubuntu, macOS and Windows, from fortran-lang. Available compilers are gfortran, ifx, ifort, lfortran, and nvfortran.
 
 [Silverfrost Fortran FTN95](https://www.silverfrost.com/12/ftn95/ftn95_feature_details.aspx): full Fortran 95 standards compliant compiler, capable of producing fast executables for Win32 and for Microsoft .NET. FTN95 ships with the world's best runtime checking and a great range of supporting software. There is a free [personal edition](https://www.silverfrost.com/default.aspx?id=32). (C)
 
