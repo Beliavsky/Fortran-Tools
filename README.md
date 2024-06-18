@@ -753,6 +753,8 @@ from sourceryinstitute
 ### Translation to Fortran
 [c2f](https://github.com/Beliavsky/c2f): partial C to Fortran translator by David Frank
 
+[makeFortran](https://github.com/joelgog/makeFortran): converts Mathematica Code to Fortran, by joelgog
+
 [matlab2fmex](https://sourceforge.net/projects/matlab2fmex/): small translator which aims to convert numerical Matlab m-files to Fortran90 mex files, by Ben Barrowes. matlab2fmex first translates an m-file to a Fortran90 mex source file then compiles that Fortran90 file using Matlab's mex and the local compiler.
 
 [matlab2fortran](https://github.com/ebranlard/matlab2fortran): performs some simple conversions from Matlab code to Fortran, by ebranlard
