@@ -95,6 +95,8 @@
 
 [Fortran Package Manager for Visual Studio](https://github.com/everythingfunctional/fpm-for-VS): adds options and menu entries for building, running and testing your Fortran project using the Fortran Package Manager (fpm), by everythingfunctional
 
+[Fortran Project Template](https://github.com/MatthAlex/fortran-project-template): project template with pre-commit checks, compile checks with `fpm build`, automated testing with `fpm test`, code formatting with `fprettify`, and linting with the Modern Fortran VSCode extension, by MatthAlex
+
 [fpm](https://github.com/fortran-lang/fpm): Fortran Package Manager (fpm) is a package manager and build system for Fortran, from fortran-lang
 
 [fpm-completions](https://github.com/ShinobuAmasaki/fpm-completions): command-line completion functions for the Fortran Package Manager, by Shinobu Amasaki. Zsh is required to use this package, currently.
