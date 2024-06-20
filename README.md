@@ -416,6 +416,8 @@
 
 [haskell-fortran](https://github.com/freckletonj/haskell-fortran): example of how to use Haskell's foreign function interface (FFI), and C's Fortran FFI, to connect ultimately Fortran code to Haskell, and to Haskell's HMatrix library, by Josh Freckleton
 
+[inline](https://github.com/eddelbuettel/inline): provides functionality to dynamically define R functions (and corresponding S4 objects) from in-line C, C++ or Fortran code, by Dirk Eddelbuettel et al.
+
 [jansfortrankernel](https://github.com/jans-code/jansfortrankernel): Jupyter kernel implementation of Fortran, by Jan Arman Parpin
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
