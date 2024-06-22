@@ -71,6 +71,8 @@
 
 [CMake Utils](https://github.com/scivision/cmakeutils): helpful scripts and modules for CMake, especially for scientific computing, HPC, and Fortran, from scivision
 
+[cookiecutter-fortran-project](https://github.com/fortuno-repos/cookiecutter-fortran-project): templates for setting up new Fortran projects, allowing the user to choose from various build systems (CMake, Fpm, and Meson) and different parallelization models such as serial, MPI, and coarray. The generated projects include a library, unit tests (currently utilizing the [Fortuno](https://github.com/fortuno-repos/fortuno) unit test framework), and optionally, a standalone application and an example.
+
 [easy](https://github.com/urbanjost/easy): steps to setup a GitHub repository with fpm, and GitHub actions including ford(1) documentation and unit tests, by urbanjost
 
 [F90_makefile_builder](https://github.com/benjamin-pieczynski/F90_makefile_builder): Python program to build a makefile for a Fortran 90 program by searching through each module for dependencies, by Benjamin Pieczynski. The algorithm determines the order of the dependencies and builds the make file in the correct order.
