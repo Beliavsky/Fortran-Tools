@@ -801,9 +801,17 @@ from sourceryinstitute
 [progRESS+repORT (progrep}](https://github.com/SomajitDey/progrep): utility to show live progress, status and stats of a running simulation or any compute job that executes a given number of iterations, by SomajitDey. Progrep can report for both serial (single-core) and parallel (multi-core/multi-node - e.g. OpenMP/MPI) jobs.
 
 ### Unit Testing
+[f90tw](https://github.com/loudove/f90tw): provides Fortran wrappers for a limited subset of the Boost and Google test frameworks functionality, by loudove. At the same time, it offers a rather simple mechanism for setting up and managing test suites in Fortran projects.
+
+[ForDebug](https://github.com/gha3mi/fordebug): library designed for debugging Fortran code, especially within pure procedures, by Seyed Ali Ghasemi
+
 [FortCompare](https://github.com/aijac0/fortran_regression_testing_tool): tool to mitigate the amount of behavior changed between two implementations of the same Fortran function or subroutine, by aijac0
 
+[fort_test](https://github.com/archermarx/fort_test): very lightweight testing framework that supports basic assertions and running of test sets, by Thomas Marks
+
 [fortran-testanything](https://github.com/dennisdjensen/fortran-testanything): test library supporting the Test Anything Protocol (TAP) inspired by Perl's Test::More module, by dennisdjensen
+
+[fortran_test_helper](https://github.com/jchristopherson/fortran_test_helper): library to provide assistance to testing, by Jason Christopherson
 
 [FortranTestGenerator](https://github.com/fortesg/fortrantestgenerator): automatically generates unit tests for subroutines of existing Fortran applications based on an approach called Capture & Replay, from fortesg
 
@@ -811,16 +819,31 @@ from sourceryinstitute
 
 [fortran_unit_test](https://github.com/dryman/fortran_unit_test): minimalistic Fortran unit tests with CMake and CTest, by Felix Chern
 
+[Fortran-Unit-Test](https://github.com/richmorrison/Fortran-Unit-Test): shows how to link Fortran code with C/C++ and a testing framework such as Google Test, by Rich Morrison
 
 [Fortran_UnitTest](https://github.com/zhenkunl/Fortran_UnitTest): unit test library based on OOP, by zhenkunl. It is strongly inspired by Zofu, and its output format is derived from [fortran-unit-test](https://github.com/dongli/fortran-unit-test).
+
+[Fortran Unit Test Framework (FortUTF)](https://github.com/artemis-beta/FortUTF): unit test framework written purely in Fortran to be compatible with as many projects as possible, by Kristian Zarębski
 
 [Fortran Unit Test Library](https://github.com/zhenkunl/Fortran_UnitTest): pure Fortran library using Object-Oriented Programming (OOP), by zhenkunl. It is strongly inspired by [Zofu](https://github.com/acroucher/zofu), and its output format is derived from [fortran-unit-test](https://github.com/dongli/fortran-unit-test). 
 
 [Fortran Unit Testing Objects (Fortuno)](https://github.com/aradi/fortuno): flexible and extensible Fortran unit testing framework for testing serial, MPI-parallelized and coarray-parallelized applications, by Bálint Aradi
 
-[FRUIT](https://github.com/mortele/FRUIT): Fortran unit test framework in Ruby, by mortele and michaelkonecny 
+[ForUnitTest](https://github.com/gha3mi/forunittest): simple, object-oriented unit testing framework, by Seyed Ali Ghasemi.
+
+[FRUIT](https://github.com/mortele/FRUIT): Fortran unit test framework in Ruby, by mortele and michaelkonecny
+
+[ftest](https://github.com/ladislavmeri/ftest): minimalistic unit testing, by Ladislav Méri
+
+[FUnit](https://github.com/andreypudov/funit): lightweight library for writing, administering, and running unit tests in Fortran, by Andrey Pudov. It is an instance of the xUnit architecture and provides Fortran programmers a basic testing functionality with a flexible variety of user interfaces.
 
 [fytest](https://github.com/aradi/fytest): lightweight unit testing framework for Fortran, by aradi. Thanks to its header-only design, it can be easily bundled with any Fortran project without creating extra dependencies.
+
+[julienne](https://github.com/sourceryinstitute/julienne): compiler-portable, unit-testing framework for modern Fortran, including accelerated coarray Fortran software, by Katherine Rasmussen and Damian Rouson
+
+[M_framework](https://github.com/urbanjost/M_framework): aggregate of Fortran modules useful for creating terminal messages, comparing expected values to results, writing logfiles and playback journals and performing unit tests for Fortran, by urbanjost
+
+[par-funnel](https://github.com/degawa/par-funnel): unit test parameterizer using namelist, by Tomohiro Degawa. Par-funnel is not a unit test framework but is intended to be used with other unit test frameworks.
 
 [pFUnit](https://github.com/Goddard-Fortran-Ecosystem/pFUnit): unit testing framework enabling JUnit-like testing of serial and MPI-parallel software written in Fortran, from Goddard-Fortran-Ecosystem. Limited support for OpenMP is also provided in the form of managing exceptions in a thread-safe manner.
 
@@ -828,4 +851,8 @@ from sourceryinstitute
 
 [test-drive](https://github.com/awvwgk/test-drive): lightweight, procedural unit testing framework based on nothing but standard Fortran, by awvwgk. Integration with meson, cmake and Fortran package manager (fpm) is available. [testdrive_util](https://github.com/degawa/testdrive_util) by Tomohiro Degawa provides procedures to make using test-drive more convenient.
 
+[Testing Or ASsertion Toolkit (TOAST)](https://github.com/thomasms/toast): unit testing library by thomasms and Bob Apthorpe
+
 [Vegetables](https://gitlab.com/everythingfunctional/vegetables/-/tree/main/): testing framework written using functional programming principles, by Brad Richardson. As many of its procedures as possible are marked with the pure keyword while still allowing the framework to test impure code.
+
+[XFunit](https://github.com/ffadrique/XFunit): object oriented framework to implement unit testing in Fortran 2018, by Fran Martinez Fadrique. Unit testing with XFunit is structured in suites and units. A test suite typically define all test to be implemented for a Fortran module.
