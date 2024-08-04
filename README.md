@@ -637,6 +637,8 @@ from sourceryinstitute
 
 [fortran-vars](https://github.com/camfort/fortran-vars): static analysis library for Fortran code. It is built on top of the open source project fortran-src which provides lexing, parsing and basic analyses of Fortran code. Fortran-vars focuses on supporting the Fortran 77 standard and extensions. It provides a Fortran memory model with a symbol table and storage table, constant expressions evaluation, constant propagation analysis.
 
+[fparser](https://github.com/stfc/fparser): parser in Python which supports Fortran 2003 and some Fortran 2008, maintained by Andrew Porter et al., originally by Pearu Peterson
+
 [fpt - Tools for Fortran Engineering](http://simconglobal.com/fpt_summary.html) - Error Checking, Measurement and Assessment, Structural Engineering, Software Migration, Run-time Testing, and more. (C)
 
 [fsource](https://github.com/mwallerb/fsource): Fortran static analysis tool written in pure Python, by mwallerb
