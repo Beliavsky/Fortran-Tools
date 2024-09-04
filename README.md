@@ -200,6 +200,8 @@
 
 [flang-wasm](https://github.com/r-wasm/flang-wasm): contains tools to build a patched version of LLVM's flang-new compiler that can be used to compile Fortran sources for WebAssembly. A pre-built Fortran runtime library is also built for WebAssembly using Emscripten.
 
+[fortran-dev-image](https://github.com/kmturbulenz/fortran-dev-image): image contains recent versions of compilers, MPI and HDF5 libraries along with basic build tools (CMake, Ninja), by Håkon Strandenes. These images can then be used to compile Fortran applications that depend on MPI and HDF5.
+
 [fortran-ios](https://github.com/ColdGrub1384/fortran-ios): script that acts like a Fortran compiler that uses Flang to build sources for iOS arm64, by Emma Cold
 
 [Fortran kernel for Jupyter with Coarray support](https://github.com/sourceryinstitute/jupyter-CAF-kernel): from sourceryinstitute
