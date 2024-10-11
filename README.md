@@ -775,6 +775,8 @@ from sourceryinstitute
 
 [Mc2For](https://github.com/Sable/Mc2For): MATLAB to Fortran compiler, from Sable
 
+[numeta](https://gitlab.com/andrea_bianchi/numeta): simple Just-In-Time (JIT) compiler for Python, focused on metaprogramming, by Andrea Bianchi. Currently, the code generates Fortran code that is compiled and executed.
+
 [pyccel](https://github.com/pyccel/pyccel): Pyccel can be viewed as a Python-to-Fortran/C converter or a compiler for a Domain Specific Language with Python syntax
 
 ### Unclassified
