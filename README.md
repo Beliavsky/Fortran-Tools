@@ -592,6 +592,8 @@ from sourceryinstitute
 
 [Refactoring Of QUEstionable FORTran (Roquefort)](https://github.com/NLESC-JCER/roquefort): creates module to replace existing common blocks, removes unused variable imported from modules, transforms implicit variable declaration to explicit variable declaration, and moves variables to a new module, from NLESC-JCER
 
+[Tidy](https://www.pdas.com/tidy.html): renumbers and otherwise cleans up old and tired FORTRAN source programs. TIDY accepts ANSI Fortran 77 with a default of 19 continuation cards as well as some IBM and CDC dialect FORTRAN statements, originally by Harry Murphy
+
 ### Static Analysis
 [camfort](https://github.com/camfort/camfort): refactoring and verification tool for scientific Fortran programs. It currently supports Fortran 66, 77, and 90 with various legacy extensions.
 
