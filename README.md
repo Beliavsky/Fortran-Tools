@@ -582,7 +582,7 @@ from sourceryinstitute
 [timemory](https://github.com/NERSC/timemory): performance measurement and analyis package with modular and reusable components which can be used to adapt to any existing C/C++ performance measurement and analysis API and is arbitrarily extendable by users within their application, from NERSC
 
 ### Refactoring
-[FLOPPY](https://www.netlib.org/floppy/): checks FORTRAN 77 code it according to various "coding conventions", by Julian J. Bunn. Floppy can "tidy" the source FORTRAN, producing a new file with indented,	do-loops, block if-s, and so on. The FLOW program takes the binary summary file produced by FLOPPY and produces various reports on the structure of the original FORTRAN program.
+[FLOPPY](https://www.netlib.org/floppy/): checks FORTRAN 77 code it according to various "coding conventions", by Julian J. Bunn. It can "tidy" the source FORTRAN, producing a new file with indented,	do-loops, block if-s, and so on. The FLOW program takes the binary summary file produced by FLOPPY and produces various reports on the structure of the original FORTRAN program.
 
 [Fortran Language Program Remodeling system (FLPR)](https://github.com/lanl/FLPR):  C++17 library for manipulating Fortran source code, from LANL. This package contains a "best effort" Fortran 2018 input parser for fixed and free form inputs, data structures for manipulating source code at the program unit, statement, and physical line levels, and sample applications that illustrate usage and provide some ideas as to how you could use the library.
 
