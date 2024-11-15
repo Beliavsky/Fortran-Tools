@@ -6,6 +6,7 @@
 * [Build Tools](#build-tools)
 * [Code Generation](#code-generation)
 * [Command Line Parsing](#command-line-parsing)
+* [Compiler Testing](#compiler-testing)
 * [Compilers](#compilers)
 * [Debugging](#debugging)
 * [Emacs Plugins](#emacs-plugins)
@@ -190,6 +191,9 @@
 [optionsf90](https://github.com/cngilbreth/optionsf90): module for defining and parsing command-line options and input parameters for Fortran programs, by Christopher N. Gilbreth. Its design is inspired by Python's optparse module.
 
 [paramcard](https://github.com/tueda/paramcard): command-line parameter input made simple, by Takahiro Ueda
+
+### Compiler Testing
+[Fortran-compiler-test-suite](https://github.com/BerkeleyLab/fortran-compiler-test-suite): contains a framework and suite of cases for testing a Fortran compiler with the primary goals of making it easy for the Fortran community to add tests and making it easy to use the framework with a broad range of compilers, by Brad Richardson et al.
 
 ### Compilers
 [AMD Optimizing C/C++/Fortran Compiler (AOCC)](https://developer.amd.com/amd-aocc/): high performance, production quality code generation tool. The AOCC environment provides various options to developers while building and optimizing C, C++, and Fortran applications targeting 32-bit and 64-bit Linux® platforms.
