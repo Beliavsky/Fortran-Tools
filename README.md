@@ -88,9 +88,11 @@
 
 [FoBiS.py, Fortran Building System for poor people](https://github.com/szaghi/FoBiS): automatic parsing of files for dependency-hierarchy creation in case of use and include statements, and automatic building of all programs found into the root directory parsed or only a specific selected target, by szaghi et al.
 
-[fortdep](https://github.com/gronki/fortdep): Python3 script for generating dependencies between Fortran modules for make, by Dominik Gronkiewicz
+[fortdep](https://github.com/gronki/fortdep): Python 3 script for generating dependencies between Fortran modules for make, by Dominik Gronkiewicz
 
-[fortdepend](https://github.com/ZedThree/fort_depend.py): python script to generate dependencies for Fortran projects, by ZedThree
+[fortdepend](https://github.com/ZedThree/fort_depend.py): Python script to generate dependencies for Fortran projects, by ZedThree
+
+[forte](https://github.com/jeyemhex/forte): short script able to execute Fortran 90 code from within the Linux shell more flexibly, by Ed Higgins
 
 [fortran-compiler-with-two-computers](https://github.com/juniortavaress/fortran-compiler-with-two-computers): Python code to facilitate the workflow of compiling Fortran source files on one computer and running the compiled output (DLL) on another, by Jucelio Tavares Junior. It is ideal for distributed environments where simulation and compilation processes are handled by separate machines.
 
