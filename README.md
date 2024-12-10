@@ -753,6 +753,8 @@ from sourceryinstitute
 [Yapakit](http://yapakit.fortran.pagesperso-orange.fr/): free Fortran source code editor for Windows, Linux or Mac. It can automatically an html documentation of a project and generate Fortran 90 dependencies for inclusion in a makefile, taking module dependencies into account
 
 ### Translation from Fortran
+[CFortranTranslator](https://github.com/CalvinNeo/CFortranTranslator): translator from Fortran to C++ that provides statement-wise translation to improve readability, by Calvin Neo and Michael Tesch
+
 [f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
 
 [F2C-Translator](https://github.com/bin123apple/F2C-Translator): translates Fortran to C++, by Bin Lei. Also [HPC-Code-translation-and-generation](https://github.com/bin123apple/HPC-Code-translation-and-generation): tests the translation and generation performance of Fortran HPC code using CodeXGLUE and ChatGPT, and 
