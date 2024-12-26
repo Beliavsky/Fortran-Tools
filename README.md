@@ -418,6 +418,8 @@
 
 [fortran_magic](https://github.com/mgaitan/fortran_magic): extension for IPython/Jupyter that helps to use Fortran in an interactive session, by Martín Gaitán
 
+[fortran_meson_py](https://github.com/SalvadorBrandolin/fortran_meson_py): example of building Python API of Fortran project with Meson, by Salvador Brandolín. The objective is to demonstrate how to integrate a Fortran library that runs with the Fortran Package Manager (fpm) and a Python API within the same repository, enabling package building and distribution.
+
 [FortranNamelist](https://github.com/jonathanschilling/FortranNamelist): Java reading class for Fortran namelists, by Jonathan Schilling
 
 [Fortran Namelist Reader](https://github.com/scivision/fortran-namelist): Python and Matlab readers for Fortran namelist => dict / struct, from scivision
