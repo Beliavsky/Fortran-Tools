@@ -724,6 +724,8 @@ from sourceryinstitute
 
 [neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 
+[nvim-fortran-snippets](https://github.com/gustav-jansen/nvim-fortran-snippets): Neovim plugin providing LuaSnip snippets for Fortran programming, by Gustav R. Jansen. These snippets are designed to quickly create boilerplate code for modules, derived types, and more.
+
 [Photran](https://www.eclipse.org/photran/): IDE and refactoring tool for Fortran based on Eclipse and the CDT. Photran supports Fortran 77-2008. It includes 39 refactoring, including Rename, Extract Procedure, and loop transformations
 
 [qtcreator-fortran](https://github.com/jonaslindemann/qtcreator-fortran): support for Fortran projects and source files in [Qt Creator](https://www.qt.io/product/development-tools) as well as syntax-highlighting, by Jonas Lindemann
