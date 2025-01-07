@@ -214,6 +214,8 @@
 
 [flang-wasm](https://github.com/r-wasm/flang-wasm): contains tools to build a patched version of LLVM's flang-new compiler that can be used to compile Fortran sources for WebAssembly. A pre-built Fortran runtime library is also built for WebAssembly using Emscripten.
 
+[For2Wasm](https://github.com/YutingShang/For2Wasm): Fortran to WebAssembly Compiler, by Yuting Shang
+
 [fortran-dev-image](https://github.com/kmturbulenz/fortran-dev-image): image contains recent versions of compilers, MPI and HDF5 libraries along with basic build tools (CMake, Ninja), by Håkon Strandenes. These images can then be used to compile Fortran applications that depend on MPI and HDF5.
 
 [Fortran High-Level Synthesis (fortran-hls-main)](https://github.com/xinwenir/fortran-hls-main): enables Fortran on AMD Xilinx devices through the integration of LLVM Flang in the Vitis ecosystem, thus enabling the use of all its features, such as simulation, profiling, and generation of hardware bitsreams. Associated paper: [Fortran High-Level Synthesis: Reducing the barriers to accelerating HPC codes on FPGAs](https://arxiv.org/abs/2308.13274), by Gabriel Rodriguez-Canal et al.
