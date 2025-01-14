@@ -373,6 +373,8 @@
 
 [IndentPatternFortran](https://github.com/JHenneberg/IndentPatternFortran): general indentation patterns for Fortran, by JHenneberg
 
+[lfortran](https://github.com/lfortran/lfortran): compiler that can format any code it can parse, with the command `lfortran fmt`, by Ondřej Čertík et al.
+
 [xpand](https://github.com/urbanjost/xpand): expands tabs in files. removes trailing white space, and optionally removes multiple blank lines, by urbanjost. It is primarily intended for use on systems without access to the Unix command expand(1).
 
 ### Interoperability
