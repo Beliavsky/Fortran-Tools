@@ -357,7 +357,7 @@
 
 [FF08Obfuscate](https://www.megms.com.au/ff08obfuscate.htm): command line tool for generating a superficially obfuscated variant of the source of a Fortran 2008 program, written in Fortran 2003 by IanH. It does this by modifying the identifiers in the program and rendering the code without any source comments.
 
-[findent](https://github.com/MFTabriz/findent): indents and beautifies Fortran source, fixed and free format, and converts Fortran fixed format to Fortran free format, by wvermin and MFTabriz. [Findent-pypi](https://github.com/gnikit/findent-pypi), by gnikit, has PyPi wheels.
+[findent](https://github.com/MFTabriz/findent): indents and beautifies Fortran source, fixed and free format, and converts Fortran fixed format to Fortran free format, by wvermin and MFTabriz. [Findent-pypi](https://github.com/gnikit/findent-pypi), by gnikit, has PyPi wheels. [findent-pre-commit](https://github.com/zmoon/findent-pre-commit) by Zachary Moon enables findent as a pre-commit hook.
 
 [flower](https://github.com/urbanjost/flower): converts free-format Fortran code to all lowercase or all uppercase, by urbanjost. In each case comments and quoted text are left as-is.
 
