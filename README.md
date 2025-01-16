@@ -730,6 +730,8 @@ from sourceryinstitute
 
 [Guide_VSCode-fortran](https://github.com/JHenneberg/Guide_VSCode-fortran): comprehensive guide on how to set up a complete development environment for Fortran in Visual Studio Code, by Julian Henneberg
 
+[jupyter-fortran-kernel](https://github.com/Carltoffel/jupyter-fortran-kernel/): Minimal Fortran kernel for Jupyter that works on Linux and OS X (and Windows with Docker), by Carltoffel
+
 [Modern-Fortran](https://github.com/eirik-kjonstad/modern-fortran-syntax): language syntax for highlighting of Fortran code in [Sublime Text](https://www.sublimetext.com/), by eirik-kjonstad. It highlights modern Fortran (Fortran 90 and newer) and incorporates features introduced in Fortran 2003, 2008, and 2018.
 
 [neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
