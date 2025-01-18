@@ -794,7 +794,7 @@ from sourceryinstitute
 
 [Fortran-CPP-HPC-code-translation-dataset](https://github.com/bin123apple/OpenMP-Fortran-CPP-Translation): data set for the preprint [Creating a Dataset for High-Performance Computing Code Translation: A Bridge Between HPC Fortran and C++](https://arxiv.org/abs/2307.07686) (2023), by Bin Lei et al.
 
-[Fortran2Cpp](https://github.com/bin123apple/Fortran2Cpp): aims to create an accurate and comprehensive Fortran-to-C++ translation dataset for fine-tining LLMS such as ChatGPT-4, by Bin Lei and Chunhua Liao
+[Fortran2Cpp](https://github.com/bin123apple/Fortran2Cpp): aims to create an accurate and comprehensive Fortran-to-C++ translation dataset for fine-tining LLMS such as ChatGPT-4, by Bin Lei and Chunhua Liao, discussed in the preprint [Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration](https://arxiv.org/abs/2412.19770) (2024)
 
 [Fortran to C++ Conversion from Objexx](https://objexx.com/Fortran_to_Cpp.html): conversion process preserves the structure and syntax of the Fortran to retain the value of the existing documentation and developer knowledge. Another product [converts Fortran to Python](https://objexx.com/Fortran_to_Python.html) (C).
 
