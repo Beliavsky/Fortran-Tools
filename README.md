@@ -808,6 +808,8 @@ from sourceryinstitute
 
 [Incomplete Fortran to C/C++ converter](https://simulationcorner.net/index.php?page=if2c): translates Fortran 77 to readable C/C++, by Sebastian Macke
 
+[LinguistLLM](https://github.com/CodeTranslatorLLM/LinguistLLM): language model (LLM) that can accurately translate Fortran code into Rust, integrate the model into an API, and ensure the translated code meets industry standards through benchmarking, by Caslow Chien and Chandrahas Aroori
+
 [loki](https://github.com/ecmwf-ifs/loki): tool to explore the possible use of source-to-source translation for ECMWF's Integrated Forecasting System (IFS) and associated Fortran software packages. Loki is based on compiler technology (visitor patterns and ASTs) and aims to provide an abstract, language-agnostic representation of a kernel, as well as a programmable (Pythonic) interface that allows developers to experiment with different kernel implementations and optimizations. 
 
 ### Translation to Fortran
