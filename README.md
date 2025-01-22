@@ -830,6 +830,7 @@ from sourceryinstitute
 [pyccel](https://github.com/pyccel/pyccel): Pyccel can be viewed as a Python-to-Fortran/C converter or a compiler for a Domain Specific Language with Python syntax
 
 [quickr](https://github.com/t-kalinowski/quickr): R to Fortran Transpiler by Tomasz Kalinowski. Exports a function that can accelerate R functions that have their types and shapes declared, use atomic vectors of type integer, double, logical, or complex, return atomic arrays, and satisfy other restrictions.
+[frast](https://github.com/t-kalinowski/frast) is an earlier prototype of an R-to-Fortran transpiler and a just-in-time (JIT) compiler for R functions.
 
 ### Unclassified
 [automates](https://github.com/ml4ai/automates): Automated Model Assembly from Text, Equations, and Software, from ml4ai
