@@ -594,6 +594,8 @@ from sourceryinstitute
 
 [fortiel](https://github.com/Jhuighuy/fortiel): Fortran preprocessor and metaprogramming engine, by Jhuighuy
 
+[Fortran interfaces, classes and header extensions (fortiche)](https://github.com/davidpfister/fortiche): collection of various preprocessor macros designed to extend the current features of the Fortran standard, by davidpfister.
+
 [fypp](https://github.com/aradi/fypp): Python-powered preprocessor, by aradi. It can be used for any programming languages but its primary aim is to offer a Fortran preprocessor, which helps to extend Fortran with condititional compiling and template metaprogramming capabilities
 
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
