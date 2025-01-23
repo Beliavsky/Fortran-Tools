@@ -832,6 +832,8 @@ from sourceryinstitute
 [quickr](https://github.com/t-kalinowski/quickr): R to Fortran Transpiler by Tomasz Kalinowski. Exports a function that can accelerate R functions that have their types and shapes declared, use atomic vectors of type integer, double, logical, or complex, return atomic arrays, and satisfy other restrictions.
 [frast](https://github.com/t-kalinowski/frast) is an earlier prototype of an R-to-Fortran transpiler and a just-in-time (JIT) compiler for R functions.
 
+[transpyle](https://github.com/mbdevpl/transpyle): Human-oriented and high-performing transpiler for Python that can transpile a Python AST to Fortran, by Mateusz Bysiek. It is no longer being developed.
+
 ### Unclassified
 [automates](https://github.com/ml4ai/automates): Automated Model Assembly from Text, Equations, and Software, from ml4ai
 
