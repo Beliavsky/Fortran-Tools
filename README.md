@@ -484,6 +484,8 @@
 
 [RFortranRcpp](https://github.com/Konrad1991/RFortranRcpp): communication between Fortran, Rcpp and R, by Konrad1991.  Passing R or Fortran user code to Fortran code from a package.
 
+[R to Modern Fortran Interface (RFI)](https://github.com/t-kalinowski/RFI): provides .ModernFortran(), an interface similar to .Fortran() but for Fortran 2018, by Tomasz Kalinowski. In contrast with .Fortran, R arrays are not passed as naked pointers, but as C descriptors that contain information about rank, shape, element size, type, and memory stride of the array that the Fortran routine can access directly.
+
 [setup_mex](https://github.com/equipez/setup_mex): provides scripts that attempt to facilitate setting up the MATLAB MEX on macOS or Windows, by Zhang Zaikun. For Fortran, it will install (automatically) the Fortran compiler from Intel oneAPI
 
 [shroud](https://github.com/LLNL/shroud): creates a Fortran or Python interface to a C or C++ library, from LANL. It can also create a C API for a C++ library.
