@@ -507,6 +507,8 @@
 
 [Codee](https://www.codee.com/): automatic code inspection platform specialized in performance for time-critical C/C++/Fortran applications (C). Training materials are [here](https://www.nersc.gov/users/training/events/codee-training-series-apr2023/).
 
+[fortran-cuda-interfaces](https://github.com/SourceryTools/fortran-cuda-interfaces): interfaces to CUDA libraries for GCC/OpenACC, from Mentor/Siemens. Modules include cublas, cublas_v2, cublasxt, openacc_cublas, cufft.
+
 [fortran-parser](https://github.com/ToxPuro/fortran-parser): Fortran preprocessor in Python, by Touko Puro, designed for multithreading and GPU offloading through OpenMP, featuring automatic privatization of modified global variables in multithreaded code, Fortran array operation unrolling to DO-loops with automatic declaratives to spread work either along CPU or GPU threads, automatic declarations for global variables needed in target regions, and function inlining which helps OpenMP offloading
 
 [gpufort](https://github.com/ROCmSoftwarePlatform/gpufort): source-to-source translation tool for CUDA Fortran and Fortran+X in the spirit of [hipify](https://github.com/ROCm-Developer-Tools/HIPIFY)
