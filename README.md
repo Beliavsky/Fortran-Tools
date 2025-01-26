@@ -456,6 +456,8 @@
 
 [inline](https://github.com/eddelbuettel/inline): provides functionality to dynamically define R functions (and corresponding S4 objects) from in-line C, C++ or Fortran code, by Dirk Eddelbuettel et al.
 
+[ISO_Fortran_binding](https://github.com/sourceryinstitute/ISO_Fortran_binding): supports C/Fortran interoperability by providing the Fortran 2018 ISO_Fortran_binding.h C header file, corresponding function definitions, and CMake scripts for building, testing, and installing static and dynamic libraries, by Damian Rouson et al. C programs may use the provided function to manipulate interoperable Fortran data objects by exploiting metadata describing the type, rank, extents, contiguity, and other information about the object.
+
 [jansfortrankernel](https://github.com/jans-code/jansfortrankernel): Jupyter kernel implementation of Fortran, by Jan Arman Parpin
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
