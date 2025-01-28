@@ -615,6 +615,8 @@ from sourceryinstitute
 
 [Reference-Counter](https://github.com/sourceryinstitute/reference-counter): extensible, object-oriented reference-counting utility for Fortran, described in Rouson, Morris & Xia (2012) [This Isn't Your Parents' Fortran: Managing C++ Objects with Modern Fortran.](https://ieeexplore.ieee.org/document/6159199) Computing in Science & Engineering 14(2), 46-54.
 
+[SALT: An LLVM-based Source Analysis Tookit for HPC](https://github.com/ParaToolsInc/salt): from ParaTools. Also [TAU Performance System](https://www.cs.uoregon.edu/research/tau/home.php), a portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, and Python.
+
 [timemory](https://github.com/NERSC/timemory): performance measurement and analyis package with modular and reusable components which can be used to adapt to any existing C/C++ performance measurement and analysis API and is arbitrarily extendable by users within their application, from NERSC
 
 ### Refactoring
