@@ -66,6 +66,8 @@
 
 [ProTeX](http://wiki.seas.harvard.edu/geos-chem/index.php/Automatic_documentation_with_protex): Perl script that can strip information from a standard Fortran document header and save that to a LaTeX file, by Arlindo Da Silva et al.
 
+[ProTeX - Python Version](https://github.com/joaogerd/protex): Python tool that processes documentation comments embedded in source files (e.g., Fortran code) and generates a formatted LaTeX document. By using a standardized set of markers, ProTeX allows the user to maintain documentation alongside source code and automatically produce high-quality documentation.
+
 [version-f](https://github.com/minhqdao/version-f): implementation of [Semantic Versioning 2.0.0](https://semver.org/) by Minh Dao that aims to be a user-friendly tool for handling versions in Fortran projects
 
 ### Build Tools
