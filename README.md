@@ -482,6 +482,8 @@
 
 [process_model](https://github.com/Cambridge-ICCS/process_model): reads a TensorFlow SavedModel and outputs Fortran code to interface it to the [fortran-tf-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib), by Simon Clifford et al.
 
+[pyfort](https://github.com/larsbuntemeyer/pyfort): simple demo Python package that compiles a Fortran extension using meson, based on using f2py via meson including automatic wrapper generation, by Lars Buntemeyer
+
 [pyifb](https://github.com/rjfarmer/pyifb): Python interface to Fortran's ISO_Fortran_binding.h, by Robert Farmer
 
 [RFortranRcpp](https://github.com/Konrad1991/RFortranRcpp): communication between Fortran, Rcpp and R, by Konrad1991.  Passing R or Fortran user code to Fortran code from a package.
