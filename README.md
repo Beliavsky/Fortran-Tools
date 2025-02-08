@@ -285,6 +285,8 @@
 
 [gdb_fortran_tools](https://github.com/mankoff/gdb_fortran_tools): support more advanced gdb debugging of Fortran code: generic access to many basic numpy array operators: sum, min, max, log10, etc.; graphics: plot, imshow, scatter; save data: pickle, CSV, by Ken Mankoff and X-Neon
 
+[m_err2](https://github.com/mgoonde/m_err2): independent error-storing and reporting type, using the __FILE__ and __LINE__ macros of the C-preprocessor, by Miha Gunde
+
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++, Fortran, and Python3, used to build validation frameworks against reference runs, from ETH Zurich
 
 [ups](https://github.com/sth/ups): source level C, C++ and Fortran debugger that runs under X11, by Mark Russell. Currently supported systems are FreeBSD and GNU/Linux on Intel x86 and Solaris on SPARC.
