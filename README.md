@@ -659,6 +659,8 @@ from sourceryinstitute
 
 [FF08Diff](https://www.megms.com.au/ff08diff.htm): command line tool for obtaining the semantic difference (difference in meaning, rather than appearance) between two sets of Fortran 2008 source files, written in Fortran 2003 by IanH
 
+[f-ikos](https://github.com/zoush99/f-ikos): run-time error analyzer for Fortran programs based on abstract interpretation, with a front-end parser sourced from Flang. An associated paper by Sheng Zou et al. is [here](https://ceur-ws.org/Vol-3864/quasoq-2024-paper-04.pdf).
+
 [flint](https://github.com/JonasToth/flint): Little linter for Fortran, with static analysis and formatting, by JonasToth
 
 [flint](https://github.com/marshallward/flint): aspires to be a Fortran parser, delinter, and analyser, by marshallward. For now, it is a Fortran tokenizer, with tools for parsing and automated documentation.
