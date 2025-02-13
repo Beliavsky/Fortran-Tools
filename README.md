@@ -426,6 +426,8 @@
 
 [Fortran90Namelists.jl](https://github.com/singularitti/Fortran90Namelists.jl): Julia implementation of Python [f90nml](https://github.com/marshallward/f90nml) for working with Fortran namelists
 
+[fortran-descriptor-parser](https://github.com/LukaOber/fortran-descriptor-parser): in Rust, parse bytes which are formatted according to a Fortran format edit descriptor, by LukaOber
+
 [FortranFile](https://github.com/ncke/FortranFile): read data using Swift from files using a Fortran format specification, by Nick Everitt
 
 [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl): Julia package for reading/writing Fortran unformatted (i.e. binary) files, by Frank Otto et al.
