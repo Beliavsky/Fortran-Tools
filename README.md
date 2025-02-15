@@ -527,6 +527,8 @@
 
 [Hybrid-Fortran](https://github.com/muellermichel/Hybrid-Fortran): directive-based extension for the Fortran language to support GPGPU. Its input is Fortran code with Hybrid Fortran extensions, and its output is CUDA Fortran or OpenMP Fortran code.
 
+[loopy](https://github.com/inducer/loopy): code generator for array-based code on CPUs and GPUs, by Andreas Kloeckner. An application to a Fortran code is described in the preprint [Teaching An Old Dog New Tricks: Porting Legacy Code to Heterogeneous Compute Architectures With Automated Code Translation](https://www.arxiv.org/abs/2502.05279)
+
 [mpich](https://github.com/pmodels/mpich): high-performance and widely portable implementation of the MPI-3.1 standard from the Argonne National Laboratory
 
 [MultiFortran](https://github.com/gustavoverneck/MultiFortran): Python script to run a Fortran template in parallel using multiple parameters, by Gustavo A. Verneck
