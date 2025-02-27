@@ -851,7 +851,7 @@ from sourceryinstitute
 ### Translation to Fortran
 [c2f](https://github.com/Beliavsky/c2f): partial C to Fortran translator by David Frank
 
-[foruby](https://github.com/tufusa/foruby): transpiler from Ruby to Fortran, in Ruby, by tufusa
+[foruby](https://github.com/tufusa/foruby): translates Ruby to Fortran, in Ruby, by tufusa
 
 [Macrofort](https://github.com/clg55/Macrofort): Fortran code generator in Maple, by Claude Gomez
 
