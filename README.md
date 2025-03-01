@@ -102,6 +102,8 @@
 
 [fortran-compiler-with-two-computers](https://github.com/juniortavaress/fortran-compiler-with-two-computers): Python code to facilitate the workflow of compiling Fortran source files on one computer and running the compiled output (DLL) on another, by Jucelio Tavares Junior. It is ideal for distributed environments where simulation and compilation processes are handled by separate machines.
 
+[fortranc-rs](https://github.com/smoothdeveloper/fortranc-rs): Rust crate that facilitates compiling Fortran code to be embedded in Rust crates, similar to [cc-rs](https://github.com/rust-lang/cc-rs).
+
 [fortrandep](https://github.com/orvedahl/fortrandep): Python tool to determine Makefile dependencies for a Fortran project, by Ryan Orvedahl
 
 [Fortran_makedeps](https://github.com/jamesbiddle/Fortran_makedeps): small Python script to scan Fortran sources and generate makefile-appropriate dependencies, by James Biddle
