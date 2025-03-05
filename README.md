@@ -1,5 +1,3 @@
-### Fortran Tools
-
 (C) indicates a commercial product
 * [Automatic Differentiation](#automatic-differentiation)
 * [Automatic Documentation](#automatic-documentation)
