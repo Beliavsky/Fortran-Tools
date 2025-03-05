@@ -1,4 +1,4 @@
-(C) indicates a commercial product
+(C) indicates a commercial product. Please suggest changes [here](https://github.com/Beliavsky/Fortran-Tools/issues).
 * [Automatic Differentiation](#automatic-differentiation)
 * [Automatic Documentation](#automatic-documentation)
 * [Build Tools](#build-tools)
