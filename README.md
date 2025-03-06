@@ -725,7 +725,7 @@ from sourceryinstitute
 
 [plusFORT](https://www.fortran.uk/fortran-analysis-and-refactoring-with-plusfort/plusfort-evaluation-version/pss-evaluation-starter-pack/) - multi-purpose suite of tools for analyzing and improving Fortran programs, free for personal, educational and academic users working on non-commercial projects. (C)
 
-[pyft](https://github.com/UMR-CNRM/pyft): Python script that reads a Fortran code, parses it in xml, performs some manipulations, and reverts it to Fortran, from UMR-CNRM. It can add and remove variable declarations, find unused variables, convert code to lower or upper case, and do other things listed [here](https://github.com/UMR-CNRM/pyft/blob/main/doc/Documentation.md).
+[pyfortool](https://github.com/UMR-CNRM/pyfortool): Python script that reads a Fortran code, parses it in xml, performs some manipulations, and reverts it to Fortran, from UMR-CNRM. It can add and remove variable declarations, find unused variables, convert code to lower or upper case, and do other things listed [here](https://github.com/UMR-CNRM/pyft/blob/main/doc/Documentation.md).
 
 [Simple Lint GitHub Action (simple_lint)](https://github.com/NOAA-GFDL/simple_lint): runs simple lint-like actions on files in a git repository, from NOAA-GFDL. The current list of lint actions are to check for trailing whitespace, check Fortran files for use of tab characters, and check Fortran files for lines longer then a specified length.
 
