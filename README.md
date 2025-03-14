@@ -754,6 +754,8 @@ from sourceryinstitute
 
 [fortranNeoVIM](https://github.com/Vuncano/fortranNeoVIM): neovim config for Fortran programming, by Vuncano. Config files made using Lua, inpired by third part config. Also [FortranDictionary_vim](https://github.com/Vuncano/FortranDictionary_vim), a Fortran keyword dictionary, or word list, made to use specially with vim's built-in dictionary completion
 
+[fortran.nvim](https://github.com/wassup05/fortran.nvim): neovim plugin by Suprit S. Jahagirdar
+
 [fortran_syntax_highlighter_lite-xl](https://github.com/RohanVashisht1234/fortran_syntax_highlighter_lite-xl): syntax highlighter for Fortran in [lite-xl](https://lite-xl.com/), by Rohan Vashisht
 
 [fortran.tmbundle](https://github.com/textmate/fortran.tmbundle): TextMate support for Fortran. TextMate is a graphical text editor for macOS 10.12 or later.
