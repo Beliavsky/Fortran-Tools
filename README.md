@@ -815,6 +815,8 @@ from sourceryinstitute
 
 [CodeRosetta](https://github.com/tehranixyz/CodeRosetta): encoder-decoder transformer model designed to translate code between C++ and CUDA, and Fortran and C++. An associated paper is [CodeRosetta: Pushing the Boundaries of Unsupervised Code Translation for Parallel Programming](https://arxiv.org/abs/2410.20527), by Ali TehraniJamsaz et al., NeurIPS 2024.
 
+[CodeScribe](https://github.com/akashdhruv/CodeScribe): tool designed to facilitate incremental translation of Fortran codebases into C++ using generative AI, by Akash Dhruv and Anshu Dubey. It automates the process of generating corresponding C++ source files and creating Fortran-C interfaces, simplifying the integration of Fortran and C++. Also [llm-conversion-performance](https://github.com/akashdhruv/llm-conversion-performance), which has Fortran codes and C++ translations using LLMs.
+
 [f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
 
 [F2C-Translator](https://github.com/bin123apple/F2C-Translator): translates Fortran to C++, by Bin Lei. Also [HPC-Code-translation-and-generation](https://github.com/bin123apple/HPC-Code-translation-and-generation): tests the translation and generation performance of Fortran HPC code using CodeXGLUE and ChatGPT, and 
