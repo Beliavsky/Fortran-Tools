@@ -681,7 +681,7 @@ from sourceryinstitute
 
 [fordoctest](https://github.com/fedebenelli/fordoctest/): assures consistent documentation of a Fortran code, by Federico E. Benelli, checking on the source files included in a [FORD](https://github.com/Fortran-FOSS-Programmers/ford) file and warning if there is more than one module per file or if there are undocumented isolated procedures, modules, module procedures, or procedure arguments.
 
-[fortitude](https://github.com/PlasmaFAIR/fortitude): Fortran linter and formatter, written in Rust, from PlasmaFAIR
+[fortitude](https://github.com/PlasmaFAIR/fortitude): Fortran linter and formatter, written in Rust, from PlasmaFAIR. A pre-commit hook is [here](https://github.com/PlasmaFAIR/fortitude-pre-commit).
 
 [FortranAS](https://github.com/akoerner/FortranAS): [Antlr4](https://github.com/antlr/antlr4)-powered FORTRAN parsing and code clone detection tool. FortranAS leverages grammars-v4 to generate parsers and lexers and supports any FORTRAN version with available corresponding grammars.
 
