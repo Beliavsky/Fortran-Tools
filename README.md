@@ -400,6 +400,8 @@
 
 [extutils-f77](https://github.com/PDLPorters/extutils-f77): Perl module that tries to figure out how to link C programs with Fortran subroutines on a system, adding a list of Fortran runtime libraries, by mohawk2 et al.
 
+[fancy-ctypes](https://github.com/hlatorrec/fancy-ctypes): syntax sugar for ctypes that provides a more confortable way to load and set up shared libraries for projects, by Hugo Latorre. The goal of this simple package is to reduce boilerplate and replace tedious syntax with something more intuitive and fancier.
+
 [FarrayInterop](https://github.com/AshLink95/FarrayInterop): header-only library that allows the use of Fortran arrays in C++, by AshLink
 
 [f2py-with-derived-types](https://github.com/Nicholaswogan/f2py-with-derived-types): demonstrates how to use f2py with Fortran derived types with type-bound procedures, by Nick Wogan
