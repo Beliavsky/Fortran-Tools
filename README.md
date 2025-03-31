@@ -161,7 +161,7 @@
 ### Code Generation
 [ChatGPT](https://openai.com/blog/chatgpt): generates Fortran code from a problem description in English or another natural language and translates code from other programming languages to Fortran, sometimes with errors. The [RunGPT](https://chrome.google.com/webstore/detail/rungpt-execute-chatgpt-co/ddfiefcjflpdpanadjmgpogkfnjaifod) Chrome extension allows code to be compiled with gfortran and run within the ChatGPT web interface. Other LLMs that can generate Fortran code are [Grok](https://grok.com/), [DeepSeek](https://chat.deepseek.com/), [Perplexity](https://www.perplexity.ai/), [Groq](https://groq.com/), [Claude](https://claude.ai/chats), [Mistral](https://chat.mistral.ai/chat), [Vertex AI with Gemini](https://cloud.google.com/vertex-ai) from Google, [Llama 3 on Meta AI](https://www.meta.ai/), and [GitHub Copilot](https://github.com/features/copilot).
 
-[Groq-Fortran-agent](https://github.com/Beliavsky/Groq-Fortran-agent): Python script that uses [LLMs on Groq](https://console.groq.com/docs/models) to create Fortran programs, iterating with compiler error messages until they compile
+[Groq-Fortran-agent](https://github.com/Beliavsky/Groq-Fortran-agent): Python script that uses [LLMs on Groq](https://console.groq.com/docs/models) to create Fortran programs, iterating with compiler error messages until they compile. Also [Gemini-Fortran-agent](https://github.com/Beliavsky/Gemini-Fortran-agent) and [OpenAI-Fortran-agent](https://github.com/Beliavsky/OpenAI-Fortran-agent).
 
 [IRPF90](http://irpf90.ups-tlse.fr/): Fortran programming environment which helps the development of large Fortran codes by applying the Implicit Reference to Parameters method (IRP)
 
