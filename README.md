@@ -207,7 +207,15 @@
 ### Compiler Testing
 [Fortran-compiler-test-suite](https://github.com/BerkeleyLab/fortran-compiler-test-suite): contains a framework and suite of cases for testing a Fortran compiler with the primary goals of making it easy for the Fortran community to add tests and making it easy to use the framework with a broad range of compilers, by Brad Richardson et al.
 
+[fortran-compler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran bug reports and code snippets that have caused issues with compilers in the past. This also includes a mechanism to automatically run all the tests against a compiler.
+
 [FORTRAN Testing Framework (FTFramework)](https://github.com/agforero/FTFramework): collection of Python and Bash scripts to enable easy testing of Fortran compilers using the Bash Automated Testing System [BATS](https://github.com/bats-core/bats-core), by agforero
+
+[fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of test programs that focus on uncertain points in the standard and highlight the non-portability of some constructs.
+
+[Fujitsu Compiler Test Suite](https://github.com/fujitsu/compiler-test-suite): test suite developed by Fujitsu for verifying the various Fujitsu compilers, including their Fortran compiler.
+
+[LLVM Fortran Test Suite](https://github.com/llvm/llvm-test-suite/tree/main/Fortran): test suite used by the LLVM Flang compiler, includes the gfortran test suite as well.
 
 ### Compilers
 [AMD Optimizing C/C++/Fortran Compiler (AOCC)](https://developer.amd.com/amd-aocc/): high performance, production quality code generation tool. The AOCC environment provides various options to developers while building and optimizing C, C++, and Fortran applications targeting 32-bit and 64-bit Linux® platforms.
