@@ -207,7 +207,7 @@
 ### Compiler Testing
 [Fortran-compiler-test-suite](https://github.com/BerkeleyLab/fortran-compiler-test-suite): contains a framework and suite of cases for testing a Fortran compiler with the primary goals of making it easy for the Fortran community to add tests and making it easy to use the framework with a broad range of compilers, by Brad Richardson et al.
 
-[fortran-compler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran bug reports and code snippets that have caused issues with compilers in the past. This also includes a mechanism to automatically run all the tests against a compiler.
+[fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran bug reports and code snippets that have caused issues with compilers in the past. This also includes a mechanism to automatically run all the tests against a compiler.
 
 [FORTRAN Testing Framework (FTFramework)](https://github.com/agforero/FTFramework): collection of Python and Bash scripts to enable easy testing of Fortran compilers using the Bash Automated Testing System [BATS](https://github.com/bats-core/bats-core), by agforero
 
