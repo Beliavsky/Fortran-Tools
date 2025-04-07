@@ -211,7 +211,7 @@
 
 [FORTRAN Testing Framework (FTFramework)](https://github.com/agforero/FTFramework): collection of Python and Bash scripts to enable easy testing of Fortran compilers using the Bash Automated Testing System [BATS](https://github.com/bats-core/bats-core), by agforero
 
-[fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of test programs that focus on uncertain points in the standard and highlight the non-portability of some constructs.
+[fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of test programs that focus on uncertain points in the standard and highlight the non-portability of some constructs, by Peter Klausler
 
 [Fujitsu Compiler Test Suite](https://github.com/fujitsu/compiler-test-suite): test suite developed by Fujitsu for verifying the various Fujitsu compilers, including their Fortran compiler.
 
