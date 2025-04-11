@@ -68,6 +68,8 @@
 
 [ProTeX - Python Version](https://github.com/joaogerd/protex): Python tool that processes documentation comments embedded in source files (e.g., Fortran code) and generates a formatted LaTeX document, by João Gerd Zell de Mattos. By using a standardized set of markers, ProTeX allows the user to maintain documentation alongside source code and automatically produce high-quality documentation.
 
+[Sphinx-Fortran](https://github.com/VACUMM/sphinx-fortran): Fortran domain and autodoc extensions to Sphinx, by Stephane Raynaud et al.
+
 [sphinxfortran_ng](https://github.com/SciFortran/sphinxfortran_ng): Fortran extensions to Sphinx, a documentation generator written in Python, by Lorenzo Crippa and Adriano Amaricci
 
 [version-f](https://github.com/minhqdao/version-f): implementation of [Semantic Versioning 2.0.0](https://semver.org/) by Minh Dao that aims to be a user-friendly tool for handling versions in Fortran projects
