@@ -49,6 +49,8 @@
 
 [OpenAD](https://github.com/Augertron/OpenAD): tool for automatic differentiation (AD) of numerical computer programs
 
+[Rapsodia](https://www.mcs.anl.gov/Rapsodia/): has a Python-based code generator that produces a C++ or Fortran library for the propagation of univariate Taylor polynomials for a given derivative order and number of directions, by Isabelle Charpentier and Jean Utke. The code generator relies on inlining and loop unrolling to aid subsequent compiler optimization.
+
 [Tapenade](https://team.inria.fr/ecuador/en/tapenade/): automatic differentiation engine developed at Inria. It can be run online or be downloaded and installed locally as a set of Java classes (JAR archive).
 
 [Transformation of Algorithms in Fortran (TAF)](http://fastopt.de/products/taf/taf.shtml): source-to-source translator for Fortran 77-95 code, i.e. TAF accepts Fortran 77-95 code as input, applies a semantic transformation, and generates Fortran 77-95 code. TAF supports several semantic transformations. The most important one is Automatic Differentiation (AD), i.e. generation of code for evaluation of the first-order derivative (Jacobian matrix). (C)
