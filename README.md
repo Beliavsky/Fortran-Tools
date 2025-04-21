@@ -389,6 +389,8 @@
 
 [fortify](https://github.com/louoberto/fortify): formatting tool designed to help developers maintain consistent and readable code, by Lou Oberto. It provides various features to handle spacing, indentation, and other formatting aspects.
 
+[fortran-format-hooks](https://github.com/nedtaylor/fortran-format-hooks): pre-commit hooks checking Fortran indentation against Emacs style Fortran format, by Ned Taylor
+
 [FortranIndent](https://github.com/Kairzhan/FortranIndent): tools to indent Fortran 90 sources, from Kairzhan
 
 [FortranIndenter_UNESP_2007](https://github.com/rafaeldr/FortranIndenter_UNESP_2007): indenter for Fortran 77 developed in C, by Rafael Delalibera Rodrigues and Paulo Henrique Arantes Urgal
