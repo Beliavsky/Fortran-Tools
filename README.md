@@ -305,6 +305,8 @@
 
 [m_err2](https://github.com/mgoonde/m_err2): independent error-storing and reporting type, using the __FILE__ and __LINE__ macros of the C-preprocessor, by Miha Gunde
 
+[Seer](https://github.com/epasveer/seer): gui frontend to gdb for Linux, by Ernie Pasveer
+
 [serialbox](https://github.com/GridTools/serialbox): data serialization library and tools for C/C++, Fortran, and Python3, used to build validation frameworks against reference runs, from ETH Zurich
 
 [ups](https://github.com/sth/ups): source level C, C++ and Fortran debugger that runs under X11, by Mark Russell. Currently supported systems are FreeBSD and GNU/Linux on Intel x86 and Solaris on SPARC.
