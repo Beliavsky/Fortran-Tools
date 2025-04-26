@@ -299,6 +299,8 @@
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
 
 ### Debugging
+[exception_handling](https://github.com/tillackseb/exception_handling): tools for exception handling and tracing, by Sebastian Tillack
+
 [Fortran Stacktrace](https://github.com/SINTEF/fortran-stacktrace): generates stack traces by providing a Fortran wrapper around the C++ library [backward-cpp](https://github.com/bombela/backward-cpp). It also integrates with the Fortran error-handling library in order to generate errors that includes a stacktrace.
 
 [gdb_fortran_tools](https://github.com/mankoff/gdb_fortran_tools): support more advanced gdb debugging of Fortran code: generic access to many basic numpy array operators: sum, min, max, log10, etc.; graphics: plot, imshow, scatter; save data: pickle, CSV, by Ken Mankoff and X-Neon
