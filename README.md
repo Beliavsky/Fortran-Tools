@@ -422,6 +422,8 @@
 
 [FarrayInterop](https://github.com/AshLink95/FarrayInterop): header-only library that allows the use of Fortran arrays in C++, by AshLink
 
+[fastnml](https://github.com/jacobwilliams/fastnml): Python module for reading and writing namelists, by Jacob Williams. It is not nearly as general or robust as [f90nml](https://github.com/marshallward/f90nml), but it is much faster when reading very large namelists.
+
 [f2py-with-derived-types](https://github.com/Nicholaswogan/f2py-with-derived-types): demonstrates how to use f2py with Fortran derived types with type-bound procedures, by Nick Wogan
 
 [F2x](https://github.com/DLR-SC/F2x): versatile, template-based Fortran wrapper written in Python. Compared to the popular tool f2py it comes with two important differences: a full Fortran parser based on the work by the OpenFortranParser, and a very flexible code generation backend that uses Jinja2 templates.
