@@ -886,6 +886,8 @@ from sourceryinstitute
 
 [LinguistLLM](https://github.com/CodeTranslatorLLM/LinguistLLM): language model (LLM) that can accurately translate Fortran code into Rust, integrate the model into an API, and ensure the translated code meets industry standards through benchmarking, by Caslow Chien and Chandrahas Aroori
 
+[LLM-Based Fortran to C++ Translation Framework](https://github.com/AjaySreekumar47/uncertainty-quantification-for-code-translation): code by Ajay Sreekumar associated with the paper [LLM-Assisted Translation of Legacy FORTRAN Code to C++: A Cross-Platform Study](https://arxiv.org/abs/2504.15424), by Nishath Rajiv Ranasinghe et al. (2025)
+
 [loki](https://github.com/ecmwf-ifs/loki): tool to explore the possible use of source-to-source translation for ECMWF's Integrated Forecasting System (IFS) and associated Fortran software packages. Loki is based on compiler technology (visitor patterns and ASTs) and aims to provide an abstract, language-agnostic representation of a kernel, as well as a programmable (Pythonic) interface that allows developers to experiment with different kernel implementations and optimizations.
 
 [YAKL](https://github.com/mrnorman/YAKL): simple Kokkos-based C++ framework for performance portability and Fortran code porting, by Matt Norman et al.
