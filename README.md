@@ -561,7 +561,7 @@
 
 [Hybrid-Fortran](https://github.com/muellermichel/Hybrid-Fortran): directive-based extension for the Fortran language to support GPGPU. Its input is Fortran code with Hybrid Fortran extensions, and its output is CUDA Fortran or OpenMP Fortran code.
 
-[LLVM OpenMP Repairer (LLOR)}(https://github.com/cs17resch01003/llor): tool that can repair data race errors in parallel programs written in C/C++ and Fortran using the OpenMP API. An associated paper is "LLOV: A Fast Static Data-Race Checker for OpenMP Programs", by Utpal Bora et al., <i>ACM Transactions on Architecture and Code Optimization</i>, and a video is [here](https://www.youtube.com/watch?v=kVD1wPY7Ows).
+[LLVM OpenMP Repairer (LLOR)](https://github.com/cs17resch01003/llor): tool that can repair data race errors in parallel programs written in C/C++ and Fortran using the OpenMP API. An associated paper is "LLOV: A Fast Static Data-Race Checker for OpenMP Programs", by Utpal Bora et al., <i>ACM Transactions on Architecture and Code Optimization</i>, and a video is [here](https://www.youtube.com/watch?v=kVD1wPY7Ows).
 
 [loopy](https://github.com/inducer/loopy): code generator for array-based code on CPUs and GPUs, by Andreas Kloeckner. An application to a Fortran code is described in the preprint [Teaching An Old Dog New Tricks: Porting Legacy Code to Heterogeneous Compute Architectures With Automated Code Translation](https://www.arxiv.org/abs/2502.05279).
 
