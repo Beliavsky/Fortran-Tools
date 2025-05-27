@@ -715,6 +715,8 @@ from sourceryinstitute
 
 [FortranAS](https://github.com/akoerner/FortranAS): [Antlr4](https://github.com/antlr/antlr4)-powered FORTRAN parsing and code clone detection tool. FortranAS leverages grammars-v4 to generate parsers and lexers and supports any FORTRAN version with available corresponding grammars.
 
+[fortran_ast_asr_json_visualizer](https://github.com/ubaidsk/fortran_ast_asr_json_visualizer): interactive web-based visualization tool for Fortran Abstract Syntax Tree and Abstract Semantic Representation, using LFortran, by Ubaid Shaikh
+
 [fortran_call_tree](https://github.com/fgeter/fortran_call_tree): Python script to read free format Fortran code and write a subroutine/function call tree in .dot format, by fgeter
 
 [FortranProcedureDictionary](https://github.com/AkhilAkkapelli/FortranProcedureDictionary): parses Fortran source files and extract information about procedures such as main programs, modules, functions, and subroutines, by Akhil Akkapelli. It utilizes the [ANTLR4](https://www.antlr.org/) library through PyCall to parse Fortran syntax and generates a text file containing the extracted procedure details.
