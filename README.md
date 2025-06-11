@@ -45,6 +45,8 @@
 
 [Dual Numbers for Arbitrary Order Automatic Differentiation (DNAOAD)](https://github.com/fpenunuri/DNAOAD): implementation of automatic differentiation capable of handling derivatives of arbitrary order using dual numbers, by F. Peñuñuri et al. This implementation employs a direct approach to represent dual numbers without relying on recursive or nested structures, with associated preprint [here](https://arxiv.org/abs/2501.04159).
 
+[fautodiff](https://github.com/seiya/fautodiff): autodiff code generator that includes utilities for parsing Fortran source code using [fparser2](https://fparser.readthedocs.io/en/latest/index.html), by Seiya Nishizawa
+
 [fazang](https://github.com/yizhang-yiz/fazang): library for reverse-mode automatic differentiation, inspired by Stan/Math library, by Yi Zhang. Zoziha has [updated](https://github.com/zoziha/fazang) the project to work with gfortran and ifort.
 
 [OpenAD](https://github.com/Augertron/OpenAD): tool for automatic differentiation (AD) of numerical computer programs
