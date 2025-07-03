@@ -581,8 +581,9 @@
 
 [OMPify](https://github.com/talkad/OMPify): generates OpenMP pragmas for C, C++ and Fortran code snippets using Transformers.
 
-[OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, 
-from sourceryinstitute
+[OpenCoarrays](https://github.com/sourceryinstitute/opencoarrays): supports Fortran 2018 compilers by providing a parallel application binary interface (ABI) that abstracts away the underlying parallel programming model, which can be the Message Passing Interface (MPI) or OpenSHMEM, from sourceryinstitute
+
+[Replace_ACC_pragmas](https://github.com/DivyasreePalampalli/Replace_ACC_pragmas): scans Fortran source files in a directory, replacing specified OpenACC pragmas with custom macros or OpenMP pragmas as defined in a YAML mapping file, by Divya Sree Palampalli. It is especially useful for porting or adapting code to new GPU programming models or for code modernization.
 
 [SPEL_OpenACC](https://github.com/peterdschwartz/SPEL_OpenACC): code associated with the paper [SPEL: Software tool for Porting E3SM Land Model with OpenACC in a Function Unit Test Framework](https://ieeexplore.ieee.org/document/10029551), by Peter Schwartz et al., 2022 Workshop on Accelerator Programming Using Directives (WACCPD). It provides a robust method to port the [E3SM Land Model (ELM)](https://e3sm.org/model/e3sm-model-description/v1-description/v1-land/) onto GPUs.
 
