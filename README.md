@@ -106,6 +106,8 @@
 
 [forte](https://github.com/jeyemhex/forte): short script able to execute Fortran 90 code from within the Linux shell more flexibly, by Ed Higgins
 
+[fortean](https://github.com/drgates93/fortean): cross-platform CLI tool for creating and managing Fortran-based scientific projects, by Drake Gates. Inspired by build systems like Cargo, Fortean offers a lightweight way to initialize, configure, build, and run modular Fortran projects using TOML config and automation. Also [maketopologicf90](https://github.com/drgates93/maketopologicf90), a module dependency analyzer and topologic build order printer.
+
 [fortran-compiler-with-two-computers](https://github.com/juniortavaress/fortran-compiler-with-two-computers): Python code to facilitate the workflow of compiling Fortran source files on one computer and running the compiled output (DLL) on another, by Jucelio Tavares Junior. It is ideal for distributed environments where simulation and compilation processes are handled by separate machines.
 
 [fortrandep](https://github.com/orvedahl/fortrandep): Python tool to determine Makefile dependencies for a Fortran project, by Ryan Orvedahl
