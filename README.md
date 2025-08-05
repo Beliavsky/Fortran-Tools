@@ -120,6 +120,8 @@
 
 [Fortran Project Template](https://github.com/MatthAlex/fortran-project-template): project template with pre-commit checks, compile checks with `fpm build`, automated testing with `fpm test`, code formatting with `fprettify`, and linting with the Modern Fortran VSCode extension, by MatthAlex
 
+[fortuna](https://github.com/drgates93/fortuna): cross-platform CLI tool for creating and managing Fortran/C-based scientific projects, by drgates93. Inspired by build systems like Cargo, Fortuna offers a lightweight way to initialize, configure, build, and run modular Fortran/C projects using TOML config and automation. Also [fortean](https://github.com/drgates93/fortean), a modern, lightweight build system for Fortran projects, and [maketopologicf90](https://github.com/drgates93/maketopologicf90), a Fortran module dependency analyzer and topologic build order printer.
+
 [fpm](https://github.com/fortran-lang/fpm): Fortran Package Manager (fpm) is a package manager and build system for Fortran, from fortran-lang
 
 [fpm-completions](https://github.com/ShinobuAmasaki/fpm-completions): command-line completion functions for the Fortran Package Manager, by Shinobu Amasaki. Zsh is required to use this package, currently.
