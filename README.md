@@ -223,6 +223,8 @@
 
 [fortran-compiler-tests](https://github.com/nncarlson/fortran-compiler-tests): collection of Fortran bug reports and code snippets that have caused issues with compilers in the past, by Neil Carlson. This also includes a mechanism to automatically run all the tests against a compiler.
 
+[fortran-compiler-tests](https://github.com/imciner2/fortran-compiler-tests): various tests files/scripts to compare how different Fortran compilers implement features or warnings, by Ian McInerney
+
 [FORTRAN Testing Framework (FTFramework)](https://github.com/agforero/FTFramework): collection of Python and Bash scripts to enable easy testing of Fortran compilers using the Bash Automated Testing System [BATS](https://github.com/bats-core/bats-core), by agforero
 
 [fortran-wringer-tests](https://github.com/klausler/fortran-wringer-tests): collection of test programs that focus on uncertain points in the standard and highlight the non-portability of some constructs, by Peter Klausler
