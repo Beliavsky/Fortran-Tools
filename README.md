@@ -384,6 +384,8 @@
 
 [ftk](https://github.com/arjenmarkus/ftk): provides a straightforward means to build graphical user-interfaces in Fortran based on Tcl/Tk, by Arjen Markus. In its current state it is proof of concept, not a full-fledged library.
 
+[fogl](https://github.com/jefferycoulter/fogl): Python script to create Fortran bindings for OpenGL, by Jeffery Coulter
+
 [Fortran77HTML](https://github.com/yioryhos/Fortran77HTML): enables the user to Write Fortran 77 code inside HTML and see the results in the DOM (Document Object Model), by yioryhos
 
 [fortran-graphics](https://github.com/jeyemhex/fortran-graphics): graphics library written in OpenGL, by Ed Higgins
