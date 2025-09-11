@@ -780,6 +780,8 @@
 
 [K-scope](https://github.com/K-scope/K-scope): source code analysis tool with graphical user interface that visualizes program structures for Fortran 90 and FORTRAN 77 source code. This tool simply visualizes call tree from AST based on compiler's static analysis.
 
+[Marauder's map](https://gitlab.com/cerfacs/maraudersmap): Python helper tool to create visual representations of the internal structure of Python and Fortran packages, from CERFACS. It is an automated solution developed to study software geography.
+
 [p6-fortran](https://github.com/jeyemhex/p6-fortran): Fortran language parser in Raku, by Edward Higgins
 
 [plusFORT](https://www.fortran.uk/fortran-analysis-and-refactoring-with-plusfort/plusfort-evaluation-version/pss-evaluation-starter-pack/) - multi-purpose suite of tools for analyzing and improving Fortran programs, free for personal, educational and academic users working on non-commercial projects. (C)
