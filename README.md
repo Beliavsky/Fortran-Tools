@@ -398,7 +398,7 @@
 
 [tiny file dialogs](https://sourceforge.net/projects/tinyfiledialogs/): offers many modal and file dialogs in C and provides the iso_c_binding interface / module to call these functions from Fortran, by Guillaume Vareille
 
-[Winteracter](http://winteracter.com/): GUI toolset for the Fortran programming language. It consists of various visual development tools and a substantial subroutine library. Several Fortran compilers are supported. (C)
+[Winteracter](http://winteracter.uk/): GUI toolset for the Fortran programming language. It consists of various visual development tools and a substantial subroutine library. Several Fortran compilers are supported. (C)
 
 ### Indentation and Formatting
 [ajt-fortran.vim](https://github.com/robertodr/ajt-fortran.vim): port of Ajit J. Thakkar's Vim indent script
