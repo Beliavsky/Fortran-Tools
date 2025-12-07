@@ -231,6 +231,8 @@
 
 [Fujitsu Compiler Test Suite](https://github.com/fujitsu/compiler-test-suite): test suite developed by Fujitsu for verifying the various Fujitsu compilers, including their Fortran compiler.
 
+[gfortran-testsuite](https://github.com/lazy-fortran/gfortran-testsuite): GNU Fortran (gfortran) test suite from GCC, enabling testing of any gfortran-compatible compiler without building GCC, by Christopher Albert
+
 [LLVM Fortran Test Suite](https://github.com/llvm/llvm-test-suite/tree/main/Fortran): test suite used by the LLVM Flang compiler, includes the gfortran test suite as well.
 
 ### Compilers
