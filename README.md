@@ -150,6 +150,8 @@
 
 [makemake90](https://github.com/janberges/makemake90): Python script that generates Makefiles for modular Fortran programs, by Jan Berges. It recursively searches the working directory for .f90 files and determines their dependencies.
 
+[mk-fdeps](https://github.com/lsmenicucci/mk-fdeps): extracts dependencies between Fortran program units across multiple free format source files and generates corresponding Make recipes, by Lucas Menicucci. Preprocessing and submodules are supported.
+
 [meson](https://github.com/mesonbuild/meson): next-generation build system. [Test-meson](https://github.com/tg2414/fortran) is an example Python project with Fortran code.
 
 [MinGW package for the Fortran package manager](https://github.com/awvwgk/mingw-w64-fpm-pkgbuild): provides package build instructions for the Fortran package manager (fpm) compatible with the MSYS2 toolchain. This project provides prebuilt MinGW packages at the release page.
