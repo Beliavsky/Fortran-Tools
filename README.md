@@ -90,6 +90,8 @@
 
 [easy](https://github.com/urbanjost/easy): steps to setup a GitHub repository with fpm, and GitHub actions including ford(1) documentation and unit tests, by urbanjost
 
+[ezf](https://github.com/jabbalaci/ezf): tool that makes it easy to compile and launch a Fortran program, by Laszlo Szathmary. It discovers the dependencies among the used modules and compiles them in the correct order.
+
 [F90_makefile_builder](https://github.com/benjamin-pieczynski/F90_makefile_builder): Python program to build a makefile for a Fortran 90 program by searching through each module for dependencies, by Benjamin Pieczynski. The algorithm determines the order of the dependencies and builds the make file in the correct order.
 
 [Fab](https://github.com/metomi/fab): build system for Fortran and C projects. Initially designed to build the Met Office’s major scientific applications, LFRic and the UM.
