@@ -204,6 +204,8 @@
 
 [command_args](http://flibs.sourceforge.net/command_args.html): automatically handles the command-line arguments that are passed to the program, by Arjen Markus
 
+[f-clap](https://gitlab.com/bwearley/f-clap): Fortran Command Line Argument Parser, by Brian Earley
+
 [f90getopt](https://github.com/haniibrahim/f90getopt): getopt()- and getopt_long()-like functionality (similar to the C-functions) for Fortran 90, by Hani Andreas Ibrahim, based on code by Mark Gates
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, part of the [Goddard Fortran Ecosystem](https://github.com/Goddard-Fortran-Ecosystem)
