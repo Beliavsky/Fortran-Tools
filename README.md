@@ -183,6 +183,8 @@
 
 [IRPF90](http://irpf90.ups-tlse.fr/): Fortran programming environment which helps the development of large Fortran codes by applying the Implicit Reference to Parameters method (IRP)
 
+[macrofor](https://github.com/jtecklenburg/macrofor): Python library that provides a domain-specific language (DSL) for generating Fortran source code, by Jan Tecklenburg. The library implements a set of *f helper functions (single-line Fortran instructions) and *m macro functions (multi-line Fortran blocks), allowing one to programmatically compose Fortran programs directly from Python.
+
 [Maple](https://www.maplesoft.com/): has a [Fortran](https://www.maplesoft.com/support/help/Maple/view.aspx?path=CodeGeneration/Fortran) command that translates Maple code to Fortran 77 (C)
 
 [MathCode F90](https://www.wolfram.com/products/applications/mathcodef90/): generates standalone Fortran 90 code from Mathematica code, optionally connected via MathLink to Mathematica (C)
