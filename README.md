@@ -546,6 +546,8 @@
 
 [nml](https://github.com/manorom/nml): serialize and deserialize Fortran namelist input in Rust using the [serde](https://serde.rs/) framework, by manorom
 
+[nml-tools](https://github.com/MuellerSeb/nml-tools): generate Fortran namelist modules, Markdown docs, and template namelists from a small JSON Schema-like specification with Fortran-focused extensions, by Sebastian Müller
+
 [node-fortran](https://github.com/IonicaBizau/node-fortran): bridge that allows Fortran code to be from Node.js, by Ionică Bizău
 
 [process_model](https://github.com/Cambridge-ICCS/process_model): reads a TensorFlow SavedModel and outputs Fortran code to interface it to the [fortran-tf-lib](https://github.com/Cambridge-ICCS/fortran-tf-lib), by Simon Clifford et al.
