@@ -954,6 +954,8 @@
 
 [bench-cli](https://github.com/Lateralus138/bench-cli): cross-platform command line tool to benchmark commands and other executables/scripts in command lines written in Fortran, by Lateralus138. Very precise and fast.
 
+[fortran66-flex](https://github.com/FrankLhota56/fortran66-flex): flex grammar for Fortran 66, by Frank J. Lhota
+
 [Fortran Debug Utilities](https://github.com/plevold/fortran-debug-utils): collection of some utilities useful for debugging code, by Pål Levold
 
 [Fortran-gdb-pp](https://github.com/ZedThree/Fortran-gdb-pp): gdb pretty printer for Fortran dynamic types, by Peter Hill
