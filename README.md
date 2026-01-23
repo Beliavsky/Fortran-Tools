@@ -427,6 +427,8 @@
 
 [FortranIndenter_UNESP_2007](https://github.com/rafaeldr/FortranIndenter_UNESP_2007): indenter for Fortran 77 developed in C, by Rafael Delalibera Rodrigues and Paulo Henrique Arantes Urgal
 
+[fprettier](https://github.com/fredjones42/fprettier): auto-formatter for Fortran 90+ code, in Rust, by Fred Jones. Fprettier is inspired by fprettify but strives to be fast, especially for large codebases.
+
 [fprettify](https://github.com/pseewald/fprettify): auto-formatter for modern Fortran code that imposes strict whitespace formatting, written in Python, by pseewald
 
 [f90split](https://github.com/urbanjost/f90split): splits free source form Fortran code into multiple files, one module or procedure per file, by Michel Olagnon, adapted by urbanjost for use with the Fortran Package Manager. Contained procedures are stored within their parent procedure
