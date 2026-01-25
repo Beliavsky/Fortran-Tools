@@ -713,6 +713,8 @@
 
 [FordADT](https://github.com/LMAK00/FordADT): associated with paper [An Automated Tool for Upgrading Fortran Codes](https://www.mdpi.com/2674-113X/1/3/14), by Lesley Mak and Pooya Taheri, Software (2022), discussed [here](https://fortran-lang.discourse.group/t/an-automated-tool-for-upgrading-fortran-codes/4267)
 
+[fortfmt-fix](https://github.com/Dbross/fortfmt-fix): scans Fortran sources and normalizes legacy omitted-width FORMAT descriptors to explicit, standard-compliant widths, by Dbross. The transform is deterministic, idempotent, and designed for CI/pre-commit: one gets portable, warning-free formats without touching semantics or I/O field order.
+
 [Fortran Language Program Remodeling system (FLPR)](https://github.com/lanl/FLPR):  C++17 library for manipulating Fortran source code, from LANL. This package contains a "best effort" Fortran 2018 input parser for fixed and free form inputs, data structures for manipulating source code at the program unit, statement, and physical line levels, and sample applications that illustrate usage and provide some ideas as to how you could use the library.
 
 [Glasgow Fortran Source-to-Source Compiler (RefactorF4Acc)](https://github.com/wimvanderbauwhede/RefactorF4Acc): automatic refactoring tool to make Fortran code acceleration-ready, by wimvanderbauwhede and rouson. RefactorF4Acc's main purpose is to make legacy FORTRAN 77 acceleration-ready. In the process it converts FORTRAN 77 code into Fortran 95. In addition, RefactorF4Acc has a backend to translate modules to C/OpenCL.
