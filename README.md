@@ -419,6 +419,8 @@
 
 [flower](https://github.com/urbanjost/flower): converts free-format Fortran code to all lowercase or all uppercase, by urbanjost. In each case comments and quoted text are left as-is.
 
+[format-fortran](https://github.com/jmriff/format-fortran): lightweight pretty-printer (indenter) for free-form Fortran source code, written in Fortran, by J. Riff
+
 [fortify](https://github.com/louoberto/fortify): formatting tool designed to help developers maintain consistent and readable code, by Lou Oberto. It provides various features to handle spacing, indentation, and other formatting aspects.
 
 [fortran-format-hooks](https://github.com/nedtaylor/fortran-format-hooks): pre-commit hooks checking Fortran indentation against Emacs style Fortran format, by Ned Taylor
