@@ -723,6 +723,8 @@
 
 [fortrantools](https://github.com/CodethinkLabs/fortrantools): tools to enable the use old or proprietary Fortran code with gfortran. They are intended to be used together with the gcc extensions in CodethinkLab's gcc branch.
 
+[Pure-Fortran](https://github.com/Beliavsky/Pure-Fortran): Python scripts to mark Fortran procedures as `pure` or `elemental`, add argument `intent`s, designate procedures `private`, replace an unqualified `use m` statement with `use m, only:`, add `implicit none`, and prune unused procedures, by Beliavsky
+
 [Refactoring Of QUEstionable FORTran (Roquefort)](https://github.com/NLESC-JCER/roquefort): creates module to replace existing common blocks, removes unused variable imported from modules, transforms implicit variable declaration to explicit variable declaration, and moves variables to a new module, from NLESC-JCER
 
 [Tidy](https://www.pdas.com/tidy.html): renumbers and otherwise cleans up old and tired FORTRAN source programs. TIDY accepts ANSI Fortran 77 with a default of 19 continuation cards as well as some IBM and CDC dialect FORTRAN statements, originally by Harry Murphy
