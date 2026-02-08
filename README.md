@@ -41,6 +41,8 @@
 
 [Auto-Diff](https://github.com/zoziha/Auto-Diff): implementation in Modern Fortran of backward mode automatic differentiation, by zoziha.
 
+[diffstruc](https://github.com/nedtaylor/diffstruc): library that provides automatic differentiation capabilities through use of an array derived type, by Ned Thaddeus Taylor. It has implemented both forward and reverse mode automatic differentiation.
+
 [Dual Number Automatic Differentiation (DNAD)](https://github.com/joddlehod/dnad): update of code from Yu, W. and Blair, M.: "DNAD, a Simple Tool for Automatic Differentiation of Fortran Codes Using Dual Numbers," Computer Physics Communications, vol. 184, 2013, pp. 1446-1452, by oddlehod. Related project: [Fortran_DNAD](https://github.com/nickbrady/Fortran_DNAD). A [fork](https://github.com/oyvindyr/dnad) by oyvindyr uses [fypp](https://github.com/aradi/fypp) macros. The benefit of this approach is that interfaces and implementations of mathematical functions can be "injected" into the modules where they are used.
 
 [Dual Numbers for Arbitrary Order Automatic Differentiation (DNAOAD)](https://github.com/fpenunuri/DNAOAD): implementation of automatic differentiation capable of handling derivatives of arbitrary order using dual numbers, by F. Peñuñuri et al. This implementation employs a direct approach to represent dual numbers without relying on recursive or nested structures, with associated preprint [here](https://arxiv.org/abs/2501.04159).
