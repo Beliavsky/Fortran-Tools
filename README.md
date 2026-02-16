@@ -66,6 +66,8 @@
 
 [ford](https://github.com/Fortran-FOSS-Programmers/ford): Automatically generates FORtran Documentation from comments within the code, from Fortran-FOSS-Programmers
 
+[formal](https://github.com/szaghi/formal): generate beautiful API documentation websites for Fortran projects, by Stefano Zaghi. It bridges FORD (Fortran Documenter) and VitePress (Vue-powered static site generator) -- it parses Fortran `!<` doc comments and produces a complete, searchable, themed documentation site.
+
 [fspx](https://github.com/jalvesz/fspx): Sphinx extension that provides automatic documentation for Modern Fortran code, including docstrings and procedure argument descriptions, by jalvesz and Milan Skocic (work in progress)
 
 [htmlindex](https://people.sc.fsu.edu/~jburkardt/cpp_src/htmlindex/htmlindex.html): C++ code which builds a "skeleton" HTML page for a C, C++, FORTRAN77 or FORTRAN90 source code file, documenting every routine in the file...if each routine has been appropriately marked, by John Burkardt. The information after the marker is usually a one line explanations of what the routine does.
