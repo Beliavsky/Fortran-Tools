@@ -619,6 +619,8 @@
 
 [Replace_ACC_pragmas](https://github.com/DivyasreePalampalli/Replace_ACC_pragmas): scans Fortran source files in a directory, replacing specified OpenACC pragmas with custom macros or OpenMP pragmas as defined in a YAML mapping file, by Divya Sree Palampalli. It is especially useful for porting or adapting code to new GPU programming models or for code modernization.
 
+[simple_gpu](https://github.com/scemama/simple_gpu): easy-to-use library for GPU computing in Fortran, providing transparent access to GPU acceleration through a clean interface, by Anthony Scemama
+
 [SPEL_OpenACC](https://github.com/peterdschwartz/SPEL_OpenACC): code associated with the paper [SPEL: Software tool for Porting E3SM Land Model with OpenACC in a Function Unit Test Framework](https://ieeexplore.ieee.org/document/10029551), by Peter Schwartz et al., 2022 Workshop on Accelerator Programming Using Directives (WACCPD). It provides a robust method to port the [E3SM Land Model (ELM)](https://e3sm.org/model/e3sm-model-description/v1-description/v1-land/) onto GPUs.
 
 [stng](https://github.com/uwplse/stng): compiler for Fortran stencils using verified lifting, by Alvin Cheung et al. It takes input codes in Fortran and automatically rewrites them to Halide, a new high-performance domain-specific language that leverages GPUs for computation.
