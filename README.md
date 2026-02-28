@@ -138,6 +138,8 @@
 
 [fpm-search](https://github.com/urbanjost/fpm-search): lists available packages in the fpm-registry from the command line, by urbanjost and Sebastian Ehlert. This allows for quickly locating fpm(1) packages and generating the associated dependency lines to insert into fpm(1) package manifest files (fpm.toml) that wish to use them.
 
+[fpm-watch](https://github.com/gha3mi/fpm-watch): plugin for the Fortran Package Manager that automatically rebuilds, tests or runs a project whenever relevant source files change, by Seyed Ali Ghasemi. It supports dependency awareness, low CPU idle mode and automatic restart capability.
+
 [gfortran-config](https://github.com/cloudy-sfu/gfortran-config): Windows batch script to automatically build and run Fortran code in MinGW-w64 gfortran environment and an analogous bash script for Ubuntu Linux, by cloudy-sfu
 
 [githubactions_intro](https://github.com/ofmla/githubactions_intro): introduces Github Actions as a tool for lightweight automation of scientific data workflows, with examples in Python and Fortran using gnuplot, by Oscar Mojica
