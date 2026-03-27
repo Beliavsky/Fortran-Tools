@@ -929,6 +929,8 @@
 
 [Fortran2Cpp](https://github.com/bin123apple/Fortran2Cpp): aims to create an accurate and comprehensive Fortran-to-C++ translation dataset for fine-tining LLMS such as ChatGPT-4, by Bin Lei and Chunhua Liao, discussed in the preprint [Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration](https://arxiv.org/abs/2412.19770) (2024)
 
+[Fortran-to-C](https://github.com/Beliavsky/Fortran-to-C): Python source-to-source transpiler that converts a substantial subset of Fortran into readable C, by Beliavsky
+
 [Fortran to C++ Conversion from Objexx](https://objexx.com/Fortran_to_Cpp.html): conversion process preserves the structure and syntax of the Fortran to retain the value of the existing documentation and developer knowledge. Another product [converts Fortran to Python](https://objexx.com/Fortran_to_Python.html) (C).
 
 [fortran2julia](https://github.com/algorithmx/fortran2julia): Python script to translate Fortran 90 to Julia, by algorithmx
