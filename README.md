@@ -923,6 +923,8 @@
 
 [F77Ccompiler](https://github.com/sthfaceless/F77Ccompiler): compiler from Fortran 77 to C, by Danil
 
+[For2c](https://www.mpsinc.com/For2c.html): family of Microsoft Windows cross compiler programming tools that accepts many Fortran source code dialects and translates them to C, from Micro-Processor Services. (C)
+
 [Fortran-CPP-HPC-code-translation-dataset](https://github.com/bin123apple/OpenMP-Fortran-CPP-Translation): data set for the preprint [Creating a Dataset for High-Performance Computing Code Translation: A Bridge Between HPC Fortran and C++](https://arxiv.org/abs/2307.07686) (2023), by Bin Lei et al.
 
 [Fortran2Cpp](https://github.com/bin123apple/Fortran2Cpp): aims to create an accurate and comprehensive Fortran-to-C++ translation dataset for fine-tining LLMS such as ChatGPT-4, by Bin Lei and Chunhua Liao, discussed in the preprint [Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration](https://arxiv.org/abs/2412.19770) (2024)
