@@ -254,6 +254,9 @@
 
 [AOMP](https://github.com/ROCm/aomp): open-source Clang/LLVM based compiler with added support for the OpenMP® API on Radeon™ GPUs. Instructions to install f18 are [here](https://github.com/ROCm/aomp/tree/aomp-dev/f18bin#readme).
 
+[armfortas](https://github.com/FortranGoingOnForty/armfortas): bespoke ARM64 compiler, by Matthew Forrester Wolffe
+and espadonne
+
 [Arm Fortran Compiler](https://developer.arm.com/Tools%20and%20Software/Arm%20Fortran%20Compiler): tailored for server, HPC, and scientific codes, with support for Fortran and OpenMP. The compiler is built on the open source Flang front-end, and the LLVM‑based optimization and code generation back-end. (C)
 
 [f18-llvm-project](https://github.com/flang-compiler/f18-llvm-project): fork of llvm/llvm-project for f18. In sync with f18-mlir and f18.
