@@ -168,6 +168,8 @@
 
 [mkmf](https://github.com/NOAA-GFDL/mkmf): tool written in perl5 that will construct a makefile from distributed source, from NOAA-GFDL. A single executable program is the typical result.
 
+[Pcons](https://github.com/DarkStarSystems/pcons): cross-platform zero-install Python-based build system, by Gary Oberbrunner. It builds anything that requires a repeatable workflow using a dependency graph, uses Ninja (or Makefile, XCode, or MSVS) to do the builds, and is optimized for C/C++, Fortran, CUDA, wasm etc.
+
 [pyfpm](https://github.com/awvwgk/pyfpm): provides a pydantic model of the fpm package manifest format used in the Fortran package manager, by Sebastian Ehlert
 
 [run-fortran](https://github.com/lycantropos/run-fortran): sorts Fortran files based on modules definitions and usages, by lycantropos
