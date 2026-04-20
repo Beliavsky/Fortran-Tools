@@ -598,6 +598,8 @@ and espadonne
 
 [Codee](https://www.codee.com/): automatic code inspection platform specialized in performance for time-critical C/C++/Fortran applications (C). Training materials are [here](https://www.nersc.gov/users/training/events/codee-training-series-apr2023/).
 
+[fortran-acc-audit](https://github.com/gonos2k/fortran-acc-audit): static audit for OpenACC directive patterns, by gonos2k. Built for NWP and climate GPU porting efforts (WRF, CESM, MPAS, ICON, E3SM, IFS, KIM-meso, …) that share the column-sequential !$acc routine seq + !$acc parallel loop gang vector_length(N) idiom.
+
 [fortran-cuda-interfaces](https://github.com/SourceryTools/fortran-cuda-interfaces): interfaces to CUDA libraries for GCC/OpenACC, from Mentor/Siemens. Modules include cublas, cublas_v2, cublasxt, openacc_cublas, cufft.
 
 [fortran-parser](https://github.com/ToxPuro/fortran-parser): Fortran preprocessor in Python, by Touko Puro, designed for multithreading and GPU offloading through OpenMP, featuring automatic privatization of modified global variables in multithreaded code, Fortran array operation unrolling to DO-loops with automatic declaratives to spread work either along CPU or GPU threads, automatic declarations for global variables needed in target regions, and function inlining which helps OpenMP offloading
