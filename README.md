@@ -452,6 +452,8 @@ and espadonne
 
 [lfortran](https://github.com/lfortran/lfortran): compiler that can format any code it can parse, with the command `lfortran fmt`, by Ondřej Čertík et al.
 
+[sable](https://github.com/eirik-kjonstad/sable): uncompromising formatter, by Eirik F. Kjonstad, inspired by [Black](https://github.com/psf/black). It enforces one consistent style for modern free-form Fortran and also supports code checks beyond formatting to identify code issues.
+
 [xpand](https://github.com/urbanjost/xpand): expands tabs in files. removes trailing white space, and optionally removes multiple blank lines, by urbanjost. It is primarily intended for use on systems without access to the Unix command expand(1).
 
 ### Interoperability
