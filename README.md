@@ -118,6 +118,8 @@
 
 [fortrandep](https://github.com/orvedahl/fortrandep): Python tool to determine Makefile dependencies for a Fortran project, by Ryan Orvedahl
 
+[FortranDep](https://github.com/irukoa/FortranDep): generates make-compatible dependency rules for Fortran source files, similarly to what gcc -MMD provides for C/C++, by Álvaro R. Puente-Uriona. It supports module dependencies, module/submodule tracking, CPP #include directives, recursive include resolution, and gfortran-style submodule dependencies.
+
 [Fortran_makedeps](https://github.com/jamesbiddle/Fortran_makedeps): small Python script to scan Fortran sources and generate makefile-appropriate dependencies, by James Biddle
 
 [fortranMakeUtils](https://github.com/deniseiras/fortranMakeUtils): Python scripts for generating dependency trees and makefiles, by Denis Eiras
