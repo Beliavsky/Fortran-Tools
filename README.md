@@ -732,6 +732,8 @@ and espadonne
 [timemory](https://github.com/NERSC/timemory): performance measurement and analyis package with modular and reusable components which can be used to adapt to any existing C/C++ performance measurement and analysis API and is arbitrarily extendable by users within their application, from NERSC
 
 ### Refactoring
+[eplinalg](https://github.com/kyungminlee/eplinalg): automated type-migration pipeline for the classical numerical-linear-algebra stack — BLAS, BLACS, LAPACK, PBLAS, ScaLAPACK, MUMPS — retargeted from the standard DOUBLE PRECISION / DOUBLE COMPLEX working type to a wider arithmetic of the user's choice, by Kyungmin Lee
+
 [FLOPPY](https://www.netlib.org/floppy/): checks FORTRAN 77 code it according to various "coding conventions", by Julian J. Bunn. It can "tidy" the source FORTRAN, producing a new file with indented,	do-loops, block if-s, and so on. The FLOW program takes the binary summary file produced by FLOPPY and produces various reports on the structure of the original FORTRAN program.
 
 [FordADT](https://github.com/LMAK00/FordADT): associated with paper [An Automated Tool for Upgrading Fortran Codes](https://www.mdpi.com/2674-113X/1/3/14), by Lesley Mak and Pooya Taheri, Software (2022), discussed [here](https://fortran-lang.discourse.group/t/an-automated-tool-for-upgrading-fortran-codes/4267)
