@@ -938,6 +938,8 @@ and espadonne
 
 [f2perl](https://f2perl.sourceforge.net/): translates Fortran 77 into Perl, by Steve Hancock. Also at [GitHub](https://github.com/shancock9/f77-to-perl).
 
+[f2rust](https://github.com/zaynar/f2rust): partial Fortran 77 to Rust compiler used to translate the SPICE Toolkit into Rust for rsspice, by Zaynar. It could probably be extended to support other Fortran programs, but currently it is quite SPICE-specific.
+
 [f4go](https://github.com/Konstantin8105/f4go): Transpiling Fortran code to golang code, by Konstantin8105
 
 [F77Ccompiler](https://github.com/sthfaceless/F77Ccompiler): compiler from Fortran 77 to C, by Danil
