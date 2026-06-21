@@ -962,6 +962,8 @@ and espadonne
 
 [FortranTranspiler.jl](https://github.com/denius/FortranTranspiler.jl): partial transpiler from Fortran to Julia, by Denis Telnov
 
+[fortranspire](https://github.com/maurinl26/fortranspire): scientific Fortran transformation agent for GPU (OpenACC) and JAX, by Loïc Maurin. Powered by Mistral-Large, sovereign endpoint, LangGraph, and Loki (ECMWF).
+
 [Incomplete Fortran to C/C++ converter](https://simulationcorner.net/index.php?page=if2c): translates Fortran 77 to readable C/C++, by Sebastian Macke
 
 [LinguistLLM](https://github.com/CodeTranslatorLLM/LinguistLLM): language model (LLM) that can accurately translate Fortran code into Rust, integrate the model into an API, and ensure the translated code meets industry standards through benchmarking, by Caslow Chien and Chandrahas Aroori
