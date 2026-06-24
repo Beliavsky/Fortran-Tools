@@ -6,7 +6,7 @@
 * [Command Line Parsing](#command-line-parsing)
 * [Compiler Testing](#compiler-testing)
 * [Compilers](#compilers)
-* [Compilers & Interpeters -- experimental](#compilers-interpreters-experimental)
+* [Compilers -- experimental](#compilers-experimental)
 * [Debugging](#debugging)
 * [Emacs Plugins](#emacs-plugins)
 * [Fixed to Free Source Form Conversion](#fixed-to-free-source-form-conversion)
@@ -336,7 +336,7 @@ and espadonne
 
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
 
-### Compilers & Interpeters -- experimental
+### Compilers -- experimental
 [forterp](https://github.com/nyxcraft/forterp): FORTRAN-66 / DEC FORTRAN-10 interpreter in Python, by Nicholas J. Kisseberth
 
 ### Debugging
