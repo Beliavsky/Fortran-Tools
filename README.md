@@ -336,7 +336,7 @@ and espadonne
 
 [xcc-project](https://github.com/JianpingZeng/xcc-project): C/C++/Fortran compiler collection written in Java, by JianpingZeng
 
-### Compilers -- experimental
+### Compilers & Interpeters -- experimental
 [forterp](https://github.com/nyxcraft/forterp): FORTRAN-66 / DEC FORTRAN-10 interpreter in Python, by Nicholas J. Kisseberth
 
 ### Debugging
