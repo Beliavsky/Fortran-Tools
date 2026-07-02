@@ -769,6 +769,8 @@ and espadonne
 
 [Code Comprehension Assistance for Evidence-Based performance Tuning (CCA/EBT)](https://github.com/ebt-hpc/cca-ebt): extracts the syntactic/semantic structures from Fortran code and then provides outline views of the loop-nests and the call trees decorated with source code metrics.
 
+[DimFort](https://github.com/ArrialVictor/DimFort): static unit-consistency checker, by Victor Arria. Once variable declarations are annotated with their physical dimensions, the checker verifies that assignments, arithmetic, intrinsics, and procedure calls line up. There are extensions for [VSCode](https://github.com/ArrialVictor/DimFort-VSCompanion), [Emacs](https://github.com/ArrialVictor/DimFort-EmacsCompanion), and [Neovim](https://github.com/ArrialVictor/DimFort-NvimCompanion).
+
 [FF08Diff](https://www.megms.com.au/ff08diff.htm): command line tool for obtaining the semantic difference (difference in meaning, rather than appearance) between two sets of Fortran 2008 source files, written in Fortran 2003 by IanH
 
 [f-ikos](https://github.com/zoush99/f-ikos): run-time error analyzer for Fortran programs based on abstract interpretation, with a front-end parser sourced from Flang. An associated paper by Sheng Zou et al. is [here](https://ceur-ws.org/Vol-3864/quasoq-2024-paper-04.pdf).
