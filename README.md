@@ -595,6 +595,8 @@ and espadonne
 
 [SUtools](https://github.com/bnaras/SUtools): Tools for autogenerating Fortran registration code for R, by Balasubramanian Narasimhan
 
+[tagarray](https://github.com/Open-Quantum-Platform/tagarray): small, dependency-light container by Cheol Ho Choi that holds named, typed, multi-dimensional arrays and lets every language bind to the same bytes — no copies, no serialization on the hot path
+
 [thenamelisttool](https://github.com/UMR-CNRM/thenamelisttool): provide command line tools useful to work with namelists or pack of namelists (update them, compare them, ...), by Louis-François Meunier and Alexandre Mary
 
 [TorchFort](https://github.com/NVIDIA/TorchFort): deep learning training and inference interface for HPC programs implemented using LibTorch, the C++ backend used by the PyTorch framework. This library can be invoked directly from Fortran or C/C++ programs.
