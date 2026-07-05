@@ -1008,6 +1008,8 @@ and espadonne
 [quickr](https://github.com/t-kalinowski/quickr): R to Fortran Transpiler by Tomasz Kalinowski. Exports a function that can accelerate R functions that have their types and shapes declared, use atomic vectors of type integer, double, logical, or complex, return atomic arrays, and satisfy other restrictions.
 [frast](https://github.com/t-kalinowski/frast) is an earlier prototype of an R-to-Fortran transpiler and a just-in-time (JIT) compiler for R functions.
 
+[R-to-Fortran](https://github.com/Beliavsky/R-to-Fortran): transpiler from a practical subset of R to modern Fortran, by Beliavsky. The goal is to translate numeric, array-oriented, statistical, and file-oriented R scripts into readable Fortran that can be compiled with gfortran or ifx, or run interactively through the ofort Fortran interpreter from the REPL.
+
 [transpyle](https://github.com/mbdevpl/transpyle): Human-oriented and high-performing transpiler for Python that can transpile a Python AST to Fortran, by Mateusz Bysiek. It is no longer being developed.
 
 ### Unclassified
