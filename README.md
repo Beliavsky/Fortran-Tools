@@ -987,6 +987,8 @@ and espadonne
 ### Translation to Fortran
 [c2f](https://github.com/Beliavsky/c2f): partial C to Fortran translator by David Frank
 
+[C-to-Fortran](https://github.com/Beliavsky/C-to-Fortran): transpiler from C to modern Fortran written in Python, by Beliavsky
+
 [FortScriptTranspiler](https://github.com/ianfr/FortScriptTranspiler): transpiler from FortScript (a Python-like numerical computing language) to modern parallel Fortran, written in OCaml using Menhir and ocamllex, by Ian Friedrichs
 
 [foruby](https://github.com/tufusa/foruby): translates Ruby to Fortran, in Ruby, by tufusa
