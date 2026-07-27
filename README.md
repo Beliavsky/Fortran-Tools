@@ -954,6 +954,8 @@ and espadonne
 
 [F77Ccompiler](https://github.com/sthfaceless/F77Ccompiler): compiler from Fortran 77 to C, by Danil
 
+[Fgpt](https://github.com/kardaneh/Fgpt): AST-based transpiler that converts production scientific Fortran into NumPy Python and optional JAX/Equinox modules for GPU acceleration and automatic differentiation, by Kardaneh
+
 [For2c](https://www.mpsinc.com/For2c.html): family of Microsoft Windows cross compiler programming tools that accepts many Fortran source code dialects and translates them to C, from Micro-Processor Services. (C)
 
 [Fortran-CPP-HPC-code-translation-dataset](https://github.com/bin123apple/OpenMP-Fortran-CPP-Translation): data set for the preprint [Creating a Dataset for High-Performance Computing Code Translation: A Bridge Between HPC Fortran and C++](https://arxiv.org/abs/2307.07686) (2023), by Bin Lei et al.
