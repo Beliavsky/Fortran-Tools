@@ -989,7 +989,7 @@ and espadonne
 ### Translation to Fortran
 [c2f](https://github.com/Beliavsky/c2f): partial C to Fortran translator by David Frank
 
-[C-to-Fortran](https://github.com/Beliavsky/C-to-Fortran): transpiler from C to modern Fortran written in Python, by Beliavsky
+[Cpp-to-Fortran](https://github.com/Beliavsky/Cpp-to-Fortran): experimental source-to-source transpiler project developed using Codex and Claude for practical scientific subsets of C and C++, by Beliavsky. The C and C++ frontends emit readable free-form Fortran and share runtime modules and Fortran-oriented post-processing passes.
 
 [FortScriptTranspiler](https://github.com/ianfr/FortScriptTranspiler): transpiler from FortScript (a Python-like numerical computing language) to modern parallel Fortran, written in OCaml using Menhir and ocamllex, by Ian Friedrichs
 
