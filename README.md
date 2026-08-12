@@ -135,6 +135,8 @@
 
 [fpm-completions](https://github.com/ShinobuAmasaki/fpm-completions): command-line completion functions for the Fortran Package Manager, by Shinobu Amasaki. Zsh is required to use this package, currently.
 
+[fpm-find](https://github.com/BerkeleyLab/fpm-find): Fortran Package Manager plugin for searching fortran-lang's package index, by Damian Rouson et al.
+
 [fpm-gui](https://github.com/arjenmarkus/fpm-gui): straigtforward graphical user interface for the Fortran Package Manager (fpm), by Arjen Markus
 
 [fpm-registry](https://github.com/fortran-lang/fpm-registry): centralized registry of fpm packages for the fortran-lang site
