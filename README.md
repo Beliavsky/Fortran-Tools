@@ -585,6 +585,8 @@ and espadonne
 
 [pyifb](https://github.com/rjfarmer/pyifb): Python interface to Fortran's ISO_Fortran_binding.h, by Robert Farmer
 
+[Python Runtime Interop Kit (PRIK)](https://github.com/PyNumLab/prik): generates native Python bindings for Fortran and C code, by Said Hadjout. It preserves modules, derived types, arrays, callbacks, and native behavior while letting the user reshape the resulting Python API through editable .pyi contracts instead of writing low-level binding code.
+
 [RFortranRcpp](https://github.com/Konrad1991/RFortranRcpp): communication between Fortran, Rcpp and R, by Konrad1991.  Passing R or Fortran user code to Fortran code from a package.
 
 [R to Modern Fortran Interface (RFI)](https://github.com/t-kalinowski/RFI): provides .ModernFortran(), an interface similar to .Fortran() but for Fortran 2018, by Tomasz Kalinowski. In contrast with .Fortran, R arrays are not passed as naked pointers, but as C descriptors that contain information about rank, shape, element size, type, and memory stride of the array that the Fortran routine can access directly.
