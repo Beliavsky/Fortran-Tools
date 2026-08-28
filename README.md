@@ -569,6 +569,8 @@ and espadonne
 
 [namelist_python](https://github.com/leifdenby/namelist_python): Fortran namelist parser in Python, by Leif Denby et al.
 
+[nativegate](https://github.com/ravikings/nativegate): expose existing C++ and Fortran code to Python as deployable microservices — without hand-writing bindings, by ravikings
+
 [nml](https://github.com/jsta/nml): R package for parsing Fortran namelist files, by Jem Stachelek et al.
 
 [nml](https://github.com/maddenp/nml): query/modify utility in Clojure for Fortran namelists, by Paul Madden and Jemma Stachelek
