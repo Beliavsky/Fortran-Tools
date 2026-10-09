@@ -787,6 +787,8 @@ and espadonne
 
 [f-ikos](https://github.com/zoush99/f-ikos): run-time error analyzer for Fortran programs based on abstract interpretation, with a front-end parser sourced from Flang. An associated paper by Sheng Zou et al. is [here](https://ceur-ws.org/Vol-3864/quasoq-2024-paper-04.pdf).
 
+[Flang-Multi-Stage-Compilation-Pipeline-Tracer](https://github.com/spk-22/Flang-Multi-Stage-Compilation-Pipeline-Tracer): traces Fortran source constructs through every stage of Flang's unique multi-level compilation pipeline — Parse Tree, Semantics, FIR, HLFIR, LLVM IR — producing an annotated cross-level view showing how each source construct is represented and transformed at every stage, by Siya P Kurandwad
+
 [flint](https://github.com/JonasToth/flint): Little linter for Fortran, with static analysis and formatting, by JonasToth
 
 [flint](https://github.com/marshallward/flint): aspires to be a Fortran parser, delinter, and analyser, by marshallward. For now, it is a Fortran tokenizer, with tools for parsing and automated documentation.
