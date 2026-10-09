@@ -730,6 +730,8 @@ and espadonne
 
 [prep](https://github.com/urbanjost/prep): Fortran pre-processor written in Fortran, by urbanjost
 
+[preserf](https://github.com/grAItools/preserf): Python preprocessor that expands !$SER directives in Fortran source into explicit serialization calls, by grAItools
+
 ### Profiling
 [Caliper](https://github.com/LLNL/Caliper): library to integrate performance profiling capabilities into applications, from LANL. To use Caliper, developers mark code regions of interest using Caliper's annotation API. Applications can then enable performance profiling at runtime with Caliper's configuration API.
 
