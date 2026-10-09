@@ -511,6 +511,9 @@ and espadonne
 
 [Fortran90Namelists.jl](https://github.com/singularitti/Fortran90Namelists.jl): Julia implementation of Python [f90nml](https://github.com/marshallward/f90nml) for working with Fortran namelists
 
+[Fortran-C-Cross-Language-Interface-Validator](https://github.com/ajayrm04/Fortran-C-Cross-Language-Interface-Validator): automatically detects ABI mismatches between Fortran BIND(C) interfaces and their corresponding C header declarations, by 
+ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but cause crashes, data corruption, or silent wrong results at runtime.
+
 [fortranc-rs](https://github.com/smoothdeveloper/fortranc-rs): library for Cargo build scripts to compile a set of Fortran/assembly files into a static archive for cargo (Rust) to link into the crate being built, by Gauthier Segay. This crate does not compile code itself; it calls out to the default compiler for the platform.
 
 [fortran-descriptor-parser](https://github.com/LukaOber/fortran-descriptor-parser): in Rust, parse bytes which are formatted according to a Fortran format edit descriptor, by LukaOber
