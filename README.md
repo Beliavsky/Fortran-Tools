@@ -266,6 +266,8 @@ and espadonne
 
 [Arm Fortran Compiler](https://developer.arm.com/Tools%20and%20Software/Arm%20Fortran%20Compiler): tailored for server, HPC, and scientific codes, with support for Fortran and OpenMP. The compiler is built on the open source Flang front-end, and the LLVM‑based optimization and code generation back-end. (C)
 
+[Col6Forge](https://github.com/Kilnexus/Col6Forge): modern Fortran frontend and compiler driver written in Zig, by NeoZedAtlas. It parses legacy and free-form Fortran, emits LLVM IR, and leverages zig cc for seamless cross-platform compilation.
+
 [f18-llvm-project](https://github.com/flang-compiler/f18-llvm-project): fork of llvm/llvm-project for f18. In sync with f18-mlir and f18.
 
 [flang](https://github.com/flang-compiler/flang): flang (also known as "Classic Flang") is an out-of-tree Fortran compiler targeting LLVM. It is an open-sourced version of pgfortran, a commercial Fortran compiler from PGI/NVIDIA
