@@ -952,6 +952,8 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 
 [CodeScribe](https://github.com/akashdhruv/CodeScribe): tool designed to facilitate incremental translation of Fortran codebases into C++ using generative AI, by Akash Dhruv and Anshu Dubey. It automates the process of generating corresponding C++ source files and creating Fortran-C interfaces, simplifying the integration of Fortran and C++. Also [llm-conversion-performance](https://github.com/akashdhruv/llm-conversion-performance), which has Fortran codes and C++ translations using LLMs.
 
+[f2c](https://github.com/abandoft/f2c): modern, high-performance Fortran-to-C17 transpiler designed to generate portable, production-grade C code, written in C17, by Mo Luo
+
 [f2c](https://github.com/juanjosegarciaripoll/f2c): convert Fortran 77 to C
 
 [F2C-Translator](https://github.com/bin123apple/F2C-Translator): translates Fortran to C++, by Bin Lei. Also [HPC-Code-translation-and-generation](https://github.com/bin123apple/HPC-Code-translation-and-generation): tests the translation and generation performance of Fortran HPC code using CodeXGLUE and ChatGPT, and 
