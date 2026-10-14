@@ -945,6 +945,8 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 
 [Yapakit](http://yapakit.fortran.pagesperso-orange.fr/): free Fortran source code editor for Windows, Linux or Mac. It can automatically an html documentation of a project and generate Fortran 90 dependencies for inclusion in a makefile, taking module dependencies into account
 
+[zfls](https://github.com/emanspeaks/zfls): Fortran language server written in Zig, by Randy Eckman. It is a native port of fortls, the Python Fortran language server, and speaks the same Language Server Protocol subset with the same command line options and configuration files.
+
 ### Translation from Fortran
 [CFortranTranslator](https://github.com/CalvinNeo/CFortranTranslator): translator from Fortran to C++ that provides statement-wise translation to improve readability, by Calvin Neo and Michael Tesch
 
