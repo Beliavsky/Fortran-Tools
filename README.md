@@ -1014,6 +1014,8 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 ### Translation to Fortran
 [c2f](https://github.com/Beliavsky/c2f): partial C to Fortran translator by David Frank
 
+[clotran](https://github.com/clotran/clotran): implementation of Clojure hosted on Fortran, with a compiler that translates supported Clojure functions and programs into standalone Fortran code, by James Borden. It supports interoperability with existing Fortran libraries, including direct access to Fortran arrays and automatic generation of interfaces.
+
 [Cpp-to-Fortran](https://github.com/Beliavsky/Cpp-to-Fortran): experimental source-to-source transpiler project developed using Codex and Claude for practical scientific subsets of C and C++, by Beliavsky. The C and C++ frontends emit readable free-form Fortran and share runtime modules and Fortran-oriented post-processing passes.
 
 [FortScriptTranspiler](https://github.com/ianfr/FortScriptTranspiler): transpiler from FortScript (a Python-like numerical computing language) to modern parallel Fortran, written in OCaml using Menhir and ocamllex, by Ian Friedrichs
