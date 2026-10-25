@@ -400,7 +400,7 @@ and espadonne
 
 [FORTRAN77_to_Fortran90](https://github.com/Koushikphy/FORTRAN77_to_Fortran90): convert old fixed source FORTRAN 77 code to free form Fortran 90 code, by Koushikphy
 
-[fortran-legacy-tools](https://github.com/ylikx/fortran-legacy-tools): tools to deal with Fortran code: fixed to free source form converter, upper- to lowercase converter, formatter for variable declarations, by ylikx
+[fortran-legacy-tools](https://github.com/ylikx/fortran-legacy-tools): tools to deal with Fortran code: fixed to free source form converter, upper- to lowercase converter, formatter for variable declarations, by ylikx. A [fork by JorgeG94](https://github.com/JorgeG94/fortran-legacy-tools) improves handling of continuations, character and Hollerith literals, and OpenMP directives, and adds utilities to normalize spacing in fixed-form code and replace Hollerith FORMAT descriptors with character literals.
 
 [fortran_tools](https://github.com/arktools/fortran_tools): Python 2 script by James Goppert and Lenna Peterson
 
