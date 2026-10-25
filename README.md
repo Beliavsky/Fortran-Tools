@@ -425,6 +425,8 @@ and espadonne
 
 [gtk-fortran](https://github.com/vmagnin/gtk-fortran): cross-platform library to build Graphical User Interfaces (GUI), by Vincent Magnin et al. Gtk-fortran is a partial GTK / Fortran binding written in Fortran, thanks to the ISO_C_BINDING module for interoperability between C and Fortran.
 
+[qt-fortran](https://github.com/jacobwilliams/qt-fortran): interface to Qt 6 that can build desktop GUI applications (windows, widgets, menus, dialogs and custom painting) entirely in Fortran, by Jacob Williams
+
 [Simdem](https://simfit.uk/simdem.html): [Simfit](https://simfit.uk/) package of open source codes, documentation and executables for demonstration programs designed to show programmers using NAGfor, Salford/Silverfrost FTN95, or other compilers, how to port Fortran programs into MS Windows
 
 [tiny file dialogs](https://sourceforge.net/projects/tinyfiledialogs/): offers many modal and file dialogs in C and provides the iso_c_binding interface / module to call these functions from Fortran, by Guillaume Vareille
