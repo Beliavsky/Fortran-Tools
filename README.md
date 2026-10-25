@@ -440,6 +440,9 @@ and espadonne
 
 [ffmt](https://github.com/sbryngelson/ffmt): fast, configurable formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives, written in Rust, by Spencer Bryngelson
 
+[fformat](https://github.com/jacobwilliams/fformat): formatter for free-form Fortran written in Fortran, by Jacob Williams.
+It re-indents code (statements by nesting depth, continuation lines by alignment with brackets, assignments, only: and ::, comment lines like the code around them), adjusts the blanks around operators, splits code lines that are too long, and can change the letter case of keywords and operators and the spelling of relational operators.
+
 [findent](https://github.com/MFTabriz/findent): indents and beautifies Fortran source, fixed and free format, and converts Fortran fixed format to Fortran free format, by wvermin and MFTabriz. [Findent-pypi](https://github.com/gnikit/findent-pypi), by gnikit, has PyPi wheels. [findent-pre-commit](https://github.com/zmoon/findent-pre-commit) by Zachary Moon enables findent as a pre-commit hook.
 
 [flower](https://github.com/urbanjost/flower): converts free-format Fortran code to all lowercase or all uppercase, by urbanjost. In each case comments and quoted text are left as-is.
