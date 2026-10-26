@@ -225,6 +225,8 @@
 
 [fArgParse](https://github.com/Goddard-Fortran-Ecosystem/fArgParse): command line argument parsing for Fortran, part of the [Goddard Fortran Ecosystem](https://github.com/Goddard-Fortran-Ecosystem)
 
+[fclap](https://github.com/chselz/fclap): modular command-line argument parser inspired by Python's argparse usage style and partly by Rust's clap regarding features, by Christian Selzer and Lukas Wittmann. It provides typed values, generated help, structured non-terminating errors, groups, validators, parent parsers, and nested subcommands.
+
 [FLAP](https://github.com/szaghi/FLAP): library designed to simplify the (repetitive) construction of complicated CLI in Fortran 2003, by Stefano Zaghi. FLAP has been inspired by the python module argparse and tries to mimic it.
 
 [FTN_Getopt](https://doku.lrz.de/dyn/Doku_Kurse/Fortran/getopt/): supplies a method for handling command arguments in a manner similar to the getopt facility in C, by Reinhold Bader 
