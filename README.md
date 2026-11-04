@@ -330,6 +330,8 @@ and espadonne
 
 [playground](https://github.com/fortran-lang/playground): interactive Fortran playground in the browser, by Ashirwad Mishra et al. Its main purpose is for newcomers to easily get a taste for the language and learn the essentials of Fortran programming.
 
+[rfortran](https://github.com/beliavsky/rfortran): compiler and interpreter in Rust, using Cranelift, supporting parts of Fortran 2023, by Beliavsky and SirPigari
+
 [ROSE](https://github.com/rose-compiler/rose): compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications
 
 [setup-fortran](https://github.com/fortran-lang/setup-fortran): GitHub action to set up Fortran compiler and toolchain on Ubuntu, macOS and Windows, from fortran-lang. Available compilers are gfortran, ifx, ifort, lfortran, and nvfortran.
