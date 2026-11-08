@@ -286,6 +286,8 @@ and espadonne
 
 [Fortran kernel for Jupyter with Coarray support](https://github.com/sourceryinstitute/jupyter-CAF-kernel): from sourceryinstitute
 
+[Fortran Playground](https://beliavsky.github.io/fortran-playground/): site to compile code with gfortran, ifx, LLVM Flang, LFortran, or ofort and run online, by Beliavsky. The associated [FPM Package Playground](https://beliavsky.github.io/fortran-playground/fpm/) runs package precompiled with gfortran with a provided driver program.
+
 [fortran-setup](https://github.com/ipqa-research/fortran-setup): script to set up a system to use Fortran on an Ubuntu-based system, by Federico E. Benelli. It installs a Python package manager for some Python-based tools, gfortran, optionally Intel oneAPI HPC, BLAS and LAPACK, gdb, fuzzy-finder ([fzf](https://github.com/junegunn/fzf)), Fortran Package Manager ([fpm](https://github.com/fortran-lang/fpm)), [findent](https://github.com/MFTabriz/findent), flinter, [FORD](https://github.com/Fortran-FOSS-Programmers/ford), [fortls](https://github.com/fortran-lang/fortls), and fortran_project, a script to generate and open projects.
 
 [fortran.rs](https://github.com/Xavier2p/fortran.rs): interpreter for Fortran, written in Rust, by Xavier2p, Development in progress
