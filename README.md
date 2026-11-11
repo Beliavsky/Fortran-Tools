@@ -823,6 +823,8 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 
 [fortitude](https://github.com/PlasmaFAIR/fortitude): Fortran linter and formatter, written in Rust, from PlasmaFAIR. A pre-commit hook is [here](https://github.com/PlasmaFAIR/fortitude-pre-commit).
 
+[Fortran Analyzer](https://github.com/markusroellig/fortran-analyzer): comprehensive tool in Python for analyzing Fortran source code to identify variable sources, assignments, and cross-references with global variables, by Markus Röllig. It features whole-codebase scanning, procedure-level analysis, variable scope classification, assignment pattern detection, and cross-reference analysis.
+
 [FortranAS](https://github.com/akoerner/FortranAS): [Antlr4](https://github.com/antlr/antlr4)-powered FORTRAN parsing and code clone detection tool. FortranAS leverages grammars-v4 to generate parsers and lexers and supports any FORTRAN version with available corresponding grammars.
 
 [fortran_ast_asr_json_visualizer](https://github.com/ubaidsk/fortran_ast_asr_json_visualizer): interactive web-based visualization tool for Fortran Abstract Syntax Tree and Abstract Semantic Representation, using LFortran, by Ubaid Shaikh
