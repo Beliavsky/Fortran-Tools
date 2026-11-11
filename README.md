@@ -1073,6 +1073,8 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 
 [fortran-sigwatch](https://github.com/scivision/fortran-sigwatch): library of routines to provide simple signal watching for Fortran programs, originally by Norman Gray, modified by Michael Hirsch. This allows a minimal level of control of a running program from outside it, for example to tell it to checkpoint itself on receipt of a signal.
 
+[Fortran Standards RAG Server](https://gitlab.com/everythingfunctional/fortran-rag): retrieval-augmented generation (RAG) system for comparing revisions of the Fortran Standard, built on ChromaDB and the Model Context Protocol (MCP), by Brad Richardson
+
 [Fortran-Standard-Search](https://github.com/vmagnin/Fortran-Standard-Search): shell script searching a string in the titles of the subsection of the Fortran standard, and opening the pages in a PDF viewer, by Vincent Magnin. It is based on pdfgrep, cut and okular.
 
 [irep](https://github.com/LLNL/irep): tool for filling C/C++ or Fortran data structures from Lua input tables, from LLNL
