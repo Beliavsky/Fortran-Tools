@@ -581,6 +581,8 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 
 [libfde](https://github.com/Zorkator/libfde): Fortran Development Extensions (library), by Zorkator
 
+[mlx-fortran](https://github.com/hael/mlx-fortran): interface to [MLX](https://github.com/ml-explore/mlx), Apple's array framework for the unified CPU/GPU memory of Apple silicon, built on MLX's C API [mlx-c](https://github.com/ml-explore/mlx-c), by Hans Elmlund
+
 [M_process](https://github.com/urbanjost/M_process): read and write lines to or from a process from Fortran via a C wrapper, by urbanjost
 
 [M_system](https://github.com/urbanjost/M_system): module that allows Fortran to call commonly available C routines that perform basic system operations like creating and deleting files and directories, changing and querying file permits, getting basic ID and process information, ... and other POSIX system requests, by urbanjost
