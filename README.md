@@ -190,6 +190,8 @@
 ### Code Generation
 [ChatGPT](https://openai.com/blog/chatgpt): generates Fortran code from a problem description in English or another natural language and translates code from other programming languages to Fortran, sometimes with errors. The [RunGPT](https://chrome.google.com/webstore/detail/rungpt-execute-chatgpt-co/ddfiefcjflpdpanadjmgpogkfnjaifod) Chrome extension allows code to be compiled with gfortran and run within the ChatGPT web interface. Other LLMs that can generate Fortran code are [Grok](https://grok.com/), [DeepSeek](https://chat.deepseek.com/), [Perplexity](https://www.perplexity.ai/), [Groq](https://groq.com/), [Claude](https://claude.ai/chats), [Mistral](https://chat.mistral.ai/chat), [Vertex AI with Gemini](https://cloud.google.com/vertex-ai) from Google, [Llama 3 on Meta AI](https://www.meta.ai/), and [GitHub Copilot](https://github.com/features/copilot).
 
+[fortbench](https://github.com/lazy-fortran/fortbench): reproducible benchmark for real Fortran coding work, by Christopher Albert. It checks whether an agent can repair twenty frozen issues from public Fortran projects, using deterministic build and acceptance commands rather than subjective pass labels.
+
 [Fortran-HumanEval](https://github.com/GiuLeo01/Fortran-HumanEval): adaptation of the [HumanEval](https://github.com/GiuLeo01/Fortran-HumanEval) benchmark for evaluating Large Language Models on Fortran code generation tasks, by GiuLeo01
 
 [fortran-transpiler](https://github.com/specs-feup/fortran-transpiler): source-to-source compiler by João Bispo, based on the [LARA framework](https://github.com/specs-feup/lara-framework), inspired by [Clava](https://github.com/specs-feup/clava), a C/C++ source-to-source compiler
