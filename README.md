@@ -1000,6 +1000,8 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 
 [For2c](https://www.mpsinc.com/For2c.html): family of Microsoft Windows cross compiler programming tools that accepts many Fortran source code dialects and translates them to C, from Micro-Processor Services. (C)
 
+[fortran_cpp_converter_claude](https://github.com/melven/fortran_cpp_converter_claude): rule-based source-to-source translator in Python for module-based, object-oriented Fortran 2003 code, by Melven Roehrig-Zoellner. It produces a rough but compilable-as-far-as-possible C++ translation; everything it cannot translate is kept as commented Fortran with a TODO(f2cpp) marker for manual work.
+
 [Fortran-CPP-HPC-code-translation-dataset](https://github.com/bin123apple/OpenMP-Fortran-CPP-Translation): data set for the preprint [Creating a Dataset for High-Performance Computing Code Translation: A Bridge Between HPC Fortran and C++](https://arxiv.org/abs/2307.07686) (2023), by Bin Lei et al.
 
 [Fortran2Cpp](https://github.com/bin123apple/Fortran2Cpp): aims to create an accurate and comprehensive Fortran-to-C++ translation dataset for fine-tining LLMS such as ChatGPT-4, by Bin Lei and Chunhua Liao, discussed in the preprint [Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration](https://arxiv.org/abs/2412.19770) (2024)
