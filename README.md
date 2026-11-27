@@ -689,11 +689,13 @@ ajayrm04 and Vijesh Shetty. It catches bugs that compilers silently accept but c
 
 [Dislin_x_y_plot](https://github.com/andizuend/Dislin_x_y_plot): generates plots from within a Fortran program nearly as easily as with the provided [Dislin](https://www.dislin.de/) "quickplots", by Andi Zuend. However, unlike the quickplots, this module offers a lot more options for controlling the plot page, axis system and various curve properties. It also makes adding multiple x--y data sets (curves) to a single plot easy.
 
-[fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with gnuplot, by jchristopherson
-
 [fortplot](https://github.com/lazy-fortran/fortplot): native plotting inspired by Python's matplotlib.pyplot and [pyplot-fortran](https://github.com/jacobwilliams/pyplot-fortran), by Christopher Albert
 
 [fortplot](https://github.com/asarkar2/fortplot): plot module for Fortran so that plotting can be done in real time (on the fly), by Anjishnu Sarkar
+
+[fplot](https://github.com/jchristopherson/fplot): provides a convenient interface for plotting with gnuplot, by jchristopherson
+
+[fplotlib](https://github.com/fortran-lang/fplotlib): pure Fortran plotting library with a pylab-style API, writing SVG, PNG, PDF and EPS, by Ondřej Čertík and José Alves. No external graphics library: the PNG rasterizer and its fonts are part of fplotlib.
 
 [giza](https://github.com/danieljprice/giza): 2D scientific plotting library built on cairo, by Daniel Price et al. Provides uniform output to pdf, ps, png and X-Windows. Written in C with no dependencies (other than cairo) as a direct replacement for PGPLOT.
 
